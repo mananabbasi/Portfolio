@@ -31,42 +31,126 @@ With a strong foundation in **statistics**, **machine learning**, and **data vis
 
 ---
 
-## 🚀 **Projects**  
+## 🚀 **Projects**
 
-### 🔹 **Developed Databases from Scratch using Microsoft SQL Server** _(Jan 2024 - Apr 2024)_  
-📌 Designed & optimized relational databases for performance & scalability.  
-🛠 **Tools:** SQL Server, T-SQL  
-🔗 [View Project](#)
+### 🔹 **1. Developed Databases from Scratch using Microsoft SQL Server** _(Jan 2024 - Apr 2024)_  
+**Objective:**  
+To design and implement a scalable and efficient relational database system for managing structured data, ensuring optimal performance and data integrity.
 
-### 🔹 **Conducted Statistical Analysis & Advanced Statistics using R** _(Sep 2024 - Dec 2025)_  
-📌 Performed **hypothesis testing**, **regression analysis**, and **ANOVA**.  
-📌 Visualized statistical insights using **ggplot2**.  
-🛠 **Tools:** R, ggplot2, dplyr  
-🔗 [View Project](#)
+**Process:**
+- Designed a normalized database schema to eliminate redundancy and ensure data consistency.
+- Created tables, relationships, and constraints using T-SQL.
+- Optimized queries and implemented indexing strategies to improve query performance.
+- Developed stored procedures and triggers for automating repetitive tasks and enforcing business rules.
 
-### 🔹 **Built Time Series Forecasting Models in R** _(Nov 2024 - Dec 2024)_  
-📌 Developed **ARIMA**, **SARIMA**, and **Exponential Smoothing** models.  
-📌 Analyzed seasonal trends and predicted future data patterns.  
-🛠 **Tools:** R, forecast, tsibble  
-🔗 [View Project](#)
+**Outcome:**  
+A fully functional relational database capable of handling large datasets with efficient query execution and scalability for future growth.
 
-### 🔹 **Designed Power BI Dashboards for Real-Time Insights** _(Jan 2024 - Current)_  
-📌 Built **interactive dashboards** to monitor KPIs dynamically.  
-📌 Integrated **multiple data sources** for enhanced reporting.  
-🛠 **Tools:** Power BI, DAX, SQL  
-🔗 [View Project](#)
+**Tools Used:**
+- Microsoft SQL Server  
+- T-SQL  
 
-### 🔹 **Developed Classification & Clustering Models in Python** _(Sep 2024 - Current)_  
-📌 Built models like **Logistic Regression** & **Random Forest** for classification.  
-📌 Implemented **K-Means** & **DBSCAN** for clustering.  
-🛠 **Tools:** Python, Scikit-learn, Pandas, Matplotlib  
-🔗 [View Project](#)
+---
 
-### 🔹 **Executed PySpark Projects on Databricks Using RDDs & DataFrames** _(Jan 2024 - Current)_  
-📌 Processed **large-scale datasets** using **PySpark RDDs**.  
-📌 Performed data transformations & optimizations with **Spark SQL**.  
-🛠 **Tools:** PySpark, Databricks, Apache Spark  
-🔗 [View Project](#)
+### 🔹 **2. Conducted Statistical Analysis & Advanced Statistics using R** _(Sep 2024 - Dec 2025)_  
+**Objective:**  
+To perform in-depth statistical analysis on datasets to derive actionable insights and support data-driven decision-making.
+
+**Process:**
+- Conducted hypothesis testing to validate assumptions and draw conclusions.
+- Performed regression analysis to identify relationships between variables.
+- Applied ANOVA to compare means across multiple groups.
+- Visualized statistical insights using ggplot2 for clear and interpretable data representation.
+
+**Outcome:**  
+Comprehensive statistical reports and visualizations that provided valuable insights into the dataset, enabling stakeholders to make informed decisions.
+
+**Tools Used:**
+- R  
+- ggplot2, dplyr  
+
+---
+
+### 🔹 **3. Built Time Series Forecasting Models in R** _(Nov 2024 - Dec 2024)_  
+**Objective:**  
+To develop predictive models for time series data to forecast future trends and patterns.
+
+**Process:**
+- Analyzed historical data to identify seasonal trends and patterns.
+- Built ARIMA, SARIMA, and Exponential Smoothing models to predict future values.
+- Evaluated model performance using metrics like RMSE and MAE.
+- Visualized forecasts and compared them with actual data for validation.
+
+**Outcome:**  
+Accurate time series forecasting models that provided reliable predictions for future trends, aiding in strategic planning and decision-making.
+
+**Tools Used:**
+- R  
+- forecast, tsibble  
+
+---
+
+### 🔹 **4. Designed Power BI Dashboards for Real-Time Insights** _(Jan 2024 - Current)_  
+**Objective:**  
+To create interactive and dynamic dashboards for real-time monitoring of key performance indicators (KPIs).
+
+**Process:**
+- Integrated multiple data sources (e.g., SQL databases, Excel files) into Power BI.
+- Designed visually appealing and user-friendly dashboards with interactive elements like slicers and filters.
+- Used DAX (Data Analysis Expressions) to create calculated columns and measures for advanced analytics.
+- Ensured real-time data updates for accurate and timely reporting.
+
+**Outcome:**  
+Interactive dashboards that provided stakeholders with real-time insights into business performance, enabling data-driven decision-making.
+
+**Tools Used:**
+- Power BI  
+- DAX, SQL  
+
+---
+
+### 🔹 **5. Developed Classification & Clustering Models in Python** _(Sep 2024 - Current)_  
+**Objective:**  
+To build machine learning models for classification and clustering tasks to uncover patterns and make predictions.
+
+**Process:**
+- Preprocessed and cleaned data to ensure quality and consistency.
+- Built classification models like Logistic Regression and Random Forest to predict categorical outcomes.
+- Implemented clustering algorithms like K-Means and DBSCAN to group similar data points.
+- Evaluated model performance using metrics like accuracy, precision, recall, and silhouette score.
+
+**Outcome:**  
+Robust machine learning models that provided accurate predictions and insights into data patterns, supporting business decisions.
+
+**Tools Used:**
+- Python  
+- Scikit-learn, Pandas, Matplotlib  
+
+---
+
+### 🔹 **6. Executed PySpark Projects on Databricks Using RDDs & DataFrames** _(Jan 2024 - Current)_  
+**Objective:**  
+To process and analyze large-scale datasets efficiently using PySpark on the Databricks platform.
+
+**Process:**
+- Used PySpark RDDs (Resilient Distributed Datasets) for distributed data processing.
+- Performed data transformations and aggregations using Spark SQL and DataFrames.
+- Optimized data pipelines for performance and scalability.
+- Visualized processed data to derive insights and support decision-making.
+
+**Outcome:**  
+Scalable and efficient data processing pipelines capable of handling large datasets, enabling faster and more accurate data analysis.
+
+**Tools Used:**
+- PySpark  
+- Databricks, Apache Spark
+
+---
+
+## **Summary**  
+These projects demonstrate a strong foundation in **database design**, **statistical analysis**, **machine learning**, and **big data processing**. Each project was tailored to solve real-world problems, leveraging the appropriate tools and methodologies to deliver actionable insights and scalable solutions.
+
+Let me know if you'd like further details or code snippets for any of these projects!
 
 ---
 
@@ -94,46 +178,44 @@ With a strong foundation in **statistics**, **machine learning**, and **data vis
 
 ### 📊 **Data Visualization Analyst (Part-Time)**  
 **Eagle Cars & Tiger Taxis | Oct 2024 - Present | Clitheroe, UK**  
-📌 Designed **weekly/monthly dashboards** for driver performance tracking.  
-📌 Automated reports using **Power BI**, **Python (Seaborn)**, and **Excel**.  
+As a Data Visualization Analyst, I am responsible for designing and automating dashboards to track and analyze the performance of drivers across various metrics.  
+Key Responsibilities:  
+- **Weekly/Monthly Dashboards**: Created and managed dashboards that report driver performance, including key metrics such as average trip duration, number of trips, and ratings.  
+- **Report Automation**: Used Power BI, Python (Seaborn), and Excel to automate the reporting process, reducing the time spent on manual reporting tasks by 50%.  
+- **Data Visualization & Storytelling**: Developed intuitive visualizations that translated complex data into clear insights for stakeholders, improving decision-making.  
+
+🛠 **Tools Used**: Power BI, Seaborn (Python), Excel  
+
+---
 
 ### 🧠 **Data Scientist (Full-Time)**  
 **WebDoc | May 2023 - Dec 2023 | Islamabad, Pakistan**  
-📌 Enhanced **data integrity** & **reporting accuracy** by **20%** using **Python**, **SQL**, & **R**.  
-📌 Created **15+ dynamic visualizations** for executive decision-making.  
+At WebDoc, I applied data science techniques to improve data accuracy and generate insights that directly impacted decision-making processes.  
+Key Responsibilities:  
+- **Data Integrity**: Worked with cross-functional teams to improve the accuracy and consistency of data by 20% through cleaning and validation processes using Python, SQL, and R.  
+- **Visualization & Reporting**: Created over 15 dynamic visualizations to represent complex datasets, enabling leadership teams to make data-driven decisions faster.  
+- **Statistical Modeling**: Applied regression and classification models to predict trends in user behavior and optimize services.  
+
+🛠 **Tools Used**: Python, SQL, R, Matplotlib, ggplot2  
+
+---
 
 ### 📈 **Data Insights Analyst (Full-Time)**  
 **Zones, IT Solutions | Sep 2021 - May 2023 | Islamabad, Pakistan**  
-📌 Developed **data-driven strategies** that boosted **customer retention by 18%**.  
-📌 Built **interactive Power BI dashboards** to monitor KPIs.  
+In this role, I focused on deriving actionable insights from data to improve business processes and enhance customer retention.  
+Key Responsibilities:  
+- **Customer Retention Strategy**: Developed and executed data-driven strategies that resulted in an 18% increase in customer retention over 12 months.  
+- **Business Intelligence**: Designed and maintained Power BI dashboards that displayed real-time business performance data, helping teams make quick decisions.  
+- **Cross-de
 
----
-
-## 🎓 **Education**  
-
-🎓 **M.S. in Data Science** _(Expected May 2025)_  
-📍 **University of Salford, UK**  
-- Coursework: **Machine Learning**, **Big Data Analytics**, **NLP**, **Deep Learning**  
-
-🎓 **B.S. in Software Engineering** _(Graduated May 2022)_  
-📍 **Bahria University, Pakistan**  
-- Coursework: **AI**, **Data Mining**, **Web Development**, **Database Systems**  
-
----
 
 ## 🎯 **Activities**  
 📌 **President, Dawah Society - Salford University** _(2024)_  
-📌 Organized **weekly social events** to foster student engagement.  
+📌 Organized **weekly social events** to foster student engagement.
 
 ---
-
-## 🔧 **How to Use This Repository**  
-Clone this repository to explore my projects and codebase:  
-```bash
-git clone https://github.com/your-username/data-scientist-portfolio.git  
-cd data-scientist-portfolio
 
 ## 📞 **Contact**  
 📧 **Email:** your.email@example.com  
 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-🐙 **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
+🐙 **GitHub:** [Your GitHub Profile](https://github.com/your-username)

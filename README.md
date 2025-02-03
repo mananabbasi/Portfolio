@@ -1,129 +1,138 @@
-# Data Scientist Portfolio
+# 🎯 Data Scientist Portfolio  
 
-Welcome to my Data Scientist Portfolio repository! This repository showcases my projects, skills, and experience in the field of data science. Here, you'll find a collection of my work, including data analysis, machine learning models, data visualizations, and more. Each project demonstrates my ability to extract insights from data, build predictive models, and communicate findings effectively.
-
----
-
-## Table of Contents
-1. [About Me](#about-me)
-2. [Projects](#projects)
-3. [Skills](#skills)
-4. [Tools and Technologies](#tools-and-technologies)
-5. [How to Use This Repository](#how-to-use-this-repository)
-6. [Contact](#contact)
+Welcome to my **Data Scientist Portfolio** repository! 🚀  
+This is a curated collection of my work, demonstrating my expertise in **data analysis, machine learning, and visualization**.  
+Each project reflects my ability to extract meaningful insights, develop predictive models, and present data-driven solutions effectively.  
 
 ---
 
-## About Me
-I am a passionate and results-driven data scientist with a strong background in statistics, machine learning, and data analysis. I enjoy solving complex problems by leveraging data-driven approaches and creating actionable insights. My expertise includes data wrangling, exploratory data analysis (EDA), predictive modeling, and deploying machine learning solutions.
-
----
-## Projects
-
-Below is a list of my data science projects, developed using real-world datasets. Each project demonstrates my ability to solve complex problems, analyze data, and deliver actionable insights.
-
-1. *Developed Databases from Scratch using Microsoft SQL Server*  
-   Jan 2024 - April 2024  
-   - Designed and implemented relational databases from scratch.  
-   - Optimized queries for performance and scalability.  
-   - Tools: Microsoft SQL Server, T-SQL.  
-   - [View Project](#) (add link to project repository or documentation)  
-
-2. *Conducted Statistical Analysis and Applied Advanced Statistics using R*  
-   Sep 2024 - Dec 2025  
-   - Performed hypothesis testing, regression analysis, and ANOVA.  
-   - Visualized statistical insights using ggplot2 and other R libraries.  
-   - Tools: R, ggplot2, dplyr.  
-   - [View Project](#) (add link to project repository or documentation)  
-
-3. *Designed and Implemented Advanced Time Series Models in R*  
-   Nov 2024 - Dec 2024  
-   - Built ARIMA, SARIMA, and Exponential Smoothing models for forecasting.  
-   - Analyzed seasonal trends and provided actionable insights.  
-   - Tools: R, forecast, tsibble.  
-   - [View Project](#) (add link to project repository or documentation)  
-
-4. *Developed Dynamic Power BI Dashboards Delivering Real-Time Insights*  
-   Jan 2024 - Current  
-   - Created interactive dashboards for real-time data visualization.  
-   - Integrated multiple data sources for comprehensive reporting.  
-   - Tools: Power BI, DAX, SQL.  
-   - [View Project](#) (add link to project repository or documentation)  
-
-5. *Built Advanced Classification and Clustering Models Using Python*  
-   Sep 2024 - Current  
-   - Developed classification models (e.g., Logistic Regression, Random Forest) for predictive analytics.  
-   - Implemented clustering algorithms (e.g., K-Means, DBSCAN) for customer segmentation.  
-   - Tools: Python, Scikit-learn, Pandas, Matplotlib.  
-   - [View Project](#) (add link to project repository or documentation)  
-
-6. *Executed PySpark Projects on Databricks Using RDDs, DataFrames, and SQL*  
-   Jan 2024 - Current  
-   - Processed large-scale datasets using PySpark RDDs and DataFrames.  
-   - Performed data transformations and aggregations using Spark SQL.  
-   - Tools: PySpark, Databricks, Apache Spark.  
-   - [View Project](#) (add link to project repository or documentation)  
-
-7. *Built Sentiment Analysis and Text Classification Models in Python*  
-   Sep 2024 - Jan 2025  
-   - Developed NLP models for sentiment analysis and text classification.  
-   - Utilized libraries like NLTK, SpaCy, and TensorFlow for model training.  
-   - Tools: Python, NLTK, TensorFlow, Flask.  
-   - [View Project](#) (add link to project repository or documentation)  
-
-8. *Evaluated ML Classification Models Using Azure ML Designer*  
-   Nov 2024 - Dec 2024  
-   - Built and evaluated machine learning models using Azure ML Designer.  
-   - Compared model performance metrics (e.g., accuracy, precision, recall).  
-   - Tools: Azure ML Designer, Python.  
-   - [View Project](#) (add link to project repository or documentation)  
-
-9. *Built MLlib Recommender System to Boost User Engagement*  
-   Sep 2024 - Current  
-   - Developed a collaborative filtering-based recommender system using MLlib.  
-   - Improved user engagement by providing personalized recommendations.  
-   - Tools: PySpark, MLlib, Databricks.  
-   - [View Project](#) (add link to project repository or documentation)  
+## 📌 Table of Contents  
+- [About Me](#about-me)  
+- [Projects](#projects)  
+- [Skills](#skills)  
+- [Tools & Technologies](#tools--technologies)  
+- [Work Experience](#work-experience)  
+- [Education](#education)  
+- [Activities](#activities)  
+- [How to Use This Repository](#how-to-use-this-repository)  
+- [Contact](#contact)  
 
 ---
 
-## Skills
-- *Programming Languages*: Python, R, SQL.
-- *Machine Learning*: Regression, Classification, Clustering, Deep Learning.
-- *Data Analysis*: Exploratory Data Analysis (EDA), Statistical Analysis, A/B Testing.
-- *Data Visualization*: Matplotlib, Seaborn, Plotly, Tableau, Power BI.
-- *Big Data Tools*: Hadoop, Spark.
-- *Deployment*: Flask, Docker, Heroku.
-- *Version Control*: Git, GitHub.
+## 👨‍💻 About Me  
+I am a **data scientist** with a passion for solving complex problems using data-driven approaches.  
+With a strong foundation in **statistics, machine learning, and data visualization**, I specialize in transforming raw data into actionable insights.  
+
+### 📊 Key Expertise:  
+✅ Data Wrangling & Cleaning  
+✅ Exploratory Data Analysis (EDA)  
+✅ Machine Learning & Predictive Modeling  
+✅ Statistical Analysis & Hypothesis Testing  
+✅ Data Visualization & Storytelling  
 
 ---
 
-## Tools and Technologies
-- *Programming*: Python, R, SQL.
-- *Libraries/Frameworks*: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch.
-- *Visualization*: Matplotlib, Seaborn, Plotly, Tableau, Power BI.
-- *Database Management*: MySQL, PostgreSQL, MongoDB.
-- *Cloud Platforms*: AWS, Google Cloud Platform (GCP), Microsoft Azure.
-- *Other Tools*: Jupyter Notebook, VS Code, Docker, Git.
+## 🚀 Projects  
+
+### 🔹 Developed Databases from Scratch using Microsoft SQL Server _(Jan 2024 - Apr 2024)_  
+📌 Designed & optimized relational databases for performance & scalability.  
+🛠 **Tools:** SQL Server, T-SQL  
+🔗 [View Project](#)  
+
+### 🔹 Conducted Statistical Analysis & Advanced Statistics using R _(Sep 2024 - Dec 2025)_  
+📌 Performed **hypothesis testing, regression analysis, and ANOVA**.  
+📌 Visualized statistical insights using **ggplot2**.  
+🛠 **Tools:** R, ggplot2, dplyr  
+🔗 [View Project](#)  
+
+### 🔹 Built Time Series Forecasting Models in R _(Nov 2024 - Dec 2024)_  
+📌 Developed **ARIMA, SARIMA, and Exponential Smoothing** models.  
+📌 Analyzed seasonal trends and predicted future data patterns.  
+🛠 **Tools:** R, forecast, tsibble  
+🔗 [View Project](#)  
+
+### 🔹 Designed Power BI Dashboards for Real-Time Insights _(Jan 2024 - Current)_  
+📌 Built **interactive dashboards** to monitor KPIs dynamically.  
+📌 Integrated **multiple data sources** for enhanced reporting.  
+🛠 **Tools:** Power BI, DAX, SQL  
+🔗 [View Project](#)  
+
+### 🔹 Developed Classification & Clustering Models in Python _(Sep 2024 - Current)_  
+📌 Built models like **Logistic Regression & Random Forest** for classification.  
+📌 Implemented **K-Means & DBSCAN** for clustering.  
+🛠 **Tools:** Python, Scikit-learn, Pandas, Matplotlib  
+🔗 [View Project](#)  
+
+### 🔹 Executed PySpark Projects on Databricks Using RDDs & DataFrames _(Jan 2024 - Current)_  
+📌 Processed **large-scale datasets** using **PySpark RDDs**.  
+📌 Performed data transformations & optimizations with **Spark SQL**.  
+🛠 **Tools:** PySpark, Databricks, Apache Spark  
+🔗 [View Project](#)  
 
 ---
 
-## Education
-- *M.S., Data Science*  
-  The University of Salford, United Kingdom  
-  Expected Graduation: May 2025  
-  - Relevant Coursework: Machine Learning, Big Data Analytics, Statistical Modeling, Data Visualization, Deep Learning, Natural Language Processing (NLP).  
-  - Thesis/Project: [Brief description of your thesis or capstone project, if applicable].  
+## 🛠 Skills  
 
-- *B.S., Software Engineering*  
-  Bahria University, Pakistan  
-  Graduated: May 2022  
-  - Relevant Coursework: Data Structures & Algorithms, Database Systems, Software Development, Artificial Intelligence, Data Mining, Web Development.  
-  - Final Year Project: [Brief description of your final year project, if applicable].  
+✅ **Programming:** Python, R, SQL  
+✅ **Machine Learning:** Regression, Classification, Clustering, Deep Learning  
+✅ **Data Analysis:** EDA, A/B Testing, Hypothesis Testing  
+✅ **Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
+✅ **Big Data & Cloud:** Spark, Hadoop, AWS, Azure, GCP  
+✅ **Deployment & Version Control:** Flask, Docker, Git  
 
 ---
 
-## How to Use This Repository
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/data-scientist-portfolio.git
+## ⚙ Tools & Technologies  
+
+💡 **Programming:** Python, R, SQL  
+💡 **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+💡 **Databases:** MySQL, PostgreSQL, MongoDB  
+💡 **Cloud Platforms:** AWS, Azure, GCP  
+💡 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+💡 **Development Tools:** Jupyter Notebook, VS Code, Docker, Git  
+
+---
+
+## 💼 Work Experience  
+
+### 📊 Data Visualization Analyst _(Part-Time)_  
+**Eagle Cars & Tiger Taxis | Oct 2024 - Present | Clitheroe, UK**  
+📌 Designed **weekly/monthly dashboards** for driver performance tracking.  
+📌 Automated reports using **Power BI, Python (Seaborn), and Excel**.  
+
+### 🧠 Data Scientist _(Full-Time)_  
+**WebDoc | May 2023 - Dec 2023 | Islamabad, Pakistan**  
+📌 Enhanced **data integrity & reporting accuracy** by **20%** using Python, SQL & R.  
+📌 Created **15+ dynamic visualizations** for executive decision-making.  
+
+### 📈 Data Insights Analyst _(Full-Time)_  
+**Zones, IT Solutions | Sep 2021 - May 2023 | Islamabad, Pakistan**  
+📌 Developed **data-driven strategies** that increased **customer retention by 18%**.  
+📌 Built **interactive Power BI dashboards** to monitor business KPIs.  
+
+---
+
+## 🎓 Education  
+
+🎓 **M.S. in Data Science** _(Expected May 2025)_  
+📍 **University of Salford, UK**  
+📌 Coursework: **Machine Learning, Big Data Analytics, NLP, Deep Learning**  
+
+🎓 **B.S. in Software Engineering** _(Graduated May 2022)_  
+📍 **Bahria University, Pakistan**  
+📌 Coursework: **AI, Data Mining, Web Development, Database Systems**  
+
+---
+
+## 🎯 Activities  
+📌 **President, Dawah Society - Salford University** _(2024)_  
+📌 Organized **weekly social events** to promote student engagement.  
+
+---
+
+## 🔧 How to Use This Repository  
+
+Clone this repository to explore my projects and codebase:  
+```bash
+git clone https://github.com/your-username/data-scientist-portfolio.git
+cd data-scientist-portfolio

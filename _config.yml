@@ -1,52 +1,5 @@
 title: Abdul Manan Abbasi
-logo: /assets/img/headshot_circle.png  # Add your profile picture or logo
+#logo: /assets/img/headshot_circle.png  # Add your profile picture or logo
 description: Data Scientist | Machine Learning Engineer | Problem Solver
-show_downloads: true  # Enable download buttons for resume or portfolio
+#show_downloads: true  # Enable download buttons for resume or portfolio
 theme: jekyll-theme-minimal
-
-# Customize navigation links
-navbar:
-  links:
-    - name: About
-      url: /about
-    - name: Projects
-      url: /projects
-    - name: Blog
-      url: /blog
-    - name: Contact
-      url: /contact
-
-# Add social media links
-social_links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/your-profile
-    icon: linkedin  # Use Font Awesome icons if supported
-  - name: GitHub
-    url: https://github.com/your-username
-    icon: github
-  - name: Email
-    url: mailto:your.email@example.com
-    icon: envelope
-
-# Custom footer
-footer:
-  message: "© 2024 Abdul Manan Abbasi. All rights reserved."
-  links:
-    - name: Privacy Policy
-      url: /privacy
-    - name: Terms of Use
-      url: /terms
-
-# Enable plugins for additional functionality
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Exclude unnecessary files from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE
-  - .gitignore
-  - .github

@@ -61,8 +61,19 @@ To design and implement a scalable relational database system capable of efficie
 - **Microsoft SQL Server**  
 - **T-SQL**
 
+Below are some screenshots from my database, including ER Diagrams, Views, Triggers, and Stored Procedures:
+
+### Database Diagram
 ![Database Diagram](assets/Data_Base_Diagram.png)
----
+
+### Total Appointments
+![Appointments](assets/Appointsments.png)
+
+### Returning Today's Appointments
+![Returning Today's Appointments](assets/Returing_Todays_Apointsments.png)
+
+### Updating Doctor Table
+![Doctor Update](assets/Doctor_Update.png)
 
 ### 🔹 **2. Conducted Statistical Analysis & Advanced Statistics using R**  
 **Duration:** Sep 2024 - Dec 2025

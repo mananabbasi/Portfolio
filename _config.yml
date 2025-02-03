@@ -1,8 +1,18 @@
+# Site Settings
 title: Abdul Manan Abbasi
 logo: /assets/img/headshot_circle.png  # Add your profile picture or logo
 description: Data Scientist | Machine Learning Engineer | Problem Solver
-show_downloads: true  # Enable download buttons for resume or portfolio
+baseurl: ""  # Leave empty if hosting at the root of your domain
+url: "https://yourwebsite.com"  # Replace with your actual website URL
+
+# Theme and Design
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Enable download buttons for resume or portfolio
+show_downloads: true
 
 # Customize navigation links
 navbar:
@@ -37,16 +47,21 @@ footer:
     - name: Terms of Use
       url: /terms
 
-# Enable plugins for additional functionality
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# Optional: Add Google Analytics for tracking
+google_analytics: UA-XXXXX-X  # Replace with your Google Analytics ID
 
-# Exclude unnecessary files from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE
-  - .gitignore
-  - .github
+# Optional: Add a custom color scheme
+colors:
+  primary: "#2c3e50"  # Dark blue
+  secondary: "#3498db"  # Light blue
+  accent: "#e74c3c"  # Red
+
+# Optional: Add a blog configuration
+blog:
+  title: My Data Science Blog
+  description: Insights, tutorials, and updates on data science, machine learning, and AI.
+  paginate: 5
+  paginate_path: "/blog/page:num/"
+
+# Optional: Add a custom 404 page
+error_page: /404.html

@@ -60,7 +60,7 @@ To design and implement a scalable relational database system capable of efficie
 **Tools Used:**  
 - **Microsoft SQL Server**  
 - **T-SQL**
-
+![Database Design Logo](/assets/img/Logoresizer1.jpg)
 ---
 
 ### 🔹 **2. Conducted Statistical Analysis & Advanced Statistics using R**  

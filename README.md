@@ -61,7 +61,7 @@ To design and implement a scalable relational database system capable of efficie
 - **Microsoft SQL Server**  
 - **T-SQL**
 
-![Database Diagram](Data_Base_Diagram.png) 
+![Database Diagram](Data_Base_Diagram_resized.png)
 ---
 
 ### 🔹 **2. Conducted Statistical Analysis & Advanced Statistics using R**  

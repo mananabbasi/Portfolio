@@ -70,7 +70,7 @@ Below are some screenshots from my database, including ER Diagrams, Views, Trigg
 ![Appointments](assets/Appointsments.png)
 
 ### Returning Today's Appointments
-![Returning Today's Appointments](assets/Returing_Todays_Apointsments.png)
+![Returning Today's Appointments](assets/Returing_Todays Apointsments.png)
 
 ### Updating Doctor Table
 ![Doctor Update](assets/Doctor_Update.png)

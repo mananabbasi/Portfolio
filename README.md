@@ -134,7 +134,7 @@ To perform comprehensive statistical analysis on the dataset to uncover insights
    - Created a correlation matrix to identify relationships between variables.
 
 5. **Age Distribution**  
-   ![Age Distribution](assets/Distribution_of_Age.png)  
+   ![Age Distribution](assets/Distribtion_off_Age.png)  
    - Visualized the distribution of age-related variables.
 
 6. **Simple Linear Regression (SLR) Assumptions**  
@@ -148,6 +148,7 @@ To perform comprehensive statistical analysis on the dataset to uncover insights
 8. **Generalized Additive Model (GAM)**  
    ![GAM Model](assets/Gam_Model.png)  
    - Visualized GAM results to capture non-linear relationships.
+  
 ### 🔹 **3. Built Time Series Forecasting Models in R**  
 **Duration:** Nov 2024 - Dec 2024
 

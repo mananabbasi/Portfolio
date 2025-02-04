@@ -332,12 +332,6 @@ Developed machine learning models for customer segmentation using clustering tec
 6. **K-Means Clustering**  
    ![K-Means](assets/Kmeans-Clusters.png)
 
-
-
-
-
-
-
 ---
 
 ## **Actionable Recommendations**  
@@ -360,8 +354,80 @@ Developed machine learning models for customer segmentation using clustering tec
    - **High Usage, Low Credit Limit:** Consider raising credit limits to enhance satisfaction and spending.  
 
 ---
-### 🔹 **7. Executed PySpark Projects on Databricks Using RDDs & DataFrames**  
-**Duration:** Jan 2024 - Current
+### 🔹 **7. Sentiment Analysis and Text Classification on US McDonald's Reviews Dataset**  
+**Duration:** Sep 2024 - Present  
+
+**Objective:**  
+Developed ML models to analyze sentiment and classify customer reviews from McDonald's US stores.
+
+**Dataset:**  
+[US McDonald's Stores Reviews Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)  
+
+**Code:**  
+- [Sentiment Analysis and Text Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Sentimental_Analysis_and_Text_Classification_on_MacDonalds_Dataset.ipynb)
+
+**Process:**  
+
+**Data Preprocessing:**  
+- Cleaned dataset: handled missing values, removed duplicates, standardized text (lowercased, removed special characters).  
+- Tokenized and lemmatized text using **NLTK** and **TextBlob**.  
+- Encoded categorical variables and scaled numerical features using **Pandas** and **Scikit-learn**.  
+
+**Feature Engineering:**  
+- Extracted features: word frequencies, n-grams, sentiment scores (positive, negative, neutral) with **TextBlob** and **TF-IDF**.  
+- Applied **PCA** for dimensionality reduction.  
+
+**Model Development:**  
+- Built classification models (Logistic Regression, Random Forest, SVM) for sentiment classification (positive, negative, neutral).  
+- Implemented clustering models (K-Means, DBSCAN) to group reviews and identify themes.
+
+**Outcome:**  
+- Delivered effective sentiment analysis and text classification models, revealing customer sentiment and key review patterns.
+
+**Tools Used:**  
+- Python  
+- **Scikit-learn**  
+- **Pandas**  
+- **Matplotlib**  
+- **NLTK** (Natural Language Toolkit)  
+- **TextBlob** (for sentiment analysis)
+
+  
+## **Key Visualizations**  
+
+### **Overall Sentiments**  
+1. **Overall Sentiment Distribution**  
+   ![Overall Sentiment](assets/OVerallsentiment.png)  
+
+### **Positive Sentiments**  
+2. **Positive Reviews Analysis**  
+   ![Positive Reviews](assets/POsitivereviews.png)  
+3. **Most Common Positive Words**  
+   ![Positive Words](assets/Positivewordds.png)  
+
+### **Negative Sentiments**  
+4. **Most Common Negative Words**  
+   ![Negative Words](assets/Mostnegativeworlds.png)  
+5. **Negative Reviews Analysis**  
+   ![Negative Reviews](assets/NegativeReviewallover.png)  
+6. **Negative Word Cloud**  
+   ![Negative Word Cloud](assets/Nogativeword.png)  
+
+
+**Actionable Recommendations:**  
+
+**Text Classification Insights:**  
+- McDonald's can use a text classification model to gain a clearer understanding of customer sentiment and promptly address both positive and negative feedback.  
+- Review distribution: 48.1% of customers gave 4–5-star ratings, 37.5% gave 1–2-star ratings, and 14.4% gave 3-star ratings.
+
+**Sentiment Analysis Insights:**  
+- McDonald's stores in New York (114 Delancey St and 160 Broadway) are receiving the best feedback, while the Miami Beach store (1650 Washington Ave) is underperforming.  
+- Focus on improving food quality and service speed at the Miami Beach location to address its challenges and enhance customer satisfaction.
+
+
+
+### 🔹 **8. Classification Models on Azure ML Designer**  
+**Duration:** Sep 2024 - Present 
 
 **Objective:**  
 To process and analyze large-scale datasets efficiently using **PySpark** on the **Databricks** platform. The aim was to handle big data challenges and create scalable, optimized data pipelines.

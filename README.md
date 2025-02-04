@@ -148,28 +148,46 @@ To perform comprehensive statistical analysis on the dataset to uncover insights
 8. **Generalized Additive Model (GAM)**  
    ![GAM Model](assets/Gam_Model.png)  
    - Visualized GAM results to capture non-linear relationships.
+
   
 ### 🔹 **3. Built Time Series Forecasting Models in R**  
-**Duration:** Nov 2024 - Dec 2024
+**Duration:** Nov 2024 - Dec 2024  
+**Dataset:** [Vital Statistics in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables)  
 
 **Objective:**  
-To develop accurate time series forecasting models that could predict future values and trends for business operations, helping stakeholders plan and optimize strategies.
+To develop accurate time series forecasting models for predicting future trends, enabling stakeholders to optimize business strategies.
 
 **Process:**  
-- **Data Preparation**: Collected and prepared historical time series data, ensuring it was stationary (or transformed if necessary).  
-- **Model Selection**: Evaluated multiple forecasting models, including **ARIMA (AutoRegressive Integrated Moving Average)**, **SARIMA (Seasonal ARIMA)**, and **Exponential Smoothing State Space Models (ETS)** to determine which one provided the best accuracy.  
-- **Model Evaluation**: Used evaluation metrics like **RMSE (Root Mean Squared Error)** and **MAE (Mean Absolute Error)** to measure the performance of each model.  
-- **Cross-validation**: Split the data into training and testing sets, performing cross-validation to ensure the model's robustness and generalizability.  
-- **Visualization**: Created visualizations comparing the predicted vs actual values to evaluate model performance and visualize forecasted trends.
+1. **Data Preparation**:  
+   - Collected and cleaned historical time series data.  
+   - Ensured stationarity using transformations (e.g., differencing).  
+
+2. **Model Selection**:  
+   - Evaluated **ARIMA**, **SARIMA**, and **ETS** models for accuracy.  
+
+3. **Model Evaluation**:  
+   - Used **RMSE** and **MAE** to measure model performance.  
+   - Performed cross-validation to ensure robustness.  
+
+4. **Visualization**:  
+   - Created visualizations to compare predicted vs actual values.  
 
 **Outcome:**  
-- Delivered accurate forecasts that helped stakeholders anticipate future trends and make proactive decisions.
-- Models were deployed to forecast future demand and optimize inventory management.
+- Delivered accurate forecasts for future trends.  
+- Optimized inventory management and decision-making processes.  
 
 **Tools Used:**  
-- **R**  
-- **forecast**, **tsibble**
+- **R** (forecast, tseries, ggplot2)  
 
+**Key Visualizations:**  
+1. **Time Series Plot**  
+   ![Time Series](assets/TimeSeries.png)  
+2. **Forecasting Results**  
+   ![Forecasting](assets/TS_Forcasting.png)  
+3. **Forecast Errors**  
+   ![Forecast Errors](assets/TS_Forcast_Errors.png)  
+4. **Additive Model with Trend**  
+   ![Additive Model](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png)  
 ---
 
 ### 🔹 **4. Designed Power BI Dashboards for Real-Time Insights**  

@@ -257,13 +257,17 @@ Developed ML models to predict client subscription to term deposits using a bank
 **Tools:** Python, Scikit-learn, Pandas, Matplotlib  
 
 **Key Visualizations:**  
-- `assets/MLDM_Describe.png`  
-- `assets/MLDM_Calls.png`  
-- `assets/MLDM_Numeicall.png`  
-- `assets/MLDM_Categoical.png`  
-- `assets/MLDM_ModelKNN.png`  
-- `assets/KNN_Model.png`  
-- `assets/MLDM_FeatueReport.png`
+ **Data Exploration Visualizations:**
+- ![MLDM Describe](assets/MLDM_Describe.png)  
+- ![MLDM Calls](assets/MLDM_Calls.png)  
+- ![MLDM Numeric Call](assets/MLDM_Numeicall.png)  
+- ![MLDM Categorical](assets/MLDM_Categoical.png)  
+
+ **Model Performance Visualizations:**  
+- ![MLDM Model KNN](assets/MLDM_ModelKNN.png)  
+- ![KNN Model](assets/KNN_Model.png)  
+- ![MLDM Feature Report](assets/MLDM_FeatueReport.png)  
+
 
 **Actionable Recommendations:**  
 1. **Model Preference:** Use Decision Tree over KNN for better performance.  

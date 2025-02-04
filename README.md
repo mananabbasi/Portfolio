@@ -429,8 +429,75 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 ### 🔹 **8. Classification Models on Azure ML Designer**  
 **Duration:** Sep 2024 - Present 
 
+Dataset:
+[Banking Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+
+Code:
+https://github.com/mananabbasi/Azure-ML-Designer
+
+
+# Process: Building a Classification Model in Azure ML Designer
+
+1. **Upload Data**  
+   Import the Banking Dataset into Azure ML Studio.
+
+2. **Clean & Split Data**  
+   Clean the data and handle missing values. Split data into training (70-80%) and testing (20-30%) sets.
+
+3. **Select Model**  
+   Choose a classification algorithm (e.g., Logistic Regression, Decision Tree, Random Forest, SVM).
+
+4. **Train Model**  
+   Train the model using the training dataset.
+
+5. **Evaluate Model**  
+   Generate predictions and evaluate using metrics like accuracy, precision, and recall.
+
+6. **Tune Hyperparameters (Optional)**  
+   Optimize the model using hyperparameter tuning.
+
+7. **Deploy Model (Optional)**  
+   Deploy the model as a web service for real-time predictions.
+
+**Outcome:**  
+- Successfully built and evaluated classification models using Azure ML Designer. Achieved accurate predictions for client subscription likelihood, enabling targeted marketing strategies , Demonstrated the ability to leverage cloud-based tools for scalable and efficient machine learning workflows..
+
+## Tools Used:
+- **Azure ML Studio**
+- **Azure ML Designer**
+- **Logistic Regression**
+- **Decision Tree**
+- **Random Forest**
+- **Support Vector Machine (SVM)**
+- **Data Cleaning & Preprocessing Modules**
+- **Hyperparameter Tuning**
+- **Model Evaluation Metrics (Accuracy, Precision, Recall)**
+
+
+## Key Visualizations:
+
+1. **Decision Tree and Random Forest Comparison**  
+   ![Decision Tree and Random Forest](assets/DecisiontreeandRandomForest.png)
+
+
+2. **Logistic Regression Performance**  
+   ![Logistic Regression](assets/LogisticRegression.png)
+
+
+3. **Decision Tree Evaluation**  
+   ![Decision Tree Evaluation](assets/DecisiontreeEvaluation.png)
+
+
+
+
+
+
+### 🔹 **9. DATABRICKS Projects Using PYspark (RDD , Dataframes and SQL)**  
+**Duration:** Jan 2024 - Present 
+
 **Objective:**  
 To process and analyze large-scale datasets efficiently using **PySpark** on the **Databricks** platform. The aim was to handle big data challenges and create scalable, optimized data pipelines.
+
 
 **Process:**  
 - **Data Import**: Used PySpark's **RDDs (Resilient Distributed Datasets)** and **DataFrames** for importing and processing large datasets across distributed systems.  

@@ -149,6 +149,8 @@ To perform comprehensive statistical analysis on the dataset to uncover insights
    ![GAM Model](assets/Gam_Model.png)  
    - Visualized GAM results to capture non-linear relationships.
 
+     
+
   
 ### 🔹 **3. Built Time Series Forecasting Models in R**  
 **Duration:** Nov 2024 - Dec 2024  
@@ -183,11 +185,16 @@ To develop accurate time series forecasting models for predicting future trends,
 1. **Time Series Plot**  
    ![Time Series](assets/TimeSeries.png)
 2. **Additive Model with Trend**  
-   ![Additive Model](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png) 
-3. **Forecasting Results**  
+   ![Additive Model](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png)
+2. **Patial Cologram**  
+   ![Ad](assets/partial_corelegram.png)
+   
+4. **Forecasting Results**  
    ![Forecasting](assets/TS_Forcasting.png)  
-4. **Forecast Errors**  
-   ![Forecast Errors](assets/TS_Forcast_Errors.png)  
+5. **Forecast Errors**  
+   ![Forecast Errors](assets/TS_Forcast_Errors.png)
+
+ 
  
 ---
 
@@ -225,26 +232,45 @@ To create dynamic, interactive dashboards for real-time monitoring of business p
    - Visualized total population growth across regions.  
    - Highlighted urbanization trends (urban vs. rural population shifts).  
 
-### 🔹 **5. Developed Classification & Clustering Models in Python**  
-**Duration:** Sep 2024 - Current
+
+### 🔹 Classification Models in Python for Banking  
+**Duration:** Sep 2024 - Present  
 
 **Objective:**  
-To build machine learning models for classification and clustering tasks that could predict outcomes and uncover hidden patterns in data.
+Developed ML models to predict client subscription to term deposits using a banking dataset.  
+
+**Dataset:**  
+[Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)  
+**Code:**  
+- [KNN Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/KNN%20-%20Classification%20with%20Class%20Imbalance.ipynb)  
+- [Decision Tree Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Classification%20Decision_Tree%20with%20class%20imbalance.ipynb)  
 
 **Process:**  
-- **Data Preprocessing**: Cleaned and preprocessed the data, handling missing values, scaling features, and encoding categorical variables using tools like **Pandas** and **Scikit-learn**.  
-- **Model Development**: Built **classification models** such as **Logistic Regression**, **Random Forest**, and **SVM** for binary and multi-class prediction tasks.  
-- **Clustering Models**: Implemented **K-Means** and **DBSCAN** for clustering analysis to identify groups of similar data points without predefined labels.  
-- **Model Evaluation**: Evaluated classification models using metrics like **accuracy**, **precision**, **recall**, and **F1 score**. Clustering performance was evaluated using the **silhouette score** and other internal validation techniques.  
-- **Model Tuning**: Used **GridSearchCV** and **RandomizedSearchCV** to fine-tune model hyperparameters for optimal performance.
+- Preprocessed data: cleaned, scaled, and encoded categorical variables using **Pandas** and **Scikit-learn**.  
+- Built **classification models** (Logistic Regression, Random Forest, SVM) and **clustering models** (K-Means, DBSCAN).  
+- Evaluated models using accuracy, precision, recall, F1 score, and silhouette score.  
+- Tuned hyperparameters with **GridSearchCV** and **RandomizedSearchCV**.  
 
 **Outcome:**  
-- Developed robust machine learning models that provided accurate predictions for various business use cases.
-- Identified hidden patterns and clusters within the data, providing valuable insights into customer behavior and other business areas.
+- Delivered accurate predictive models and identified customer behavior patterns.  
 
-**Tools Used:**  
-- **Python**  
-- **Scikit-learn**, **Pandas**, **Matplotlib**
+**Tools:** Python, Scikit-learn, Pandas, Matplotlib  
+
+**Key Visualizations:**  
+- `assests/MLDM_Describe.png`  
+- `assests/MLDM_Calls.png`  
+- `assests/MLDM_Numeicall.png`  
+- `assests/MLDM_Categoical.png`  
+- `assests/MLDM_ModelKNN.png`  
+- `assests/KNN_Model.png`  
+- `assests/MLDM_FeatueReport.png`  
+
+**Actionable Recommendations:**  
+1. **Model Preference:** Use Decision Tree over KNN for better performance.  
+2. **Key Feature:** Focus on call duration (Feature 12) as it significantly impacts subscription likelihood.  
+3. **Customer Profile:** Target college-educated, married individuals aged 30-40 in management roles.  
+4. **Timing:** Mid-month (around the 15th) and summer months (May, July, August) are optimal for campaigns.  
+5. **Contact Strategy:** Prioritize mobile phone contact and ensure impactful first interactions.  
 
 ---
 

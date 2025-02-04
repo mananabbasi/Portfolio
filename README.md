@@ -186,8 +186,8 @@ To develop accurate time series forecasting models for predicting future trends,
    ![Time Series](assets/TimeSeries.png)
 2. **Additive Model with Trend**  
    ![Additive Model](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png)
-2. **Patial Cologram**  
-   ![Ad](assets/partial_corelegram.png)
+2. **Partial Cologram**  
+   ![Partial Colrogram](assets/partial_corelegram.png)
    
 4. **Forecasting Results**  
    ![Forecasting](assets/TS_Forcasting.png)  
@@ -257,13 +257,13 @@ Developed ML models to predict client subscription to term deposits using a bank
 **Tools:** Python, Scikit-learn, Pandas, Matplotlib  
 
 **Key Visualizations:**  
-- `assests/MLDM_Describe.png`  
-- `assests/MLDM_Calls.png`  
-- `assests/MLDM_Numeicall.png`  
-- `assests/MLDM_Categoical.png`  
-- `assests/MLDM_ModelKNN.png`  
-- `assests/KNN_Model.png`  
-- `assests/MLDM_FeatueReport.png`  
+- `assets/MLDM_Describe.png`  
+- `assets/MLDM_Calls.png`  
+- `assets/MLDM_Numeicall.png`  
+- `assets/MLDM_Categoical.png`  
+- `assets/MLDM_ModelKNN.png`  
+- `assets/KNN_Model.png`  
+- `assets/MLDM_FeatueReport.png`
 
 **Actionable Recommendations:**  
 1. **Model Preference:** Use Decision Tree over KNN for better performance.  

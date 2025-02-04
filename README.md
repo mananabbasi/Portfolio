@@ -549,21 +549,49 @@ All codes for RDD, DataFrames, and SQL on the respective datasets can be found h
 - **Databricks Notebooks** for visualization
 
 
-# 🔹  **9 Steam Data Analysis: Visualization & ALS Evaluation in Databricks**  
+# 🔹 **Steam Data Analysis: Visualization & ALS Evaluation in Databricks**  
 **📅 Duration:** Jan 2024 - Present  
 
-## ** Objective**  
+## **Objective**  
 Leverage **PySpark** on **Databricks** to process and analyze large-scale Steam datasets. Perform data visualization and apply the **ALS (Alternating Least Squares) algorithm** for recommendation system evaluation.  
 
-## ** Dataset**  
+## **Dataset**  
 - 🎮 [Steam Games Dataset](https://github.com/win7guru/steam-dataset-2024/blob/main/games.zip)  
 
-## ** Code Repository**  
-🔗 [GitHub: Data Analysis, Visualization & ALS Evaluation in Databricks](https://github.com/mananabbasi/Data-Analysis-Visualization-ALS-Evaluation-in-Databricks)
+## **Code Repository**  
+🔗 [GitHub: Data Analysis, Visualization & ALS Evaluation in Databricks](https://github.com/mananabbasi/Data-Analysis-Visualization-ALS-Evaluation-in-Databricks)  
 
+---
 
+## **Process**  
+1. **Data Upload & Import**: Loaded the Steam dataset into **Databricks** using PySpark DataFrames.  
+2. **Data Cleaning**: Handled missing values, duplicates, and formatted data types.  
+3. **EDA & Visualization**: Used **Matplotlib** and **Seaborn** for insights on game trends, reviews, and pricing.  
+4. **ALS Model Training**: Built a recommendation system using **Alternating Least Squares (ALS)**.  
+5. **Evaluation & Tuning**: Optimized model parameters (rank, regularization) and evaluated performance with RMSE.  
+6. **Predictions & Recommendations**: Generated personalized game recommendations.  
+7. **Deployment (Optional)**: Prepared the model for real-time recommendations.  
 
+---
 
+## **Outcome**  
+- Developed scalable and efficient data pipelines for large-scale datasets.  
+- Enabled real-time analytics and insights for business decision-making.  
+- Demonstrated expertise in **PySpark, Databricks, and big data processing techniques**.  
+
+---
+
+## **Tools Used**  
+- **PySpark** (RDDs, DataFrames, Spark SQL)  
+- **Databricks**  
+- **Python**  
+- **Databricks Notebooks** for visualization  
+
+---
+
+## **Key Visualizations**  
+- **Top 10 Recommendations per User**  
+  ![Top 10 Recommendations](assets/Top10.png)  
 
 ## 🛠 Skills  
 <a id="-skills"></a>  

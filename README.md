@@ -38,11 +38,11 @@ My expertise includes **statistics**, **machine learning**, **data visualization
 
 ---
 
-### 🔹 **1. Developed Databases from Scratch using Microsoft SQL Server**  
+### 🔹 **1. Developed Hospital Databases from Scratch using Microsoft SQL Server**  
 **Duration:** Jan 2024 - Apr 2024
 
 **Objective:**  
-To design and implement a scalable relational database system capable of efficiently managing large volumes of structured data. The system needed to be optimized for performance, with clear data integrity and fast query execution.
+To design and implement a scalable relational Hospital database system capable of efficiently managing large volumes of structured data. The system needed to be optimized for performance, with clear data integrity and fast query execution.
 
 **Process:**  
 - **Database Design**: Started with analyzing the business requirements to determine the essential entities and their relationships. Created an **Entity-Relationship (ER) Diagram** to visualize the schema.  
@@ -76,29 +76,65 @@ Below are some screenshots from my database, including ER Diagrams, Views, Trigg
 ![Doctor Update](assets/Doctor_Update.png)
 
 ### 🔹 **2. Conducted Statistical Analysis & Advanced Statistics using R**  
-**Duration:** Sep 2024 - Dec 2025
+**Duration:** Sep 2024 - Dec 2025  
+**Dataset:** [Concrete Strength Prediction](https://www.kaggle.com/datasets/ruchikakumbhar/concrete-strength-prediction)  
 
 **Objective:**  
-To conduct in-depth statistical analysis on various datasets to derive insights and support data-driven decision-making. The analysis was aimed at identifying key trends and relationships between variables, helping the stakeholders make informed decisions.
+To perform comprehensive statistical analysis on the dataset to uncover insights, identify trends, and support data-driven decision-making. The goal was to understand relationships between variables and provide actionable recommendations to stakeholders.
 
 **Process:**  
-- **Data Cleaning**: Ensured the dataset was clean by handling missing values, outliers, and inconsistencies. Applied methods like imputation and removal of outliers.  
-- **Exploratory Data Analysis (EDA)**: Performed initial analysis to understand the distribution of variables, identify relationships between them, and visualize patterns using histograms, scatter plots, and correlation matrices.  
-- **Hypothesis Testing**: Conducted hypothesis tests (e.g., t-tests, chi-square tests) to validate assumptions and draw conclusions.  
-- **Regression Analysis**: Built regression models (e.g., linear regression) to quantify relationships between independent and dependent variables.  
-- **ANOVA**: Used **Analysis of Variance (ANOVA)** to compare means across different groups and identify significant differences.  
-- **Visualization**: Utilized **ggplot2** for creating clear, informative visualizations to convey insights effectively to stakeholders.
+1. **Data Cleaning:**  
+   - Handled missing values using imputation techniques.  
+   - Identified and removed outliers using statistical methods (e.g., IQR, Z-score).  
+   - Ensured data consistency by standardizing formats and correcting errors.  
+
+2. **Exploratory Data Analysis (EDA):**  
+   - Analyzed variable distributions using histograms, box plots, and density plots.  
+   - Explored relationships between variables using scatter plots and correlation matrices.  
+   - Identified patterns and trends in the data.  
+
+3. **Hypothesis Testing:**  
+   - Conducted t-tests and chi-square tests to validate assumptions and test hypotheses.  
+   - Determined statistical significance of findings.  
+
+4. **Regression Analysis:**  
+   - Built linear regression models to quantify relationships between independent and dependent variables.  
+   - Evaluated model performance using metrics like R-squared and RMSE.  
+
+5. **ANOVA:**  
+   - Performed Analysis of Variance (ANOVA) to compare means across groups and identify significant differences.  
+
+6. **Visualization:**  
+   - Created clear and informative visualizations using **ggplot2** to communicate insights effectively.  
+   - Generated plots such as histograms, scatter plots, and correlation heatmaps.  
 
 **Outcome:**  
-- Generated actionable insights that helped stakeholders make data-driven decisions.
-- Provided visualizations and reports that communicated findings in an easy-to-understand format.
-- Delivered statistical reports that summarized key findings and trends.
+- Delivered actionable insights to stakeholders, enabling data-driven decision-making.  
+- Provided detailed statistical reports summarizing key findings and trends.  
+- Created visualizations and dashboards to present findings in an accessible format.  
 
 **Tools Used:**  
-- **R**  
-- **ggplot2**, **dplyr**
+- **R** (ggplot2, dplyr, tidyr, caret, stats)  
 
----
+**Key Visualizations:**  
+1. **Database Schema:**  
+   - Visualized the dataset structure and relationships (`assets/Data_Base_Diagram.png`).  
+2. **Libraries Used:**  
+   - Highlighted the R libraries utilized for analysis (`Libraries_used.png`).  
+3. **Numerical Variable Distribution:**  
+   - Analyzed and visualized the distribution of numerical variables (`Distribution_of_Numerical.png`).  
+4. **Categorical Variable Distribution:**  
+   - Explored the distribution of categorical variables (`Categorical_Distribution.png`).  
+5. **Correlation Analysis:**  
+   - Created a correlation matrix to identify relationships between variables (`Correlation.png`).  
+6. **Age Distribution:**  
+   - Visualized the distribution of age-related variables (`Distribution_of_Age.png`).  
+7. **Simple Linear Regression (SLR) Assumptions:**  
+   - Validated assumptions for regression models (`SRL_Assumptions.png`).  
+8. **Regression Model Results:**  
+   - Displayed results and performance metrics of regression models (`RegressionModel.png`).  
+9. **Generalized Additive Model (GAM):**  
+   - Visualized GAM results to capture non-linear relationships (`Gam_Model.png`).  
 
 ### 🔹 **3. Built Time Series Forecasting Models in R**  
 **Duration:** Nov 2024 - Dec 2024

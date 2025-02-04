@@ -233,7 +233,7 @@ To create dynamic, interactive dashboards for real-time monitoring of business p
    - Highlighted urbanization trends (urban vs. rural population shifts).  
 
 
-### 🔹 Classification Models in Python for Banking  
+### 🔹  **5 Classification Models in Python for Banking  
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
@@ -278,7 +278,89 @@ Developed ML models to predict client subscription to term deposits using a bank
 
 ---
 
-### 🔹 **6. Executed PySpark Projects on Databricks Using RDDs & DataFrames**  
+# 🔹  **6  Customer Segmentation Using K-Means and Hierarchical Clustering on Credit Card Data  
+**Duration:** Sep 2024 - Present  
+
+## **Objective**  
+Developed machine learning models for customer segmentation using clustering techniques on credit card marketing data to identify distinct customer groups and tailor marketing strategies.  
+
+## **Dataset**  
+[Credit Card Marketing Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?resource=download)  
+
+## **Code**  
+- [K-Means Clustering](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/ClusteringK-Means.ipynb)  
+- [Hierarchical Clustering](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Dendogram_Clustring.ipynb)  
+
+## **Process**  
+1. **Data Import:**  
+   - Utilized **PySpark RDDs** and **DataFrames** to import and process large datasets in a distributed environment.  
+2. **Data Transformation:**  
+   - Cleaned, aggregated, and transformed data using **Spark SQL** and **DataFrame APIs**.  
+3. **Optimization:**  
+   - Optimized processing pipelines using **partitioning, caching,** and **parallel processing** for faster data handling.  
+4. **Big Data Processing:**  
+   - Handled large datasets that couldn't be processed by traditional systems, enabling real-time analytics and insights.  
+5. **Visualization:**  
+   - Leveraged **Databricks notebooks** to visualize data for deep analysis and insights.  
+
+## **Outcome**  
+- Developed scalable pipelines for analyzing large datasets, enabling real-time insights.  
+- Improved decision-making speed through enhanced data analysis efficiency.  
+
+## **Tools Used**  
+- Python  
+- Scikit-learn  
+- Pandas  
+- Matplotlib  
+
+---
+
+## **Key Visualizations**  
+
+1. **Correlation Analysis**  
+   ![Correlation](assets/CLUstering_Corelation.png)  
+
+2. **Dendrogram**  
+   ![Dendrogram](assets/ClusteringDendogram.png)  
+
+3. **Dendrogram Clusters**  
+   ![Dendrogram Clusters](assets/ClusteringDendogramClusters.png)  
+
+4. **Elbow Method**  
+   ![Elbow Method](assets/ClusteringElbowMethod.png)  
+
+5. **Feature Analysis**  
+   ![Features](assets/ClusteringFeatures.png)  
+
+6. **K-Means Clustering**  
+   ![K-Means](assets/ClusteringKmeans.png)  
+
+7. **Pairplot**  
+   ![Pairplot](assets/ClusteringPairplot.png)  
+
+---
+
+## **Actionable Recommendations**  
+
+### **Key Insights from Model Evaluations**  
+1. **K-Means (2 Clusters):**  
+   - Provides a broad categorization of customers, ideal for simple segmentation.  
+
+2. **Hierarchical Clustering (4 Clusters):**  
+   - Offers more detailed insights for targeted marketing strategies.  
+
+3. **CASH_ADVANCE Feature:**  
+   - Key in separating clusters.  
+   - **High Cash Advance Users:** Offer competitive rates or rewards to encourage responsible usage.  
+   - **Low Cash Advance Users:** Promote educational campaigns on cash advance benefits.  
+
+### **Key Insights from EDA**  
+1. **Low Credit Limit (<1,000):**  
+   - **Low Usage, High Credit Limit:** Use promotional offers to encourage higher credit utilization.  
+   - **High Usage, Low Credit Limit:** Consider raising credit limits to enhance satisfaction and spending.  
+
+---
+### 🔹 **7. Executed PySpark Projects on Databricks Using RDDs & DataFrames**  
 **Duration:** Jan 2024 - Current
 
 **Objective:**  

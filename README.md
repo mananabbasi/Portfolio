@@ -153,7 +153,7 @@ To perform comprehensive statistical analysis on the dataset to uncover insights
 ### 🔹 **3. Built Time Series Forecasting Models in R**  
 **Duration:** Nov 2024 - Dec 2024  
 **Dataset:** [Vital Statistics in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables)  
-
+**Code:** [Vital Statistics in the UK - Time Series Modelling](https://github.com/mananabbasi/Time-Series-Modelling/blob/main/Birth_time_series.R)
 **Objective:**  
 To develop accurate time series forecasting models for predicting future trends, enabling stakeholders to optimize business strategies.
 
@@ -181,37 +181,49 @@ To develop accurate time series forecasting models for predicting future trends,
 
 **Key Visualizations:**  
 1. **Time Series Plot**  
-   ![Time Series](assets/TimeSeries.png)  
-2. **Forecasting Results**  
+   ![Time Series](assets/TimeSeries.png)
+2. **Additive Model with Trend**  
+   ![Additive Model](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png) 
+3. **Forecasting Results**  
    ![Forecasting](assets/TS_Forcasting.png)  
-3. **Forecast Errors**  
+4. **Forecast Errors**  
    ![Forecast Errors](assets/TS_Forcast_Errors.png)  
-4. **Additive Model with Trend**  
-   ![Additive Model](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png)  
+ 
 ---
 
-### 🔹 **4. Designed Power BI Dashboards for Real-Time Insights**  
-**Duration:** Jan 2024 - Current
+### 🔹 **4. Power BI Dashboard: Real-Time Insights by Region and Country Group**  
+**Duration:** Jan 2024 - Current  
+**Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
+**Other Dashboards:** [GitHub Repository](https://github.com/mananabbasi/Dashboard-Power-bi)  
 
 **Objective:**  
-To create dynamic and interactive dashboards that allow users to monitor and analyze business performance in real time, helping stakeholders track KPIs and make timely decisions.
+To create dynamic, interactive dashboards for real-time monitoring of business performance, enabling stakeholders to track KPIs and make data-driven decisions.
 
 **Process:**  
-- **Data Integration**: Integrated multiple data sources, including SQL databases, Excel files, and other APIs, into Power BI to ensure data consistency and real-time updates.  
-- **Dashboard Design**: Designed user-friendly and visually appealing dashboards that presented key business metrics. Added interactive elements such as slicers and filters to allow users to explore the data from different perspectives.  
-- **Advanced Analytics**: Used **DAX (Data Analysis Expressions)** to create calculated measures, columns, and KPIs, enabling more advanced analysis directly within the dashboard.  
-- **Performance Optimization**: Ensured that the dashboards were optimized for performance, enabling quick load times even when dealing with large datasets.  
-- **Real-Time Data Updates**: Configured Power BI to connect to live data sources, providing real-time insights to the stakeholders.
+1. **Data Integration**:  
+   - Integrated SQL databases, Excel files, and APIs for consistent, real-time data.  
+2. **Dashboard Design**:  
+   - Designed user-friendly dashboards with interactive slicers and filters.  
+3. **Advanced Analytics**:  
+   - Used **DAX** to create calculated measures, columns, and KPIs.  
+4. **Performance Optimization**:  
+   - Optimized dashboards for fast load times with large datasets.  
+5. **Real-Time Updates**:  
+   - Configured live data connections for real-time insights.  
 
 **Outcome:**  
-- Delivered interactive dashboards that allowed stakeholders to monitor performance in real-time.
-- Improved decision-making by providing up-to-date, easily interpretable data visualizations.
+- Delivered interactive dashboards for real-time performance monitoring.  
+- Enabled stakeholders to make timely, data-driven decisions.  
 
 **Tools Used:**  
-- **Power BI**  
-- **DAX**, **SQL**
+- **Power BI**, **DAX**, **SQL**  
 
----
+**Key Visualizations:**  
+1. **Final Dashboard**  
+   ![Final Dashboard](assets/Final_Dashboard.png)  
+2. **Global Population Trends (1960–2022)**:  
+   - Visualized total population growth across regions.  
+   - Highlighted urbanization trends (urban vs. rural population shifts).  
 
 ### 🔹 **5. Developed Classification & Clustering Models in Python**  
 **Duration:** Sep 2024 - Current

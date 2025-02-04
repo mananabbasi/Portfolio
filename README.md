@@ -261,7 +261,7 @@ Developed ML models to predict client subscription to term deposits using a bank
 - ![MLDM Calls](assets/MLDM_Calls.png)      
 
  **Model Performance Visualizations:**  
-- ![MLDM Model KNN](assets/KNN_Model.png)  
+- ![MLDM Model KNN](assets/KNNCLASSIFICATION.png)  
 - ![KNNDecision TRee Model](assets/Decsiiontreeclassicifation.png)  
 
 

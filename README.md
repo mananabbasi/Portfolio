@@ -321,22 +321,25 @@ Developed machine learning models for customer segmentation using clustering tec
    ![Correlation](assets/CLUstering_Corelation.png)  
 
 2. **Dendrogram**  
-   ![Dendrogram](assets/ClusteringDendogram.png)  
+   ![Dendrogram](assets/Dendogram.png)  
 
 3. **Dendrogram Clusters**  
-   ![Dendrogram Clusters](assets/ClusteringDendogramClusters.png)  
+   ![Dendrogram Clusters](assets/Dendogram-PCA.png)  
 
 4. **Elbow Method**  
-   ![Elbow Method](assets/ClusteringElbowMethod.png)  
+   ![Elbow Method](assets/No_of_Clusters.png)  
 
 5. **Feature Analysis**  
-   ![Features](assets/ClusteringFeatures.png)  
+   ![Features](assets/DendogramFeatures.png)  
 
 6. **K-Means Clustering**  
-   ![K-Means](assets/ClusteringKmeans.png)  
+   ![K-Means](assets/Kmeans-Clusters.png)
 
-7. **Pairplot**  
-   ![Pairplot](assets/ClusteringPairplot.png)  
+
+
+
+
+
 
 ---
 

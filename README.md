@@ -489,7 +489,7 @@ https://github.com/mananabbasi/Azure-ML-Designer
 
 
 
-# 🔹 Databricks Projects Using PySpark (RDD, DataFrames, and SQL)  
+# 🔹 **8.   Databricks Projects Using PySpark (RDD, DataFrames, and SQL)  
 **Duration:** Jan 2024 - Present  
 
 ## **Objective**  
@@ -522,6 +522,17 @@ All codes for RDD, DataFrames, and SQL on the respective datasets can be found h
 5. **Visualization:**  
    - Visualized processed data using integrated **Databricks notebooks** for in-depth analysis and reporting.  
 
+## 🔹 Process  
+
+1. **Data Upload & Import**: Loaded the Steam dataset into **Databricks** using PySpark DataFrames.  
+2. **Data Cleaning**: Handled missing values, duplicates, and formatted data types.  
+3. **EDA & Visualization**: Used **Matplotlib** and **Seaborn** for insights on game trends, reviews, and pricing.  
+4. **ALS Model Training**: Built a recommendation system using **Alternating Least Squares (ALS)**.  
+5. **Evaluation & Tuning**: Optimized model parameters (rank, regularization) and evaluated performance with RMSE.  
+6. **Predictions & Recommendations**: Generated personalized game recommendations.  
+7. **Deployment (Optional)**: Prepared the model for real-time recommendations.  
+
+
 ---
 
 ## **Outcome**  
@@ -536,6 +547,20 @@ All codes for RDD, DataFrames, and SQL on the respective datasets can be found h
 - **Databricks**  
 - **Python**  
 - **Databricks Notebooks** for visualization
+
+
+# 🔹  **9 Steam Data Analysis: Visualization & ALS Evaluation in Databricks**  
+**📅 Duration:** Jan 2024 - Present  
+
+## ** Objective**  
+Leverage **PySpark** on **Databricks** to process and analyze large-scale Steam datasets. Perform data visualization and apply the **ALS (Alternating Least Squares) algorithm** for recommendation system evaluation.  
+
+## ** Dataset**  
+- 🎮 [Steam Games Dataset](https://github.com/win7guru/steam-dataset-2024/blob/main/games.zip)  
+
+## ** Code Repository**  
+🔗 [GitHub: Data Analysis, Visualization & ALS Evaluation in Databricks](https://github.com/mananabbasi/Data-Analysis-Visualization-ALS-Evaluation-in-Databricks)
+
 
 
 

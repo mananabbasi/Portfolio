@@ -116,24 +116,38 @@ To perform comprehensive statistical analysis on the dataset to uncover insights
 **Tools Used:**  
 - **R** (ggplot2, dplyr, tidyr, caret, stats)  
 
-**Key Visualizations:**  
-1. **Libraries Used:**  
-   - Highlighted the R libraries utilized for analysis (`assets/Libraries_used.png`).  
-2. **Numerical Variable Distribution:**  
-   - Analyzed and visualized the distribution of numerical variables (`assets/Distribution_of_Numerical.png`).  
-3. **Categorical Variable Distribution:**  
-   - Explored the distribution of categorical variables (`assets/Categorical_Distribution.png`).  
-4. **Correlation Analysis:**  
-   - Created a correlation matrix to identify relationships between variables (`assets/Corelation.png`).  
-5. **Age Distribution:**  
-   - Visualized the distribution of age-related variables (`assets/Distribution_of_Age.png`).  
-6. **Simple Linear Regression (SLR) Assumptions:**  
-   - Validated assumptions for regression models (`assets/SRL_Assumptions.png`).  
-7. **Regression Model Results:**  
-   - Displayed results and performance metrics of regression models (`assets/RegressionModel.png`).  
-8. **Generalized Additive Model (GAM):**  
-   - Visualized GAM results to capture non-linear relationships (`assets/Gam_Model.png`).  
+### Key Visualizations:
+1. **Libraries Used**  
+   ![Libraries Used](assets/Libraries_used.png)  
+   - Highlighted the R libraries utilized for analysis.
 
+2. **Numerical Variable Distribution**  
+   ![Numerical Distribution](assets/Distribution_of_Numerical.png)  
+   - Analyzed and visualized the distribution of numerical variables.
+
+3. **Categorical Variable Distribution**  
+   ![Categorical Distribution](assets/Categorical_Distribution.png)  
+   - Explored the distribution of categorical variables.
+
+4. **Correlation Analysis**  
+   ![Correlation Matrix](assets/Corelation.png)  
+   - Created a correlation matrix to identify relationships between variables.
+
+5. **Age Distribution**  
+   ![Age Distribution](assets/Distribution_of_Age.png)  
+   - Visualized the distribution of age-related variables.
+
+6. **Simple Linear Regression (SLR) Assumptions**  
+   ![SLR Assumptions](assets/SRL_Assumptions.png)  
+   - Validated assumptions for regression models.
+
+7. **Regression Model Results**  
+   ![Regression Model](assets/RegressionModel.png)  
+   - Displayed results and performance metrics of regression models.
+
+8. **Generalized Additive Model (GAM)**  
+   ![GAM Model](assets/Gam_Model.png)  
+   - Visualized GAM results to capture non-linear relationships.
 ### 🔹 **3. Built Time Series Forecasting Models in R**  
 **Duration:** Nov 2024 - Dec 2024
 

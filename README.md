@@ -489,32 +489,56 @@ https://github.com/mananabbasi/Azure-ML-Designer
 
 
 
+# 🔹 Databricks Projects Using PySpark (RDD, DataFrames, and SQL)  
+**Duration:** Jan 2024 - Present  
 
+## **Objective**  
+To process and analyze large-scale datasets efficiently using **PySpark** on the **Databricks** platform, addressing big data challenges and creating optimized data pipelines.  
 
+## **Datasets**  
+- [Clinical Dataset](https://clinicaltrials.gov/data-api/about-api/csv-download)  
+- [Pharma Sales Dataset](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data)  
 
-### 🔹 **9. DATABRICKS Projects Using PYspark (RDD , Dataframes and SQL)**  
-**Duration:** Jan 2024 - Present 
-
-**Objective:**  
-To process and analyze large-scale datasets efficiently using **PySpark** on the **Databricks** platform. The aim was to handle big data challenges and create scalable, optimized data pipelines.
-
-
-**Process:**  
-- **Data Import**: Used PySpark's **RDDs (Resilient Distributed Datasets)** and **DataFrames** for importing and processing large datasets across distributed systems.  
-- **Data Transformation**: Performed data cleaning, aggregation, and transformation tasks using Spark SQL and DataFrame APIs.  
-- **Optimization**: Optimized data processing pipelines for performance, reducing processing time significantly by leveraging partitioning, caching, and parallel processing.  
-- **Big Data Processing**: Processed datasets too large for traditional systems, providing real-time insights and analytics for business needs.  
-- **Visualization**: Visualized processed data using integrated Databricks notebooks for in-depth analysis.
-
-**Outcome:**  
-- Created scalable data processing pipelines that allowed the analysis of massive datasets, providing insights in real-time.  
-- Improved data analysis efficiency, enabling faster decision-making for data-driven business strategies.
-
-**Tools Used:**  
-- **PySpark**  
-- **Databricks**, **Apache Spark**
+## **Code**  
+All codes for RDD, DataFrames, and SQL on the respective datasets can be found here:  
+- [RDD, DataFrames, and SQL Codes](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-)  
 
 ---
+
+## **Process**  
+
+1. **Data Import:**  
+   - Utilized PySpark's **RDDs (Resilient Distributed Datasets)** and **DataFrames** to import and process large datasets across distributed systems.  
+
+2. **Data Transformation:**  
+   - Performed data cleaning, aggregation, and transformation tasks using **Spark SQL** and **DataFrame APIs**.  
+
+3. **Optimization:**  
+   - Optimized data processing pipelines by leveraging **partitioning, caching,** and **parallel processing**, significantly reducing processing time.  
+
+4. **Big Data Processing:**  
+   - Processed datasets too large for traditional systems, enabling real-time insights and analytics for business needs.  
+
+5. **Visualization:**  
+   - Visualized processed data using integrated **Databricks notebooks** for in-depth analysis and reporting.  
+
+---
+
+## **Outcome**  
+- Developed scalable and efficient data pipelines for large-scale datasets.  
+- Enabled real-time analytics and insights for business decision-making.  
+- Demonstrated expertise in PySpark, Databricks, and big data processing techniques.  
+
+---
+
+## **Tools Used**  
+- **PySpark** (RDDs, DataFrames, Spark SQL)  
+- **Databricks**  
+- **Python**  
+- **Databricks Notebooks** for visualization
+
+
+
 
 ## 🛠 Skills  
 <a id="-skills"></a>  

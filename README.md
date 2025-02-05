@@ -170,12 +170,16 @@ Today's appointments, including returning appointments, are displayed below:
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
-Developed ML models to predict client subscription to term deposits using the banking dataset.
+Developed ML models to predict client subscription to term deposits using real world dataset.
 
 **Dataset:**  
-[Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)  
 
-**Code:**  
+- **[Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)**  
+  This dataset contains information about marketing campaigns run by a Portuguese bank. It includes details on client interactions and whether they subscribed to a term deposit.
+- **[Cinar & Koklu (2019) Rice Variety Dataset](https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik)**  
+  The dataset provides detailed morphological measurements of rice grains, which are used for classifying the grains into two distinct varieties: Cammeo and Osmancik.
+  
+**CodeS:**  
 - [KNN Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/KNN%20-%20Classification%20with%20Class%20Imbalance.ipynb)  
 - [Decision Tree Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Classification%20Decision_Tree%20with%20class%20imbalance.ipynb)
 
@@ -190,20 +194,33 @@ Developed ML models to predict client subscription to term deposits using the ba
 **Tools Used:** Python, Scikit-learn, Pandas, Matplotlib
 
 **Key Visualizations:**  
-1. **Data Exploration**  
-   ![MLDM Calls](assets/MLDM_Calls.png)  
 
-2. **Model Performance**  
+1. **Data Exploration for Banking Dataset**  
+   ![MLDM Calls](assets/MLDM_Calls.png)
+
+2. **Data Exploration for Rice Dataset**  
+   ![Rice Data Exploration](assets/Value.png)
+
+3. **Model Performance on Banking Dataset**  
    ![KNN Classification](assets/KNNCLASSIFICATION.png)  
    ![Decision Tree Classification](assets/Decsiiontreeclassicifation.png)
 
-**Actionable Recommendations:**  
+4. **Model Performance on Agriculture Dataset**  
+   ![Model Comparison](assets/MODELCOmparison.png)
+
+**Actionable Recommendations For Banking DataSet:**  
 - Use **Decision Tree** over KNN for better performance.  
-- Focus on **call duration** (Feature 12).  
+- Focus on **call duration for Banking dataset** (Feature 12).  
 - Target **college-educated, married individuals (30-40)** in **management roles**.  
 - Optimal campaign timing: **mid-month** and **summer months**.  
 - Prioritize **mobile contact** and impactful first interactions.
-
+  
+**Actionable Recommendations For Agriculture DataSet:**  
+  
+-  Implement machine learning models to classify rice varieties, improving accuracy in quality control and sorting.  
+-  Use KNN classification insights to optimize rice variety categorization, enhancing inventory management and logistics.
+-  Leverage data for better breeding strategies and customized farming techniques, boosting crop yield and quality.
+  
 ---
 
 #### 🔹 **B. Customer Segmentation Using K-Means and Hierarchical Clustering on Credit Card Data**  
@@ -213,9 +230,13 @@ Developed ML models to predict client subscription to term deposits using the ba
 Developed ML models for customer segmentation using clustering techniques to identify distinct groups and optimize marketing strategies.
 
 **Dataset:**  
-[Credit Card Marketing Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?resource=download)
+- **[Credit Card Marketing Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?resource=download)**  
+  This dataset contains information on credit card marketing campaigns, including customer profiles and responses to marketing efforts.
 
-**Code:**  
+- **[Estimation of Obesity Levels Based on Eating Habits and Physical Condition](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)**  
+  This dataset focuses on estimating obesity levels using data on eating habits and physical condition.
+
+**Codes:**  
 - [K-Means Clustering](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/ClusteringK-Means.ipynb)  
 - [Hierarchical Clustering](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Dendogram_Clustring.ipynb)
 
@@ -232,31 +253,57 @@ Developed ML models for customer segmentation using clustering techniques to ide
 - Python, Scikit-learn, Pandas, Matplotlib
 
 **Key Visualizations:**  
-1. **Correlation Analysis**  
-   ![Correlation](assets/CLUstering_Corelation.png)  
 
-2. **Dendrogram**  
-   ![Dendrogram](assets/Dendogram.png)  
+##### 1. Credit Card Dataset
 
-3. **K-Means Clustering**  
-   ![K-Means](assets/Kmeans-Clusters.png)
+- **a. Correlation Analysis**  
+  ![Correlation](assets/CLUstering_Corelation.png)
 
-**Recommendations:**  
+- **b. Dendrogram**  
+  ![Dendrogram](assets/Dendogram.png)
+
+- **c. K-Means Clustering**  
+  ![K-Means](assets/Kmeans-Clusters.png)
+
+##### 2. Obesity Dataset
+
+- **a. Number of Clusters**  
+  ![No of Clusters](assets/No_of_Clusters.png)
+
+- **b. Skewness**  
+  ![Skewness](assets/ClusteringEDA.png)
+
+- **c. EDA**  
+  ![EDA](assets/Heatmap.png)
+
+- **d. Clusters for this Dataset**  
+  ![Clusters](assets/Clusters.png)
+
+   
+   
+**Recommendations for Credit Card DataSet:**  
 - **K-Means (2 Clusters):** Simple segmentation for broad targeting.  
 - **Hierarchical (4 Clusters):** Detailed insights for refined marketing.  
 - **CASH_ADVANCE:** Target **high users** with rewards, **low users** with education.  
 - **Credit Limit:** Promote for **low usage, high limits** and **raise limits for high usage, low credit limits**.
 
+**Recommendations for Obesity  DataSet:**  
+- Tailor healthcare products and interventions based on distinct obesity patterns to improve treatment outcomes.
+- Use clustering insights to target high-risk groups with customized health campaigns and form partnerships with healthcare providers.
 ---
 
 #### 🔹 **C. Sentiment Analysis and Text Classification on US McDonald's Reviews Dataset**  
 **Duration:** Sep 2024 - Present  
 
-**Objective:**  
-Developed ML models to analyze sentiment and classify customer reviews from McDonald's US stores.
+**Objective**  
 
-**Dataset:**  
-[US McDonald's Stores Reviews Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)
+Developed ML models to analyze sentiment and classify customer reviews from McDonald's US stores and Twitter trends across the world.
+
+**Datasets**  
+
+- [US McDonald's Stores Reviews Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)
+- [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/bansalstuti/twitter-sentimental-analysis)
+
 
 **Code:**  
 - [Sentiment Analysis and Text Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Sentimental_Analysis_and_Text_Classification_on_MacDonalds_Dataset.ipynb)
@@ -272,19 +319,41 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 **Tools Used:**  
 - Python, **Scikit-learn**, **Pandas**, **Matplotlib**, **NLTK**, **TextBlob**
 
-**Key Visualizations:**  
+**Key Visualizations from Macdonald Dataset:**  
+## Key Visualizations from McDonald's Dataset
+
 1. **Sentiment Distribution**  
-   ![Overall Sentiment](assets/OVerallsentiment.png)  
+   ![Overall Sentiment](assets/OVerallsentiment.png)
 
 2. **Positive Reviews**  
-   ![Positive Reviews](assets/POsitivereviews.png)  
+   ![Positive Reviews](assets/POsitivereviews.png)
 
 3. **Negative Reviews & Word Clouds**  
    ![Negative Word Cloud](assets/Nogativeword.png)
 
-**Recommendations:**  
+## Key Visualizations from Twitter Dataset
+
+1. **Sentiments Across the World**  
+   ![Sentiments of Tweets](assets/Sentimentsoftweets.png)
+
+2. **Tweets Heat Map**  
+   ![Tweets Heat Map](assets/TwitterhEATMAP.png)
+
+3. **Top Words in Positive, Negative, and Neutral Emotions**  
+   ![Top Words](assets/TOpwords.png)
+
+4. **Word Cloud Across Sentiments**  
+   ![Word Cloud](assets/Wordcout.png)
+
+
+**Recommendations from Macdonald Dataset:**  
 - **Text Classification:** Use models for real-time customer sentiment analysis and response.  
 - **Sentiment Insights:** Focus on improving food quality and service speed at underperforming stores (e.g., Miami Beach).
+
+**Recommendations from Twitter Dataset:**  
+- Ensure data privacy through anonymization.
+- Regularly audit models to minimize bias.
+- Use insights responsibly for business decisions.
 
 ### Classification Models using Azure ML Designer <a name="classification-models-using-azure-ml-designer"></a>
 

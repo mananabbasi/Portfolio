@@ -81,22 +81,20 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 **Tools Used:**  
 - **R** (ggplot2, dplyr, tidyr, caret, stats, etc.)
 
-#### **Key Visualizations**  
-1. **Libraries Used**  
-   ![Libraries Used](assets/Libraries_used.png)  
-2. **Numerical Variable Distribution**  
+#### **Key Visualizations**   
+1. **Numerical Variable Distribution**  
    ![Numerical Distribution](assets/Distribution_of_Numerical.png)  
-3. **Categorical Variable Distribution**  
+2. **Categorical Variable Distribution**  
    ![Categorical Distribution](assets/Catergorical_Distribution.png)  
-4. **Correlation Analysis**  
+3. **Correlation Analysis**  
    ![Correlation Matrix](assets/Corelation.png)  
-5. **Age Distribution**  
+4. **Age Distribution**  
    ![Age Distribution](assets/Distribtion_off_Age.png)  
-6. **Simple Linear Regression (SLR) Assumptions**  
+5. **Simple Linear Regression (SLR) Assumptions**  
    ![SLR Assumptions](assets/SRL_Assumptions.png)  
-7. **Regression Model Results**  
+6. **Regression Model Results**  
    ![Regression Model](assets/RegressionModel.png)  
-8. **Generalized Additive Model (GAM)**  
+7. **Generalized Additive Model (GAM)**  
    ![GAM Model](assets/Gam_Model.png)  
 
 **Outcome:**  
@@ -164,7 +162,7 @@ Designed and implemented a scalable, high-performance hospital database to manag
 2. **Total Appointments**  
    ![Appointments](assets/Appointsments.png)  
 3. **Today's Appointments**  
-   ![Returning Today's Appointments](assets/Returing_Todays_Apointsments.png)
+   ![Returning Today's Appointments](assets/Returing_Todays Apointsments.png)
 
 ---
 

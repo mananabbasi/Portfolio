@@ -83,17 +83,17 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 - **R** (ggplot2, dplyr, tidyr, caret, stats, etc.)
 
 #### **Key Visualizations**   
-1. **Numerical Variable Distribution**  
+**Numerical Variable Distribution**  
    ![Numerical Distribution](assets/Distribution_of_Numerical.png)  
-2. **Categorical Variable Distribution**  
+**Categorical Variable Distribution**  
    ![Categorical Distribution](assets/Catergorical_Distribution.png)  
-3. **Correlation Analysis**  
+**Correlation Analysis**  
    ![Correlation Matrix](assets/Corelation.png)  
-4. **Simple Linear Regression (SLR) Assumptions**  
+**Simple Linear Regression (SLR) Assumptions**  
    ![SLR Assumptions](assets/SRL_Assumptions.png)  
-5. **Regression Model Results**  
+**Regression Model Results**  
    ![Regression Model](assets/RegressionModel.png)  
-6. **Generalized Additive Model (GAM)**  
+**Generalized Additive Model (GAM)**  
    ![GAM Model](assets/Gam_Model.png)  
 
 **Outcome:**  
@@ -121,11 +121,11 @@ To develop accurate time series forecasting models for predicting future trends,
 - **R** (forecast, tseries, ggplot2)
 
 #### **Key Visualizations**   
-1. **Additive Model with Increasing or Decresing Trends**
+**Additive Model with Increasing or Decresing Trends**
   ![Additive Model with Trend](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png)
-2. **Forecasting Results**  
+**Forecasting Results**  
    ![Forecasting](assets/TS_Forcasting.png)  
-3. **Forecast Errors**  
+**Forecast Errors**  
    ![Forecast Errors](assets/TS_Forcast_Errors.png)  
 
 **Outcome:**  
@@ -150,13 +150,13 @@ Designed and implemented a scalable, high-performance hospital database to manag
 - **Microsoft SQL Server**, **T-SQL**
 **Key Visualizations**  
 
- **1. Database Diagram**  
+ **Database Diagram**  
 The database structure is visualized in the diagram below:
 ![Database Diagram](assets/Data_Base_Diagram.png)
- ** 2. Total Appointments** 
+ **Total Appointments** 
 The total number of appointments is shown in the following visualization:
 ![Total Appointments](assets/Appointsments.png)
-**3. Today's Appointments**  
+**Today's Appointments**  
 Today's appointments, including returning appointments, are displayed below:
 ![Today's Appointments](assets/Returing_Todays_Apointsments.png)
 

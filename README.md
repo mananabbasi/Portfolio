@@ -63,7 +63,7 @@ Designed and implemented a scalable, high-performance hospital database to manag
 - **Doctor Table Update**  
 ![Doctor Update](assets/Doctor_Update.png)
 
-# 🔹 Statistical Analysis & Advanced Statistics using R  
+### 🔹 **2.Statistical Analysis & Advanced Statistics using R  
 **Duration:** Sep 2024 - Dec 2025  
 
 ## **Dataset**  
@@ -117,7 +117,7 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 - Delivered actionable insights and statistical reports to stakeholders.  
 - Created visualizations and dashboards for effective communication.  
   
-# 🔹 Time Series Forecasting Models in R  
+### 🔹 **3.Time Series Forecasting Models in R  
 **Duration:** Nov 2024 - Dec 2024  
 
 ## **Dataset**  

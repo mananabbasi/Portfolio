@@ -1,9 +1,7 @@
 
 # 🎯 **Data Scientist Portfolio**  
-🌟 Welcome to my **Data Scientist Portfolio** repository! 🚀  
-This is a curated collection of my work, showcasing my expertise in **data analysis, machine learning, and visualization**.  
-Each project reflects my ability to extract meaningful insights, develop predictive models, and present data-driven solutions effectively.
-
+🌟 Welcome to my Data Scientist Portfolio! 🚀
+A showcase of my work in data analysis, machine learning, and visualization, highlighting my ability to extract insights and build data-driven solutions.
 ---
 
 ## 📌 **Table of Contents**  
@@ -21,8 +19,7 @@ Each project reflects my ability to extract meaningful insights, develop predict
 
 ## 🌟 About Me  
 <a id="-about-me"></a>  
-I am a **data scientist** with a passion for solving complex problems using data-driven approaches. I specialize in transforming raw data into actionable insights to drive informed decision-making.  
-My expertise includes **statistics**, **machine learning**, **data visualization**, and **big data processing**. I am constantly learning and adapting to new technologies to improve my analytical skills and broaden my knowledge in the data science field.
+I am a data scientist dedicated to solving complex problems using data-driven methods. Specializing in statistics, machine learning, data visualization, and big data processing, I transform raw data into valuable insights. Always eager to learn, I continuously expand my knowledge and adapt to new technologies in the field.
 
 ### 📊 **Key Expertise:**  
 - **Data Wrangling & Cleaning**  
@@ -476,6 +473,6 @@ cd data-scientist-portfolio
 <a id="-contact"></a>
 You can get in touch with me through the following channels:
 
-📧 Email: your.email@example.com
-🔗 LinkedIn: Your LinkedIn Profile
-🐙 GitHub: Your GitHub Profile
+📧 Email: mananw25@gmail.com
+🔗 LinkedIn: [ Linkedin Profile](https://www.linkedin.com/in/abdul-manan-4a685926a/)
+🐙 GitHub: [ GitHub Profile](https://github.com/mananabbasi)

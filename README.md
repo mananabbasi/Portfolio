@@ -1,43 +1,42 @@
-# 🎯 **Data Scientist Portfolio**  
+# 🎯 Data Scientist Portfolio  
 🌟 Welcome to my Data Scientist Portfolio! 🚀  
 A showcase of my work in data analysis, machine learning, and visualization, highlighting my ability to extract insights and build data-driven solutions.
 
 ---
 
-# 📌 **Table of Contents**  
-
-- [🌟 About Me](#about-me)  
-- [🛠 Skills](#skills)  
-- [⚙ Tools & Technologies](#tools-technologies)  
-- [🚀 Projects](#projects)  
+## 📌 Table of Contents  
+- [🌟 About Me](#-about-me)  
+- [🛠 Skills](#-skills)  
+- [⚙ Tools & Technologies](#-tools--technologies)  
+- [🚀 Projects](#-projects)  
   - [Statistical Analysis Projects with R](#statistical-analysis-projects-with-r)  
   - [Advanced SQL Database Development Projects](#advanced-sql-database-development-projects)  
-  - [Data Mining & Machine Learning Projects in Python](#data-mining-machine-learning-projects-in-python)  
+  - [Data Mining & Machine Learning Projects in Python](#data-mining--machine-learning-projects-in-python)  
   - [Classification Models using Azure ML Designer](#classification-models-using-azure-ml-designer)  
   - [Databricks Projects with PySpark](#databricks-projects-with-pyspark)  
   - [Power BI Dashboard Development Projects](#power-bi-dashboard-development-projects)  
-- [💼 Work Experience](#work-experience)  
-- [🎓 Education](#education)  
-- [🎯 Activities](#activities)  
-- [📞 Contact](#contact)
+- [💼 Work Experience](#-work-experience)  
+- [🎓 Education](#-education)  
+- [🎯 Activities](#-activities)  
+- [📞 Contact](#-contact)  
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me <a name="-about-me"></a>  
 I am a data scientist dedicated to solving complex problems using data-driven methods. Specializing in statistics, machine learning, data visualization, and big data processing, I transform raw data into valuable insights. Always eager to learn, I continuously expand my knowledge and adapt to new technologies in the field.
 
 ---
 
-## 🛠 Skills  
+## 🛠 Skills <a name="-skills"></a>  
 
-### **Technical Skills:**  
+### Technical Skills:  
 - **Programming Languages**: Python, R, SQL  
 - **Machine Learning**: Classification, Regression, Clustering, Deep Learning  
 - **Big Data & Cloud**: Spark, Hadoop, AWS, GCP  
 - **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
 - **Statistical Analysis**: Hypothesis Testing, ANOVA, Regression Analysis  
 
-### **Soft Skills:**  
+### Soft Skills:  
 - **Problem Solving**  
 - **Communication**  
 - **Collaboration**  
@@ -46,7 +45,7 @@ I am a data scientist dedicated to solving complex problems using data-driven me
 
 ---
 
-## ⚙ Tools & Technologies  
+## ⚙ Tools & Technologies <a name="-tools--technologies"></a>  
 I am proficient in a range of tools and technologies that help me effectively analyze data and develop insights.
 
 - **Programming Languages**: Python, R, SQL  
@@ -58,9 +57,9 @@ I am proficient in a range of tools and technologies that help me effectively an
 
 ---
 
-## 🚀 Projects:
+## 🚀 Projects <a name="-projects"></a>  
 
-### 1. Statistical Analysis Projects Using R
+### Statistical Analysis Projects with R <a name="statistical-analysis-projects-with-r"></a>  
 
 #### 🔹 **A. Statistical Analysis & Advanced Statistics using R**  
 **Duration:** Sep 2024 - Dec 2025  
@@ -88,13 +87,11 @@ To perform statistical analysis on the dataset, uncover insights, and support da
    ![Categorical Distribution](assets/Catergorical_Distribution.png)  
 3. **Correlation Analysis**  
    ![Correlation Matrix](assets/Corelation.png)  
-4. **Age Distribution**  
-   ![Age Distribution](assets/Distribtion_off_Age.png)  
-5. **Simple Linear Regression (SLR) Assumptions**  
+4. **Simple Linear Regression (SLR) Assumptions**  
    ![SLR Assumptions](assets/SRL_Assumptions.png)  
-6. **Regression Model Results**  
+5. **Regression Model Results**  
    ![Regression Model](assets/RegressionModel.png)  
-7. **Generalized Additive Model (GAM)**  
+6. **Generalized Additive Model (GAM)**  
    ![GAM Model](assets/Gam_Model.png)  
 
 **Outcome:**  
@@ -103,7 +100,7 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 
 ---
 
-### 🔹 **B. Time Series Forecasting Models in R**  
+#### 🔹 **B. Time Series Forecasting Models in R**  
 **Duration:** Nov 2024 - Dec 2024  
 **Dataset:** [Vital Statistics in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables)  
 **Code:** [Vital Statistics in the UK - Time Series Modelling](https://github.com/mananabbasi/Time-Series-Modelling/blob/main/Birth_time_series.R)
@@ -124,12 +121,9 @@ To develop accurate time series forecasting models for predicting future trends,
 1. **Time Series Plot**  
    ![Time Series](assets/TimeSeries.png)  
 2. **Additive Model with Trend**  
-   ![Additive Model](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png)  
-3. **Partial Correlogram**  
-   ![Partial Correlogram](assets/partial_corelegram.png)  
-4. **Forecasting Results**  
+3. **Forecasting Results**  
    ![Forecasting](assets/TS_Forcasting.png)  
-5. **Forecast Errors**  
+4. **Forecast Errors**  
    ![Forecast Errors](assets/TS_Forcast_Errors.png)  
 
 **Outcome:**  
@@ -137,21 +131,19 @@ To develop accurate time series forecasting models for predicting future trends,
 - Significantly improved inventory management efficiency and informed data-driven decision-making.
 
 ---
-
+### Advanced SQL Database Development Projects <a name="advanced-sql-database-development-projects"></a>  
 ### 2. Advanced SQL Database Development Projects
 
 #### 🔹 **A. Hospital Database Development (Microsoft SQL Server)**  
-**Duration:** Jan 2024 - Apr 2024
+**Duration:** Jan 2024 - Apr 2024  
 
 **Objective:**  
 Designed and implemented a scalable, high-performance hospital database to manage large volumes of data.
 
 **Process:**  
-- Created ER diagrams and normalized schema.  
-- Optimized with indexing and automated tasks using stored procedures and triggers.
-
-**Outcome:**  
-- Fully operational, scalable database system optimized for fast queries and data integrity.
+- Created ER diagrams and normalized the schema.  
+- Optimized the database with indexing for fast queries.  
+- Automated tasks using stored procedures and triggers to improve efficiency.
 
 **Tools Used:**  
 - **Microsoft SQL Server**, **T-SQL**
@@ -159,42 +151,24 @@ Designed and implemented a scalable, high-performance hospital database to manag
 #### **Key Visualizations**  
 1. **Database Diagram**  
    ![Database Diagram](assets/Data_Base_Diagram.png)  
+
 2. **Total Appointments**  
    ![Appointments](assets/Appointsments.png)  
+
 3. **Today's Appointments**  
-   ![Returning Today's Appointments](assets/Returing_Todays Apointsments.png)
+   ![Returning Today's Appointments](assets/Returing_Todays_Apointsments.png)
 
----
-
-### 3. Power BI Dashboard Development Projects
-
-#### 🔹 **A. Power BI Dashboard: Real-Time Insights by Region and Country Group**  
-**Duration:** Jan 2024 - Current  
-**Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
-**Other Dashboards:** [GitHub Repository](https://github.com/mananabbasi/Dashboard-Power-bi)
-
-**Objective:**  
-Create interactive, real-time dashboards for monitoring business performance and enabling data-driven decision-making.
-
-**Process:**  
-- Integrated SQL databases, Excel files, and APIs for real-time data.  
-- Designed user-friendly dashboards with slicers, filters, and advanced **DAX** measures.  
-- Optimized for fast performance and real-time updates.
-
-**Tools Used:**  
-- **Power BI**, **DAX**, **SQL**
-
-#### **Key Visualizations**  
-1. **Final Dashboard**  
-   ![Final Dashboard](assets/Final_Dashboard.png)
 
 **Outcome:**  
-- Delivered real-time interactive dashboards for performance tracking and data-driven decisions.
-# 🚀 **Data Mining and Machine Learning Projects in Python**
+- Developed a fully operational, scalable database system.  
+- Optimized for fast queries, improved data integrity, and easy management of hospital data.
 
 ---
+### Data Mining & Machine Learning Projects in Python <a name="data-mining--machine-learning-projects-in-python"></a>  
+---
+---
 
-## 🔹 **A. Classification Models in Python for Banking**  
+#### 🔹 **A. Classification Models in Python for Banking**  
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
@@ -210,7 +184,7 @@ Developed ML models to predict client subscription to term deposits using the ba
 **Process:**  
 - Preprocessed data and built **classification** and **clustering models** (Logistic Regression, Random Forest, SVM, K-Means, DBSCAN).  
 - Evaluated models with accuracy, precision, recall, F1, and silhouette scores.  
-- Hyperparameter tuning with **GridSearchCV** and **RandomizedSearchCV**.
+- Performed hyperparameter tuning using **GridSearchCV** and **RandomizedSearchCV**.
 
 **Outcome:**  
 - Delivered accurate predictive models, uncovering customer behavior patterns.
@@ -218,10 +192,10 @@ Developed ML models to predict client subscription to term deposits using the ba
 **Tools Used:** Python, Scikit-learn, Pandas, Matplotlib
 
 **Key Visualizations:**  
-- **Data Exploration**  
+1. **Data Exploration**  
    ![MLDM Calls](assets/MLDM_Calls.png)  
 
-- **Model Performance**  
+2. **Model Performance**  
    ![KNN Classification](assets/KNNCLASSIFICATION.png)  
    ![Decision Tree Classification](assets/Decsiiontreeclassicifation.png)
 
@@ -234,7 +208,7 @@ Developed ML models to predict client subscription to term deposits using the ba
 
 ---
 
-## 🔹 **B. Customer Segmentation Using K-Means and Hierarchical Clustering on Credit Card Data**  
+#### 🔹 **B. Customer Segmentation Using K-Means and Hierarchical Clustering on Credit Card Data**  
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
@@ -260,13 +234,13 @@ Developed ML models for customer segmentation using clustering techniques to ide
 - Python, Scikit-learn, Pandas, Matplotlib
 
 **Key Visualizations:**  
-- **Correlation Analysis**  
+1. **Correlation Analysis**  
    ![Correlation](assets/CLUstering_Corelation.png)  
 
-- **Dendrogram**  
+2. **Dendrogram**  
    ![Dendrogram](assets/Dendogram.png)  
 
-- **K-Means Clustering**  
+3. **K-Means Clustering**  
    ![K-Means](assets/Kmeans-Clusters.png)
 
 **Recommendations:**  
@@ -277,7 +251,7 @@ Developed ML models for customer segmentation using clustering techniques to ide
 
 ---
 
-## 🔹 **C. Sentiment Analysis and Text Classification on US McDonald's Reviews Dataset**  
+#### 🔹 **C. Sentiment Analysis and Text Classification on US McDonald's Reviews Dataset**  
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
@@ -301,27 +275,22 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 - Python, **Scikit-learn**, **Pandas**, **Matplotlib**, **NLTK**, **TextBlob**
 
 **Key Visualizations:**  
-- **Sentiment Distribution**  
+1. **Sentiment Distribution**  
    ![Overall Sentiment](assets/OVerallsentiment.png)  
 
-- **Positive Reviews**  
+2. **Positive Reviews**  
    ![Positive Reviews](assets/POsitivereviews.png)  
 
-- **Negative Reviews & Word Clouds**  
+3. **Negative Reviews & Word Clouds**  
    ![Negative Word Cloud](assets/Nogativeword.png)
 
 **Recommendations:**  
 - **Text Classification:** Use models for real-time customer sentiment analysis and response.  
 - **Sentiment Insights:** Focus on improving food quality and service speed at underperforming stores (e.g., Miami Beach).
 
+### Classification Models using Azure ML Designer <a name="classification-models-using-azure-ml-designer"></a>
 
-# 🚀 **Data Mining and Machine Learning Projects in Python**
-
----
-
-## 5. **Classification Models on Azure ML Designer**
-
-### 🔹 **A. Classification Models on Azure ML Designer**  
+#### 🔹 **A. Classification Models on Azure ML Designer**  
 **Duration:** Sep 2024 - Present  
 
 **Dataset:**  
@@ -350,11 +319,11 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
    ![Logistic Regression](assets/LogisticRegression.png)  
    ![Decision Tree Evaluation](assets/DecisiontreeEvaluation.png)
 
----
+---  
 
-## 6. **Databricks Projects with PySpark Functions**
+### Databricks Projects with PySpark <a name="databricks-projects-with-pyspark"></a>  
 
-### 🔹 **A. Databricks Projects Using PySpark (RDD, DataFrames, and SQL)**  
+####🔹 **A. Databricks Projects Using PySpark (RDD, DataFrames, and SQL)**  
 **Duration:** Jan 2024 - Present  
 
 **Objective:**  
@@ -389,7 +358,7 @@ Efficiently process and analyze large-scale datasets using **PySpark** on **Data
 
 ---
 
-### 🔹 **B. Steam Data Analysis: Visualization & ALS Evaluation in Databricks**  
+#### 🔹 **B. Steam Data Analysis: Visualization & ALS Evaluation in Databricks**  
 **Duration:** Jan 2024 - Present  
 
 **Objective:**  
@@ -417,70 +386,49 @@ Analyze large-scale Steam datasets using **PySpark** on **Databricks**, with dat
 - **Top 10 Recommendations per User**  
   ![Top 10 Recommendations](assets/Top10.png)
 
-
-## 💼 Work Experience  
-<a id="-work-experience"></a>  
-I have gained hands-on experience in various data science roles, where I applied my skills to solve real-world business challenges.
-
-### **Data Visualization Analyst (Part-Time)**  
-**Eagle Cars & Tiger Taxis | Oct 2024 - Present | Clitheroe, UK**  
-- Created weekly and monthly dashboards to report driver performance.  
-- Automated reporting processes, reducing manual reporting time by 50%.  
-- Developed visualizations that improved decision-making for stakeholders.
-
-### **Data Scientist (Full-Time)**  
-**WebDoc | May 2023 - Dec 2023 | Islamabad, Pakistan**  
-- Improved data accuracy by 20% through data cleaning and validation.  
-- Created over 15 dynamic visualizations to represent complex datasets.  
-- Applied regression and classification models to predict user behavior.
-
-### **Data Insights Analyst (Full-Time)**  
-**Zones, IT Solutions | Sep 2021 - May 2023 | Islamabad, Pakistan**  
-- Developed data-driven strategies that increased customer retention by 18%.  
-- Designed and maintained Power BI dashboards for real-time performance tracking.  
-- Collaborated with cross-functional teams to design reports for business decisions.
+### Power BI Dashboard Development Projects <a name="power-bi-dashboard-development-projects"></a>  
 
 ---
 
-## 🎓 Education  
-<a id="-education"></a>  
-Here’s my academic background that laid the foundation for my career in data science.
+## 💼 Work Experience <a name="-work-experience"></a>  
+**Data Scientist**  
+*Company Name* – *Location*  
+*Start Date – End Date*  
+- Developed and deployed machine learning models to improve business outcomes.  
+- Collaborated with cross-functional teams to identify data-driven solutions.  
+- Conducted data cleaning, preprocessing, and exploratory data analysis.  
 
-### **M.S. in Data Science** _(Expected May 2025)_  
-**University of Salford, UK**  
-- Coursework: Machine Learning, Big Data Analytics, NLP, Deep Learning
-
-### **B.S. in Software Engineering** _(Graduated May 2022)_  
-**Bahria University, Pakistan**  
-- Coursework: AI, Data Mining, Web Development, Database Systems
-
----
-
-## 🎯 Activities  
-<a id="-activities"></a>  
-In addition to my professional and academic pursuits, I am actively involved in extracurricular activities.
-
-### **President, Dawah Society - Salford University** _(2024)_  
-- Organized weekly social events to foster student engagement and unity.
+**Data Analyst Intern**  
+*Company Name* – *Location*  
+*Start Date – End Date*  
+- Analyzed datasets to identify trends and patterns.  
+- Created visualizations to communicate insights to stakeholders.  
+- Assisted in building predictive models using Python.  
 
 ---
 
-## 🔧 How to Use This Repository  
-<a id="-how-to-use-this-repository"></a>  
-Clone this repository to explore my projects and codebase:  
-```bash
-git clone https://github.com/your-username/data-scientist-portfolio.git  
-cd data-scientist-portfolio
+## 🎓 Education <a name="-education"></a>  
+**Master of Science in Data Science**  
+*University Name* – *Location*  
+*Graduation Date*  
 
-## 📞 Contact
-<a id="-contact"></a>
-You can get in touch with me through the following channels:
+**Bachelor of Science in Computer Science**  
+*University Name* – *Location*  
+*Graduation Date*  
 
-📧 Email: mananw25@gmail.com
-🔗 LinkedIn: [ Linkedin Profile](https://www.linkedin.com/in/abdul-manan-4a685926a/)
-🐙 GitHub: [ GitHub Profile](https://github.com/mananabbasi)---
+---
 
+## 🎯 Activities <a name="-activities"></a>  
+- Participated in Kaggle competitions, achieving top 10% rankings.  
+- Attended data science conferences and workshops to stay updated with industry trends.  
+- Contributed to open-source projects on GitHub.  
 
+---
 
+## 📞 Contact <a name="-contact"></a>  
+- **Email**: your.email@example.com  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
+- **Portfolio Website**: [Your Portfolio Website](https://www.yourwebsite.com)  
 
-
+---

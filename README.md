@@ -186,7 +186,7 @@ Developed ML models to predict client subscription to term deposits using real w
 - [Decision Tree Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Classification%20Decision_Tree%20with%20class%20imbalance.ipynb)
 
 **Process:**  
-- Preprocessed data and built **classification** and **clustering models** (Logistic Regression, Random Forest, SVM, K-Means, DBSCAN).  
+- Preprocessed data and built **classification** Models (Logistic Regression, Random Forest, SVM, K-Means, DBSCAN).  
 - Evaluated models with accuracy, precision, recall, F1, and silhouette scores.  
 - Performed hyperparameter tuning using **GridSearchCV** and **RandomizedSearchCV**.
 
@@ -287,7 +287,6 @@ Developed ML models for customer segmentation using clustering techniques to ide
 
 **Recommendations for Obesity  DataSet:**  
 - Tailor healthcare products and interventions based on distinct obesity patterns to improve treatment outcomes.
-- Use clustering insights to target high-risk groups with customized health campaigns and form partnerships with healthcare providers.
 ---
 
 #### 🔹 **C. Sentiment Analysis and Text Classification on US McDonald's Reviews Dataset**  
@@ -464,7 +463,7 @@ Create interactive, real-time dashboards for monitoring business performance and
 - **Power BI**, **DAX**, **SQL**
 
 #### **Key Visualizations**  
-1. **Population  Growth by Real-Time Insights by Region and Country Group***
+ **1.Population  Growth by Real-Time Insights by Region and Country Group***
    **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
    ![Final Dashboard](assets/Final_Dashboard.png)
 **Outcome:**  
@@ -472,7 +471,7 @@ Create interactive, real-time dashboards for monitoring business performance and
 - Overall Population Growth: Displays the total population growth across all regions during this period.
 -  Urban vs. Rural Population Trends: Highlights the shift in population distribution between urban and rural areas, apturing significant urbanization patterns.
 
-2. **HIV Data Dashboard Outcomes by Region and Country Group***
+**2.HIV Data Dashboard Outcomes by Region and Country Group***
    **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
    ![Final Dashboard](assets/Dashboard.png)
    
@@ -484,19 +483,19 @@ Create interactive, real-time dashboards for monitoring business performance and
 - Supports advocacy efforts for improved HIV-related policies in high-burden regions.
 
 
-3. **Sales Report Dashboard***
+**3. Sales Report Dashboard***
    **Dataset:** [https://www.makeovermonday.co.uk/)  
    ![Final Dashboard](assets/SalesReport.png)
 **Outcome:**  
 - February 25, 2019, achieved the highest sales, totaling $253,915.47.
 - The United States emerged as the top-performing country with 132,748 orders.
 - The company should continue investing in the Bikes product category and focus on Value Added Reseller and Warehouse business types for sustained growth..
-
   
-4. **European Energy Transition(2000-2020)***
+**4. European Energy Transition(2000-2020)***
    **Dataset:** [[https://www.makeovermonday.co.uk](https://acleddata.com/data/)/)  
    ![Final Dashboard](assets/2ndDash.png)
-5. **European Energy Transition***
+   
+**5. European Energy Transition***
    **Dataset:** [[https://www.makeovermonday.co.uk](https://acleddata.com/data/)/)  
    ![Final Dashboard](assets/2ndDashboard.png)
 **Outcome:**  

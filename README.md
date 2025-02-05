@@ -63,7 +63,9 @@ I am proficient in a range of tools and technologies that help me effectively an
 
 #### 🔹 **A. Statistical Analysis & Advanced Statistics using R**  
 **Duration:** Sep 2024 - Dec 2025  
-**Dataset:** [Concrete Strength Prediction](https://www.kaggle.com/datasets/ruchikakumbhar/concrete-strength-prediction)  
+
+**Dataset:** 
+ [Concrete Compressive Strength](https://www.kaggle.com/datasets/ruchikakumbhar/concrete-strength-prediction).
 **R Analysis Repository:** [GitHub Repository](https://github.com/mananabbasi/Applied_Statistics_-_Data_Visualisation_)
 
 **Objective:**  
@@ -102,7 +104,8 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 
 #### 🔹 **B. Time Series Forecasting Models in R**  
 **Duration:** Nov 2024 - Dec 2024  
-**Dataset:** [Vital Statistics in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables)  
+**Dataset:** [Vital Statistics in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables).
+
 **Code:** [Vital Statistics in the UK - Time Series Modelling](https://github.com/mananabbasi/Time-Series-Modelling/blob/main/Birth_time_series.R)
 
 **Objective:**  
@@ -145,15 +148,15 @@ Designed and implemented a scalable, high-performance hospital database to manag
 
 **Tools Used:**  
 - **Microsoft SQL Server**, **T-SQL**
-# Key Visualizations
+**Key Visualizations**  
 
- 1. Database Diagram
+ **1. Database Diagram**  
 The database structure is visualized in the diagram below:
 ![Database Diagram](assets/Data_Base_Diagram.png)
- 2. Total Appointments
+ ** 2. Total Appointments** 
 The total number of appointments is shown in the following visualization:
 ![Total Appointments](assets/Appointsments.png)
-3. Today's Appointments
+**3. Today's Appointments**  
 Today's appointments, including returning appointments, are displayed below:
 ![Today's Appointments](assets/Returing_Todays_Apointsments.png)
 
@@ -175,9 +178,8 @@ Developed ML models to predict client subscription to term deposits using real w
 **Dataset:**  
 
 - **[Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)**  
-  This dataset contains information about marketing campaigns run by a Portuguese bank. It includes details on client interactions and whether they subscribed to a term deposit.
+
 - **[Cinar & Koklu (2019) Rice Variety Dataset](https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik)**  
-  The dataset provides detailed morphological measurements of rice grains, which are used for classifying the grains into two distinct varieties: Cammeo and Osmancik.
   
 **CodeS:**  
 - [KNN Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/KNN%20-%20Classification%20with%20Class%20Imbalance.ipynb)  
@@ -231,10 +233,10 @@ Developed ML models for customer segmentation using clustering techniques to ide
 
 **Dataset:**  
 - **[Credit Card Marketing Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?resource=download)**  
-  This dataset contains information on credit card marketing campaigns, including customer profiles and responses to marketing efforts.
+  
 
 - **[Estimation of Obesity Levels Based on Eating Habits and Physical Condition](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)**  
-  This dataset focuses on estimating obesity levels using data on eating habits and physical condition.
+
 
 **Codes:**  
 - [K-Means Clustering](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/ClusteringK-Means.ipynb)  
@@ -254,29 +256,29 @@ Developed ML models for customer segmentation using clustering techniques to ide
 
 **Key Visualizations:**  
 
-##### 1. Credit Card Dataset
+ **Credit Card Dataset**
 
-- **a. Correlation Analysis**  
+- **Correlation Analysis**  
   ![Correlation](assets/CLUstering_Corelation.png)
 
-- **b. Dendrogram**  
+- **Dendrogram**  
   ![Dendrogram](assets/Dendogram.png)
 
-- **c. K-Means Clustering**  
+- **K-Means Clustering**  
   ![K-Means](assets/Kmeans-Clusters.png)
 
-##### 2. Obesity Dataset
+**2. Obesity Dataset** 
 
-- **a. Number of Clusters**  
+- **Number of Clusters**  
   ![No of Clusters](assets/No_of_Clusters.png)
 
-- **b. Skewness**  
+- **Skewness**  
   ![Skewness](assets/ClusteringEDA.png)
 
-- **c. EDA**  
+- **EDA**  
   ![EDA](assets/Heatmap.png)
 
-- **d. Clusters for this Dataset**  
+- **Clusters for this Dataset**  
   ![Clusters](assets/Clusters.png)
 
    
@@ -320,29 +322,24 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 - Python, **Scikit-learn**, **Pandas**, **Matplotlib**, **NLTK**, **TextBlob**
 
 **Key Visualizations from Macdonald Dataset:**  
-## Key Visualizations from McDonald's Dataset
 
-1. **Sentiment Distribution**  
+ **Sentiment Distribution**  
    ![Overall Sentiment](assets/OVerallsentiment.png)
-
-2. **Positive Reviews**  
+**Positive Reviews**  
    ![Positive Reviews](assets/POsitivereviews.png)
-
-3. **Negative Reviews & Word Clouds**  
+**Negative Reviews & Word Clouds**  
    ![Negative Word Cloud](assets/Nogativeword.png)
 
-## Key Visualizations from Twitter Dataset
-
-1. **Sentiments Across the World**  
+**Key Visualizations from Twitter Dataset**
+**Sentiments Across the World**  
    ![Sentiments of Tweets](assets/Sentimentsoftweets.png)
 
-2. **Tweets Heat Map**  
+**Tweets Heat Map**  
    ![Tweets Heat Map](assets/TwitterhEATMAP.png)
 
-3. **Top Words in Positive, Negative, and Neutral Emotions**  
+ **Top Words in Positive, Negative, and Neutral Emotions**  
    ![Top Words](assets/TOpwords.png)
-
-4. **Word Cloud Across Sentiments**  
+ **Word Cloud Across Sentiments**  
    ![Word Cloud](assets/Wordcout.png)
 
 

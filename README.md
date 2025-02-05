@@ -60,8 +60,6 @@ Designed and implemented a scalable, high-performance hospital database to manag
 - **Today's Appointments**  
 ![Returning Today's Appointments](assets/Returing_Todays Apointsments.png)
 
-- **Doctor Table Update**  
-![Doctor Update](assets/Doctor_Update.png)
 
 ### 🔹 **2.Statistical Analysis & Advanced Statistics using R  
 **Duration:** Sep 2024 - Dec 2025  

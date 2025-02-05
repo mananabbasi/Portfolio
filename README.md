@@ -1,19 +1,25 @@
 
+
 # 🎯 **Data Scientist Portfolio**  
 🌟 Welcome to my Data Scientist Portfolio! 🚀
 A showcase of my work in data analysis, machine learning, and visualization, highlighting my ability to extract insights and build data-driven solutions.
 ---
+# 📌 Table of Contents
 
-## 📌 **Table of Contents**  
-- [🌟 About Me](#-about-me)  
-- [🚀 Projects](#-projects)  
-- [🛠 Skills](#-skills)  
-- [⚙ Tools & Technologies](#-tools--technologies)  
-- [💼 Work Experience](#-work-experience)  
-- [🎓 Education](#-education)  
-- [🎯 Activities](#-activities)  
-- [🔧 How to Use This Repository](#-how-to-use-this-repository)  
-- [📞 Contact](#-contact)  
+- [🌟 About Me](#about-me)
+- [🛠 Skills](#skills)
+- [⚙ Tools & Technologies](#tools-technologies)
+- [🚀 Projects](#projects)
+  - [Statistical Analysis Projects with R](#statistical-analysis-projects-with-r)
+  - [Advanced SQL Database Development Projects](#advanced-sql-database-development-projects)
+  - [Data Mining & Machine Learning Projects in Python](#data-mining-machine-learning-projects-in-python)
+  - [Classification Models using Azure ML Designer](#classification-models-using-azure-ml-designer)
+  - [Databricks Projects with PySpark](#databricks-projects-with-pyspark)
+  - [Power BI Dashboard Development Projects](#power-bi-dashboard-development-projects)
+- [💼 Work Experience](#work-experience)
+- [🎓 Education](#education)
+- [🎯 Activities](#activities)
+- [📞 Contact](#contact)
 
 ---
 
@@ -21,47 +27,47 @@ A showcase of my work in data analysis, machine learning, and visualization, hig
 <a id="-about-me"></a>  
 I am a data scientist dedicated to solving complex problems using data-driven methods. Specializing in statistics, machine learning, data visualization, and big data processing, I transform raw data into valuable insights. Always eager to learn, I continuously expand my knowledge and adapt to new technologies in the field.
 
-### 📊 **Key Expertise:**  
-- **Data Wrangling & Cleaning**  
-- **Exploratory Data Analysis (EDA)**  
-- **Machine Learning & Predictive Modeling**  
-- **Statistical Analysis & Hypothesis Testing**  
-- **Data Visualization & Storytelling**  
-
----
-## 🚀 Projects
-
 ---
 
-### 🔹 **1. Hospital Database Development (Microsoft SQL Server)**  
-**Duration:** Jan 2024 - Apr 2024
 
-**Objective:**  
-Designed and implemented a scalable, high-performance hospital database to manage large volumes of data.
+## 🛠 Skills  
+<a id="-skills"></a>  
+Here is a list of my key technical and soft skills.
 
-**Process:**  
-- Created ER diagrams and normalized schema.
-- Optimized with indexing and automated tasks using stored procedures and triggers.
+### **Technical Skills:**  
+- **Programming Languages**: Python, R, SQL  
+- **Machine Learning**: Classification, Regression, Clustering, Deep Learning  
+- **Big Data & Cloud**: Spark, Hadoop, AWS, GCP  
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+- **Statistical Analysis**: Hypothesis Testing, ANOVA, Regression Analysis  
 
-**Outcome:**  
-- Fully operational, scalable database system optimized for fast queries and data integrity.
+### **Soft Skills:**  
+- **Problem Solving**  
+- **Communication**  
+- **Collaboration**  
+- **Adaptability**  
+- **Critical Thinking**
 
-**Tools Used:**  
-- **Microsoft SQL Server**, **T-SQL**
+---
 
-### Key Visualizations:
+## ⚙ Tools & Technologies  
+<a id="-tools--technologies"></a>  
+I am proficient in a range of tools and technologies that help me effectively analyze data and develop insights.
 
-- **Database Diagram**  
-![Database Diagram](assets/Data_Base_Diagram.png)
+- **Programming Languages**: Python, R, SQL  
+- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Big Data & Cloud**: AWS, Azure, GCP, Hadoop, Spark  
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+- **Development Tools**: Jupyter Notebook, VS Code, Git
 
-- **Total Appointments**  
-![Appointments](assets/Appointsments.png)
+---
+## 🚀 Projects:
 
-- **Today's Appointments**  
-![Returning Today's Appointments](assets/Returing_Todays Apointsments.png)
+1 Statistical Analysis Projects Using R:
 
 
-### 🔹 **2.Statistical Analysis & Advanced Statistics using R  
+### 🔹 **A:.Statistical Analysis & Advanced Statistics using R  
 **Duration:** Sep 2024 - Dec 2025  
 
 ## **Dataset**  
@@ -115,7 +121,7 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 - Delivered actionable insights and statistical reports to stakeholders.  
 - Created visualizations and dashboards for effective communication.  
   
-### 🔹 **3.Time Series Forecasting Models in R  
+### 🔹 **B.Time Series Forecasting Models in R  
 **Duration:** Nov 2024 - Dec 2024  
 
 ## **Dataset**  
@@ -159,8 +165,43 @@ To develop accurate time series forecasting models for predicting future trends,
 ## **Outcome**  
 - Provided actionable insights through thorough EDA and robust regression model evaluation.  
 - Significantly improved inventory management efficiency and informed data-driven decision-making.
-  
-### 🔹 **4. Power BI Dashboard: Real-Time Insights by Region and Country Group**  
+
+
+2 Advanced SQL Database Development Projects:
+
+
+---
+
+### 🔹 **A Hospital Database Development (Microsoft SQL Server)**  
+**Duration:** Jan 2024 - Apr 2024
+
+**Objective:**  
+Designed and implemented a scalable, high-performance hospital database to manage large volumes of data.
+
+**Process:**  
+- Created ER diagrams and normalized schema.
+- Optimized with indexing and automated tasks using stored procedures and triggers.
+
+**Outcome:**  
+- Fully operational, scalable database system optimized for fast queries and data integrity.
+
+**Tools Used:**  
+- **Microsoft SQL Server**, **T-SQL**
+
+### Key Visualizations:
+
+- **Database Diagram**  
+![Database Diagram](assets/Data_Base_Diagram.png)
+
+- **Total Appointments**  
+![Appointments](assets/Appointsments.png)
+
+- **Today's Appointments**  
+![Returning Today's Appointments](assets/Returing_Todays Apointsments.png)
+
+  3 Power BI Dashboard Development Projects
+
+### 🔹 **A. Power BI Dashboard: Real-Time Insights by Region and Country Group**  
 **Duration:** Jan 2024 - Current  
 **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
 **Other Dashboards:** [GitHub Repository](https://github.com/mananabbasi/Dashboard-Power-bi)
@@ -183,7 +224,10 @@ Create interactive, real-time dashboards for monitoring business performance and
 **Outcome:**  
 - Delivered real-time interactive dashboards for performance tracking and data-driven decisions.
 
-### 🔹 **5. Classification Models in Python for Banking**  
+
+4  Data Mining and Machine Learning Projects in Python
+
+### 🔹 **A. Classification Models in Python for Banking**  
 **Duration:** Sep 2024 - Present  
 **Objective:**  
 Developed ML models to predict client subscription to term deposits using the banking dataset.
@@ -218,7 +262,7 @@ Developed ML models to predict client subscription to term deposits using the ba
 - Optimal campaign timing: **mid-month** and **summer months**.  
 - Prioritize **mobile contact** and impactful first interactions.
 
-# 🔹 **6. Customer Segmentation Using K-Means and Hierarchical Clustering on Credit Card Data**  
+# 🔹 **B. Customer Segmentation Using K-Means and Hierarchical Clustering on Credit Card Data**  
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
@@ -256,7 +300,7 @@ Developed ML models for customer segmentation using clustering techniques to ide
 - **Hierarchical (4 Clusters):** Detailed insights for refined marketing.  
 - **CASH_ADVANCE:** Target **high users** with rewards, **low users** with education.  
 - **Credit Limit:** Promote for **low usage, high limits** and **raise limits for high usage, low credit limits**.
-### 🔹 **7. Sentiment Analysis and Text Classification on US McDonald's Reviews Dataset**  
+### 🔹 **C. Sentiment Analysis and Text Classification on US McDonald's Reviews Dataset**  
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
@@ -291,7 +335,8 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 - **Text Classification:** Use models for real-time customer sentiment analysis and response.  
 - **Sentiment Insights:** Focus on improving food quality and service speed at underperforming stores (e.g., Miami Beach).
 
-### 🔹 **8. Classification Models on Azure ML Designer**  
+5 : Classification Models on Azure ML Designer
+### 🔹 **A. Classification Models on Azure ML Designer**  
 **Duration:** Sep 2024 - Present  
 
 **Dataset:**  
@@ -319,7 +364,9 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
    ![Logistic Regression](assets/LogisticRegression.png)  
    ![Decision Tree Evaluation](assets/DecisiontreeEvaluation.png)
 
-### 🔹 **9. Databricks Projects Using PySpark (RDD, DataFrames, and SQL)**  
+  6 Databricks Projects with PySpark Functions
+
+### 🔹 **A. Databricks Projects Using PySpark (RDD, DataFrames, and SQL)**  
 **Duration:** Jan 2024 - Present  
 
 **Objective:**  
@@ -352,7 +399,7 @@ Efficiently process and analyze large-scale datasets using **PySpark** on **Data
 ## **Tools Used:**  
 - **PySpark** (RDDs, DataFrames, Spark SQL), **Databricks**, **Python**, **Databricks Notebooks**
 
-### 🔹 **10. Steam Data Analysis: Visualization & ALS Evaluation in Databricks**  
+### 🔹 **B. Steam Data Analysis: Visualization & ALS Evaluation in Databricks**  
 **📅 Duration:** Jan 2024 - Present  
 
 **Objective:**  
@@ -379,39 +426,6 @@ Analyze large-scale Steam datasets using **PySpark** on **Databricks**, with dat
 ## **Key Visualizations:**  
 - **Top 10 Recommendations per User**  
   ![Top 10 Recommendations](assets/Top10.png)
-
-## 🛠 Skills  
-<a id="-skills"></a>  
-Here is a list of my key technical and soft skills.
-
-### **Technical Skills:**  
-- **Programming Languages**: Python, R, SQL  
-- **Machine Learning**: Classification, Regression, Clustering, Deep Learning  
-- **Big Data & Cloud**: Spark, Hadoop, AWS, GCP  
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
-- **Statistical Analysis**: Hypothesis Testing, ANOVA, Regression Analysis  
-
-### **Soft Skills:**  
-- **Problem Solving**  
-- **Communication**  
-- **Collaboration**  
-- **Adaptability**  
-- **Critical Thinking**
-
----
-
-## ⚙ Tools & Technologies  
-<a id="-tools--technologies"></a>  
-I am proficient in a range of tools and technologies that help me effectively analyze data and develop insights.
-
-- **Programming Languages**: Python, R, SQL  
-- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **Big Data & Cloud**: AWS, Azure, GCP, Hadoop, Spark  
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
-- **Development Tools**: Jupyter Notebook, VS Code, Git
-
----
 
 ## 💼 Work Experience  
 <a id="-work-experience"></a>  
@@ -473,4 +487,5 @@ You can get in touch with me through the following channels:
 
 📧 Email: mananw25@gmail.com
 🔗 LinkedIn: [ Linkedin Profile](https://www.linkedin.com/in/abdul-manan-4a685926a/)
-🐙 GitHub: [ GitHub Profile](https://github.com/mananabbasi)
+🐙 GitHub: [ GitHub Profile](https://github.com/mananabbasi)---
+

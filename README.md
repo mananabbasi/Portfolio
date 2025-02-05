@@ -117,13 +117,12 @@ To develop accurate time series forecasting models for predicting future trends,
 **Tools Used:**  
 - **R** (forecast, tseries, ggplot2)
 
-#### **Key Visualizations**  
-1. **Time Series Plot**  
-   ![Time Series](assets/TimeSeries.png)  
-2. **Additive Model with Trend**  
-3. **Forecasting Results**  
+#### **Key Visualizations**   
+1. **Additive Model with Increasing or Decresing Trends**
+  ![Additive Model with Trend](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png)
+2. **Forecasting Results**  
    ![Forecasting](assets/TS_Forcasting.png)  
-4. **Forecast Errors**  
+3. **Forecast Errors**  
    ![Forecast Errors](assets/TS_Forcast_Errors.png)  
 
 **Outcome:**  
@@ -132,7 +131,6 @@ To develop accurate time series forecasting models for predicting future trends,
 
 ---
 ### Advanced SQL Database Development Projects <a name="advanced-sql-database-development-projects"></a>  
-### 2. Advanced SQL Database Development Projects
 
 #### 🔹 **A. Hospital Database Development (Microsoft SQL Server)**  
 **Duration:** Jan 2024 - Apr 2024  
@@ -147,17 +145,17 @@ Designed and implemented a scalable, high-performance hospital database to manag
 
 **Tools Used:**  
 - **Microsoft SQL Server**, **T-SQL**
+# Key Visualizations
 
-#### **Key Visualizations**  
-1. **Database Diagram**  
-   ![Database Diagram](assets/Data_Base_Diagram.png)  
-
-2. **Total Appointments**  
-   ![Appointments](assets/Appointsments.png)  
-
-3. **Today's Appointments**  
-   ![Returning Today's Appointments](assets/Returing_Todays_Apointsments.png)
-
+## 1. Database Diagram
+The database structure is visualized in the diagram below:
+![Database Diagram](assets/Data_Base_Diagram.png)
+## 2. Total Appointments
+The total number of appointments is shown in the following visualization:
+![Total Appointments](assets/Appointsments.png)
+## 3. Today's Appointments
+Today's appointments, including returning appointments, are displayed below:
+![Today's Appointments](assets/Returing_Todays_Apointsments.png)
 
 **Outcome:**  
 - Developed a fully operational, scalable database system.  

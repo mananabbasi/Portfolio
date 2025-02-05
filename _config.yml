@@ -4,33 +4,3 @@ description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
 
-
-baseurl: "" # Leave empty if serving from the root domain
-url: "" # Your site's full URL (e.g., https://yourdomain.com)
-
-# Navigation Links (Simple Menu)
-navbar_links:
-  - name: Home
-    link: /
-  - name: About
-    link: /about
-  - name: Contact
-    link: /contact
-
-# Social Media Links (Basic)
-social_links:
-  - name: GitHub
-    url: https://github.com/yourusername
-  - name: Twitter
-    url: https://twitter.com/yourusername
-  - name: LinkedIn
-    url: https://linkedin.com/in/yourusername
-
-# Optional Features
-show_downloads: false # Set to true if you want download links
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - node_modules
-  - vendor

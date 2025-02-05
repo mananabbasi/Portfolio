@@ -14,7 +14,8 @@ A showcase of my work in data analysis, machine learning, and visualization, hig
   - [Data Mining & Machine Learning Projects in Python](#data-mining--machine-learning-projects-in-python)  
   - [Classification Models using Azure ML Designer](#classification-models-using-azure-ml-designer)  
   - [Databricks Projects with PySpark](#databricks-projects-with-pyspark)  
-  - [Power BI Dashboard Development Projects](#power-bi-dashboard-development-projects)  
+  - [Power BI Dashboard Development Projects](#power-bi-dashboard-development-projects)
+  - [Current Projects](#current-projects)
 - [💼 Work Experience](#-work-experience)  
 - [🎓 Education](#-education)  
 - [🎯 Activities](#-activities)  
@@ -87,6 +88,8 @@ To perform statistical analysis on the dataset, uncover insights, and support da
    ![Numerical Distribution](assets/Distribution_of_Numerical.png)  
 **Categorical Variable Distribution**  
    ![Categorical Distribution](assets/Catergorical_Distribution.png)  
+**Normality Check**  
+     ![Normalization](assets/Normalization.png)
 **Correlation Analysis**  
    ![Correlation Matrix](assets/Corelation.png)  
 **Simple Linear Regression (SLR) Assumptions**  
@@ -461,7 +464,7 @@ Create interactive, real-time dashboards for monitoring business performance and
 - **Power BI**, **DAX**, **SQL**
 
 #### **Key Visualizations**  
-1. **Power BI Dashboard: Real-Time Insights by Region and Country Group***
+1. **Population  Growth by Real-Time Insights by Region and Country Group***
    **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
    ![Final Dashboard](assets/Final_Dashboard.png)
 **Outcome:**  
@@ -469,8 +472,19 @@ Create interactive, real-time dashboards for monitoring business performance and
 - Overall Population Growth: Displays the total population growth across all regions during this period.
 -  Urban vs. Rural Population Trends: Highlights the shift in population distribution between urban and rural areas, apturing significant urbanization patterns.
 
+2. **HIV Data Dashboard Outcomes by Region and Country Group***
+   **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
+   ![Final Dashboard](assets/Dashboard.png)
+   
+**Outcome:**  
 
-2. **Sales Report***
+- Identifies high-risk regions and populations, guiding targeted healthcare efforts and resource allocation.
+- Tracks long-term trends to adjust strategies and meet global HIV targets.
+- Highlights ART usage and viral load suppression, raising awareness of treatment gaps.
+- Supports advocacy efforts for improved HIV-related policies in high-burden regions.
+
+
+3. **Sales Report Dashboard***
    **Dataset:** [https://www.makeovermonday.co.uk/)  
    ![Final Dashboard](assets/SalesReport.png)
 **Outcome:**  
@@ -479,15 +493,27 @@ Create interactive, real-time dashboards for monitoring business performance and
 - The company should continue investing in the Bikes product category and focus on Value Added Reseller and Warehouse business types for sustained growth..
 
   
-3. **European Energy Transition (2000-2020)***
+4. **European Energy Transition(2000-2020)***
    **Dataset:** [[https://www.makeovermonday.co.uk](https://acleddata.com/data/)/)  
    ![Final Dashboard](assets/2ndDash.png)
-4. **European Energy Transition***
+5. **European Energy Transition***
    **Dataset:** [[https://www.makeovermonday.co.uk](https://acleddata.com/data/)/)  
    ![Final Dashboard](assets/2ndDashboard.png)
 **Outcome:**  
 - These dashboard provides insights into European energy production and consumption from 2000 to 2020. It focuses on fossil fuels, renewable energy, and nuclear energy trends across EU countries and the UK.
 
+### Current Projects <a name="current-projects"></a>
+
+Currently, I am working on my dissertation focused on **Cryptocurrency: Global Trends, Acceptance Around the World, and Future Price Predictions** of top currencies based on historical data. The research will involve creating visualizations and reporting to analyze the evolution of cryptocurrencies and their impact on the global market.
+
+**Research Focus:**
+- **Global Trends & Acceptance**: Exploring how cryptocurrencies are adopted worldwide and identifying the factors driving adoption and resistance in different regions.
+- **Price Predictions**: Using advanced data science techniques like machine learning models, data visualization, and analysis tools (Power BI, Python, R) to predict price trends for leading cryptocurrencies like Bitcoin and Ethereum.
+- **Regulatory Challenges & Market Volatility**: Analyzing the regulatory landscape for digital currencies and the impact of market volatility on their adoption.
+The research combines **qualitative insights** and **data-driven analysis** to provide valuable perspectives for investors, policymakers, and researchers about the role of cryptocurrencies in the global economy.
+
+**Part-Time Work Experience**
+Alongside my dissertation, I am working part-time with **Eagle Cars** and **Tiger Taxi**, helping them generate weekly and monthly reports for better decision-making. This experience allows me to apply my data analysis and reporting skills in real-world scenarios.
 
 ## 💼 Work Experience  
 <a id="-work-experience"></a>  

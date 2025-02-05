@@ -147,13 +147,13 @@ Designed and implemented a scalable, high-performance hospital database to manag
 - **Microsoft SQL Server**, **T-SQL**
 # Key Visualizations
 
-## 1. Database Diagram
+ 1. Database Diagram
 The database structure is visualized in the diagram below:
 ![Database Diagram](assets/Data_Base_Diagram.png)
-## 2. Total Appointments
+ 2. Total Appointments
 The total number of appointments is shown in the following visualization:
 ![Total Appointments](assets/Appointsments.png)
-## 3. Today's Appointments
+3. Today's Appointments
 Today's appointments, including returning appointments, are displayed below:
 ![Today's Appointments](assets/Returing_Todays_Apointsments.png)
 

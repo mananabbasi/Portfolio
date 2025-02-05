@@ -99,7 +99,7 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 2. **Numerical Variable Distribution**  
    ![Numerical Distribution](assets/Distribution_of_Numerical.png)  
 3. **Categorical Variable Distribution**  
-   ![Categorical Distribution](assets/Categorical_Distribution.png)  
+   ![Categorical Distribution](assets/Catergorical_Distribution.png)  
 4. **Correlation Analysis**  
    ![Correlation Matrix](assets/Corelation.png)  
 5. **Age Distribution**  

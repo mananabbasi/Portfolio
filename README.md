@@ -444,9 +444,9 @@ Analyze large-scale Steam datasets using **PySpark** on **Databricks**, with dat
   ![Top 10 Recommendations](assets/Top10.png)
 
 ### Power BI Dashboard Development Projects <a name="power-bi-dashboard-development-projects"></a>  
-#### 🔹 **A. Power BI Dashboard: Real-Time Insights by Region and Country Group**  
+#### 🔹 **A. Power BI Dashboards: Real-Time Insights by Region and Country Group**  
 **Duration:** Jan 2024 - Current  
-**Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
+
 **Other Dashboards:** [GitHub Repository](https://github.com/mananabbasi/Dashboard-Power-bi)
 
 **Objective:**  
@@ -461,13 +461,30 @@ Create interactive, real-time dashboards for monitoring business performance and
 - **Power BI**, **DAX**, **SQL**
 
 #### **Key Visualizations**  
-1. **Final Dashboard**  
+1. **Power BI Dashboard: Real-Time Insights by Region and Country Group***
+   **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
    ![Final Dashboard](assets/Final_Dashboard.png)
-
 **Outcome:**  
 - Delivered real-time interactive dashboards for performance tracking and data-driven decisions.
 
----
+
+2. **Sales Report***
+   **Dataset:** [https://www.makeovermonday.co.uk/)  
+   ![Final Dashboard](assets/SalesReport.png)
+**Outcome:**  
+- February 25, 2019, achieved the highest sales, totaling $253,915.47.
+- The United States emerged as the top-performing country with 132,748 orders.
+- The company should continue investing in the Bikes product category and focus on Value Added Reseller and Warehouse business types for sustained growth..
+
+  
+3. **European Energy Transition (2000-2020)***
+   **Dataset:** [[https://www.makeovermonday.co.uk](https://acleddata.com/data/)/)  
+   ![Final Dashboard](assets/2ndDash.png)
+4. **European Energy Transition***
+   **Dataset:** [[https://www.makeovermonday.co.uk](https://acleddata.com/data/)/)  
+   ![Final Dashboard](assets/2ndDashboard.png)
+**Outcome:**  
+- These dashboard provides insights into European energy production and consumption from 2000 to 2020. It focuses on fossil fuels, renewable energy, and nuclear energy trends across EU countries and the UK.
 
 
 ## 💼 Work Experience  

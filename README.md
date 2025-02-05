@@ -465,7 +465,9 @@ Create interactive, real-time dashboards for monitoring business performance and
    **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
    ![Final Dashboard](assets/Final_Dashboard.png)
 **Outcome:**  
-- Delivered real-time interactive dashboards for performance tracking and data-driven decisions.
+-The dashboard provides a comprehensive overview of global population trends, showcasing how population dynamics have evolved between 1960 and 2022.
+- Overall Population Growth: Displays the total population growth across all regions during this period.
+-  Urban vs. Rural Population Trends: Highlights the shift in population distribution between urban and rural areas, apturing significant urbanization patterns.
 
 
 2. **Sales Report***

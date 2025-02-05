@@ -387,48 +387,91 @@ Analyze large-scale Steam datasets using **PySpark** on **Databricks**, with dat
   ![Top 10 Recommendations](assets/Top10.png)
 
 ### Power BI Dashboard Development Projects <a name="power-bi-dashboard-development-projects"></a>  
+#### 🔹 **A. Power BI Dashboard: Real-Time Insights by Region and Country Group**  
+**Duration:** Jan 2024 - Current  
+**Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
+**Other Dashboards:** [GitHub Repository](https://github.com/mananabbasi/Dashboard-Power-bi)
+
+**Objective:**  
+Create interactive, real-time dashboards for monitoring business performance and enabling data-driven decision-making.
+
+**Process:**  
+- Integrated SQL databases, Excel files, and APIs for real-time data.  
+- Designed user-friendly dashboards with slicers, filters, and advanced **DAX** measures.  
+- Optimized for fast performance and real-time updates.
+
+**Tools Used:**  
+- **Power BI**, **DAX**, **SQL**
+
+#### **Key Visualizations**  
+1. **Final Dashboard**  
+   ![Final Dashboard](assets/Final_Dashboard.png)
+
+**Outcome:**  
+- Delivered real-time interactive dashboards for performance tracking and data-driven decisions.
 
 ---
 
-## 💼 Work Experience <a name="-work-experience"></a>  
-**Data Scientist**  
-*Company Name* – *Location*  
-*Start Date – End Date*  
-- Developed and deployed machine learning models to improve business outcomes.  
-- Collaborated with cross-functional teams to identify data-driven solutions.  
-- Conducted data cleaning, preprocessing, and exploratory data analysis.  
 
-**Data Analyst Intern**  
-*Company Name* – *Location*  
-*Start Date – End Date*  
-- Analyzed datasets to identify trends and patterns.  
-- Created visualizations to communicate insights to stakeholders.  
-- Assisted in building predictive models using Python.  
+## 💼 Work Experience  
+<a id="-work-experience"></a>  
+I have gained hands-on experience in various data science roles, where I applied my skills to solve real-world business challenges.
 
----
+### **Data Visualization Analyst (Part-Time)**  
+**Eagle Cars & Tiger Taxis | Oct 2024 - Present | Clitheroe, UK**  
+- Created weekly and monthly dashboards to report driver performance.  
+- Automated reporting processes, reducing manual reporting time by 50%.  
+- Developed visualizations that improved decision-making for stakeholders.
 
-## 🎓 Education <a name="-education"></a>  
-**Master of Science in Data Science**  
-*University Name* – *Location*  
-*Graduation Date*  
+### **Data Scientist (Full-Time)**  
+**WebDoc | May 2023 - Dec 2023 | Islamabad, Pakistan**  
+- Improved data accuracy by 20% through data cleaning and validation.  
+- Created over 15 dynamic visualizations to represent complex datasets.  
+- Applied regression and classification models to predict user behavior.
 
-**Bachelor of Science in Computer Science**  
-*University Name* – *Location*  
-*Graduation Date*  
+### **Data Insights Analyst (Full-Time)**  
+**Zones, IT Solutions | Sep 2021 - May 2023 | Islamabad, Pakistan**  
+- Developed data-driven strategies that increased customer retention by 18%.  
+- Designed and maintained Power BI dashboards for real-time performance tracking.  
+- Collaborated with cross-functional teams to design reports for business decisions.
 
 ---
 
-## 🎯 Activities <a name="-activities"></a>  
-- Participated in Kaggle competitions, achieving top 10% rankings.  
-- Attended data science conferences and workshops to stay updated with industry trends.  
-- Contributed to open-source projects on GitHub.  
+## 🎓 Education  
+<a id="-education"></a>  
+Here’s my academic background that laid the foundation for my career in data science.
+
+### **M.S. in Data Science** _(Expected May 2025)_  
+**University of Salford, UK**  
+- Coursework: Machine Learning, Big Data Analytics, NLP, Deep Learning
+
+### **B.S. in Software Engineering** _(Graduated May 2022)_  
+**Bahria University, Pakistan**  
+- Coursework: AI, Data Mining, Web Development, Database Systems
 
 ---
 
-## 📞 Contact <a name="-contact"></a>  
-- **Email**: your.email@example.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
-- **Portfolio Website**: [Your Portfolio Website](https://www.yourwebsite.com)  
+## 🎯 Activities  
+<a id="-activities"></a>  
+In addition to my professional and academic pursuits, I am actively involved in extracurricular activities.
+
+### **President, Dawah Society - Salford University** _(2024)_  
+- Organized weekly social events to foster student engagement and unity.
 
 ---
+
+## 🔧 How to Use This Repository  
+<a id="-how-to-use-this-repository"></a>  
+Clone this repository to explore my projects and codebase:  
+```bash
+git clone https://github.com/your-username/data-scientist-portfolio.git  
+cd data-scientist-portfolio
+
+## 📞 Contact
+<a id="-contact"></a>
+You can get in touch with me through the following channels:
+
+📧 Email: mananw25@gmail.com
+🔗 LinkedIn: [ Linkedin Profile](https://www.linkedin.com/in/abdul-manan-4a685926a/)
+🐙 GitHub: [ GitHub Profile](https://github.com/mananabbasi)---
+

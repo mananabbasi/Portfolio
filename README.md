@@ -531,8 +531,7 @@ In addition to my professional and academic pursuits, I am actively involved in 
 <a id="-how-to-use-this-repository"></a>  
 Clone this repository to explore my projects and codebase:  
 ```bash
-git clone https://github.com/your-username/data-scientist-portfolio.git  
-cd data-scientist-portfolio
+git clone https://github.com/mananabbasi
 
 ## 📞 Contact
 <a id="-contact"></a>

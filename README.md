@@ -156,9 +156,6 @@ The database structure is visualized in the diagram below:
  **Total Appointments** 
 The total number of appointments is shown in the following visualization:
 ![Total Appointments](assets/Appointsments.png)
-**Today's Appointments**  
-Today's appointments, including returning appointments, are displayed below:
-![Today's Appointments](assets/Returing_Todays_Apointsments.png)
 
 **Outcome:**  
 - Developed a fully operational, scalable database system.  
@@ -197,17 +194,17 @@ Developed ML models to predict client subscription to term deposits using real w
 
 **Key Visualizations:**  
 
-1. **Data Exploration for Banking Dataset**  
+**Data Exploration for Banking Dataset**  
    ![MLDM Calls](assets/MLDM_Calls.png)
 
-2. **Data Exploration for Rice Dataset**  
-   ![Rice Data Exploration](assets/Value.png)
-
-3. **Model Performance on Banking Dataset**  
+**Model Performance on Banking Dataset**  
    ![KNN Classification](assets/KNNCLASSIFICATION.png)  
    ![Decision Tree Classification](assets/Decsiiontreeclassicifation.png)
 
-4. **Model Performance on Agriculture Dataset**  
+**Data Exploration for Rice Dataset**  
+   ![Rice Data Exploration](assets/Value.png)
+
+**Model Performance on Agriculture Dataset**  
    ![Model Comparison](assets/MODELCOmparison.png)
 
 **Actionable Recommendations For Banking DataSet:**  
@@ -257,28 +254,24 @@ Developed ML models for customer segmentation using clustering techniques to ide
 **Key Visualizations:**  
 
  **Credit Card Dataset**
-
-- **Correlation Analysis**  
+ 
+ **Number of Clusters**  
+  ![No of Clusters](assets/No_of_Clusters.png)
+ **Correlation Analysis**  
   ![Correlation](assets/CLUstering_Corelation.png)
-
-- **Dendrogram**  
+**Dendrogram**  
   ![Dendrogram](assets/Dendogram.png)
-
-- **K-Means Clustering**  
+ **K-Means Clustering**  
   ![K-Means](assets/Kmeans-Clusters.png)
 
 **2. Obesity Dataset** 
 
-- **Number of Clusters**  
-  ![No of Clusters](assets/No_of_Clusters.png)
 
-- **Skewness**  
+  **Skewness**  
   ![Skewness](assets/ClusteringEDA.png)
-
-- **EDA**  
-  ![EDA](assets/Heatmap.png)
-
-- **Clusters for this Dataset**  
+  **HeatMap**  
+  ![HeatMap](assets/Heatmap.png)
+  **Clusters for this Dataset**  
   ![Clusters](assets/Clusters.png)
 
    

@@ -79,11 +79,93 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 ---
 
 ## **Key Visualizations**  
+
+## **Process**  
+1. **Data Cleaning:**  
+   - Handled missing values and outliers, ensuring data consistency.  
+2. **Exploratory Data Analysis (EDA):**  
+   - Analyzed distributions and relationships using visualizations.  
+3. **Hypothesis Testing:**  
+   - Conducted t-tests and chi-square tests to validate assumptions.  
+4. **Regression Analysis:**  
+   - Built linear regression models and evaluated performance.  
+5. **ANOVA:**  
+   - Compared means across groups to identify significant differences.  
+6. **Visualization:**  
+   - Created visualizations using **ggplot2** for clear insights.  
+
+
+## **Tools Used**  
+- **R** (ggplot2, dplyr, tidyr, caret, stats, etc)  
+
+---
+
+## **Key Visualizations**  
 1. **Libraries Used**  
    ![Libraries Used](assets/Libraries_used.png)  
 2. **Numerical Variable Distribution**  
    ![Numerical Distribution](assets/Distribution_of_Numerical.png)  
-...
+3. **Categorical Variable Distribution**  
+   ![Categorical Distribution](assets/Catergorical_Distribution.png)  
+4. **Correlation Analysis**  
+   ![Correlation Matrix](assets/Corelation.png)  
+5. **Age Distribution**  
+   ![Age Distribution](assets/Distribtion_off_Age.png)  
+6. **Simple Linear Regression (SLR) Assumptions**  
+   ![SLR Assumptions](assets/SRL_Assumptions.png)  
+7. **Regression Model Results**  
+   ![Regression Model](assets/RegressionModel.png)  
+8. **Generalized Additive Model (GAM)**  
+   ![GAM Model](assets/Gam_Model.png)  
+     
+## **Outcome**  
+- Delivered actionable insights and statistical reports to stakeholders.  
+- Created visualizations and dashboards for effective communication.  
+  
+### 🔹 **B.Time Series Forecasting Models in R  
+**Duration:** Nov 2024 - Dec 2024  
+
+## **Dataset**  
+[Vital Statistics in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables)  
+
+## **Code**  
+[Vital Statistics in the UK - Time Series Modelling](https://github.com/mananabbasi/Time-Series-Modelling/blob/main/Birth_time_series.R)  
+
+## **Objective**  
+To develop accurate time series forecasting models for predicting future trends, enabling stakeholders to optimize business strategies.  
+
+## **Process**  
+1. **Data Preparation:**  
+   - Collected and cleaned historical time series data.  
+   - Ensured stationarity using transformations (e.g., differencing).  
+2. **Model Selection:**  
+   - Evaluated **ARIMA**, **SARIMA**, and **ETS** models for accuracy.  
+3. **Model Evaluation:**  
+   - Used **RMSE** and **MAE** to measure model performance.  
+   - Performed cross-validation to ensure robustness.  
+4. **Visualization:**  
+   - Created visualizations to compare predicted vs actual values.  
+
+## **Tools Used**  
+- **R**
+
+## **Key Visualizations**  
+1. **Time Series Plot**  
+   ![Time Series](assets/TimeSeries.png)  
+2. **Additive Model with Trend**  
+   ![Additive Model](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png)  
+3. **Partial Correlogram**  
+   ![Partial Correlogram](assets/partial_corelegram.png)  
+4. **Forecasting Results**  
+   ![Forecasting](assets/TS_Forcasting.png)  
+5. **Forecast Errors**  
+   ![Forecast Errors](assets/TS_Forcast_Errors.png)  
+
+## **Outcome**  
+- Provided actionable insights through thorough EDA and robust regression model evaluation.  
+- Significantly improved inventory management efficiency and informed data-driven decision-making.
+
+
 
 ---
 

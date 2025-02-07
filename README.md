@@ -377,9 +377,9 @@ Sentiment analysis has been performed on the **Movies Reviews dataset**.
 **📂 Code File:** 
 - **Sentiment Analysis:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Sentiment_Analysis.ipynb)  
 
+---  
 
-
-### **A. Classification Models on Azure ML Designer**  
+### **A. Classification Models on Azure ML Designer**  <a name="classification-models-using-azure-ml-designer"></a> 
 **Duration:** Sep 2024 - Present  
 
 **Dataset:**  

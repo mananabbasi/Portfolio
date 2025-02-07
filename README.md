@@ -347,7 +347,37 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 - Regularly audit models to minimize bias.
 - Use insights responsibly for business decisions.
 
-### Classification Models using Azure ML Designer <a name="classification-models-using-azure-ml-designer"></a>
+**Machine Learning and Data Mining Extended Projects** 
+
+This repository contains various machine learning projects, including classification, clustering, and sentiment analysis. The datasets used are from reputable sources, and the implementations are provided as Jupyter notebooks.  
+
+**📌 Classification Models on Obesity Dataset**
+Classification models have been built using different techniques on the **Obesity dataset**.  
+
+🔗 **Dataset:** [Estimation of Obesity Levels Based on Eating Habits and Physical Condition](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)  
+
+**📂 Code Files:**
+- **Decision Tree Classifier:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_Decision_Tree.ipynb)  
+- **K-Nearest Neighbors (KNN) Classifier:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_KNN.ipynb)  
+
+**#📌 Clustering Models on Online Shoppers Purchasing Intention Dataset**  
+Clustering models have been applied to the **Online Shoppers Purchasing Intention Dataset** from the UCI Machine Learning Repository.  
+
+🔗 **Dataset:** [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)  
+
+ **📂 Code Files:**  
+ - **Hierarchical Clustering:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Clustering_Hierarchical.ipynb)  
+- **K-Means Clustering:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Clustering_Kmeans.ipynb)  
+
+**📌 Sentiment Analysis on Movie Reviews** 
+Sentiment analysis has been performed on the **Movies Reviews dataset**.  
+
+🔗 **Dataset:** [Movies_Reviews_Modified_Version1](https://www.kaggle.com/datasets/nltkdata/movie-review)  
+
+**📂 Code File:** 
+- **Sentiment Analysis:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Sentiment_Analysis.ipynb)  
+
+
 
 #### 🔹 **A. Classification Models on Azure ML Designer**  
 **Duration:** Sep 2024 - Present  
@@ -465,7 +495,11 @@ Create interactive, real-time dashboards for monitoring business performance and
 #### **Key Visualizations**  
  **1.Population  Growth by Real-Time Insights by Region and Country Group***
    **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
-   ![Final Dashboard](assets/Final_Dashboard.png)
+   **Dashboard 1**
+  ![Final Dashboard](assets/Final_Dashboard.png)
+   **Dashboard 2**
+  ![Complete Dashboard](assets/Complete_Dashboard.png)
+  
 **Outcome:**  
 -The dashboard provides a comprehensive overview of global population trends, showcasing how population dynamics have evolved between 1960 and 2022.
 - Overall Population Growth: Displays the total population growth across all regions during this period.

@@ -379,7 +379,7 @@ Sentiment analysis has been performed on the **Movies Reviews dataset**.
 
 
 
-#### 🔹 **A. Classification Models on Azure ML Designer**  
+### **A. Classification Models on Azure ML Designer**  
 **Duration:** Sep 2024 - Present  
 
 **Dataset:**  

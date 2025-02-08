@@ -169,21 +169,11 @@ The total number of appointments is shown in the following visualization:
 ---
 ---
 
-#### 🔹 **A. Classification Models in Python for Banking**  
+#### 🔹 **A. Real-Time Data Classification Models in Python**  
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
 Developed ML models to predict client subscription to term deposits using real world dataset.
-
-**Dataset:**  
-
-- **[Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)**  
-
-- **[Cinar & Koklu (2019) Rice Variety Dataset](https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik)**  
-  
-**CodeS:**  
-- [KNN Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/KNN%20-%20Classification%20with%20Class%20Imbalance.ipynb)  
-- [Decision Tree Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Classification%20Decision_Tree%20with%20class%20imbalance.ipynb)
 
 **Process:**  
 - Preprocessed data and built **classification** Models (Logistic Regression, Random Forest, SVM, K-Means, DBSCAN).  
@@ -195,21 +185,23 @@ Developed ML models to predict client subscription to term deposits using real w
 
 **Tools Used:** Python, Scikit-learn, Pandas, Matplotlib
 
-**Key Visualizations:**  
+**📌 1- Classification Models On Banking Datasets:**  
 
-**Data Exploration for Banking Dataset**  
+- 🔗 **Dataset:** **[Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)**  
+  
+**📂 Code Files:**  
+- [KNN Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/KNN%20-%20Classification%20with%20Class%20Imbalance.ipynb)  
+- [Decision Tree Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Classification%20Decision_Tree%20with%20class%20imbalance.ipynb)
+
+**📊 Key Visualizations from Banking Dataset:**  
+
+**Data Exploration**  
    ![MLDM Calls](assets/MLDM_Calls.png)
 
-**Model Performance on Banking Dataset**  
+**Model Performance**  
    ![KNN Classification](assets/KNNCLASSIFICATION.png)  
    ![Decision Tree Classification](assets/Decsiiontreeclassicifation.png)
-
-**Data Exploration for Rice Dataset**  
-   ![Rice Data Exploration](assets/Value.png)
-
-**Model Performance on Agriculture Dataset**  
-   ![Model Comparison](assets/MODELCOmparison.png)
-
+   
 **Actionable Recommendations For Banking DataSet:**  
 - Use **Decision Tree** over KNN for better performance.  
 - Focus on **call duration for Banking dataset** (Feature 12).  
@@ -217,13 +209,50 @@ Developed ML models to predict client subscription to term deposits using real w
 - Optimal campaign timing: **mid-month** and **summer months**.  
 - Prioritize **mobile contact** and impactful first interactions.
   
+**📌 2- Classification Models On Agricukture Datasets:**  
+- 🔗 **Dataset:** **[Cinar & Koklu (2019) Rice Variety Dataset](https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik)**
+  
+**📊 Key Visualizations from Agricukture Dataset:**  
+**Data Exploration for Agriculture Dataset**  
+   ![Rice Data Exploration](assets/Value.png)
+
+**Model Performance on Agriculture Dataset**  
+   ![Model Comparison](assets/MODELCOmparison.png)
+
 **Actionable Recommendations For Agriculture DataSet:**  
   
 -  Implement machine learning models to classify rice varieties, improving accuracy in quality control and sorting.  
 -  Use KNN classification insights to optimize rice variety categorization, enhancing inventory management and logistics.
 -  Leverage data for better breeding strategies and customized farming techniques, boosting crop yield and quality.
-  
+
+
+**📌 3- Classification Models on Obesity Dataset**
+Classification models have been built using different techniques on the **Obesity dataset**.  
+
+🔗 **Dataset:** **[Estimation of Obesity Levels Based on Eating Habits and Physical Condition]**(https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)  
+
+**📂 Code Files:**
+- **Decision Tree Classifier:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_Decision_Tree.ipynb)  
+- **K-Nearest Neighbors (KNN) Classifier:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_KNN.ipynb)
+
+**📊 Key Visualizations from Obesity Dataset:**  
+**Gender Distribution**
+![Gender Distribution](assets/Gender.png)  
+
+**Age Distribution**
+![Age Distribution](assets/Agedistribution.png)  
+
+**Confusion Matrix**  
+![Confusion Matrix](assets/Confusionmatrix.png)   
 ---
+
+**Actionable Recommendations For Agriculture DataSet:**  
+- AI-driven nutrition & fitness programs for better health recommendations.  
+- Identify at-risk individuals and collaborate with insurers for prevention.  
+- Launch smart health devices, AI assessments, and tailored meal plans.  
+- Track obesity trends and optimize strategies with dashboards. 
+
+
 
 #### 🔹 **B. Customer Segmentation Using K-Means and Hierarchical Clustering on Credit Card Data**  
 **Duration:** Sep 2024 - Present  
@@ -351,14 +380,6 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 
 This repository contains various machine learning projects, including classification, clustering, and sentiment analysis. The datasets used are from reputable sources, and the implementations are provided as Jupyter notebooks.  
 
-**📌 Classification Models on Obesity Dataset**
-Classification models have been built using different techniques on the **Obesity dataset**.  
-
-🔗 **Dataset:** [Estimation of Obesity Levels Based on Eating Habits and Physical Condition](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)  
-
-**📂 Code Files:**
-- **Decision Tree Classifier:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_Decision_Tree.ipynb)  
-- **K-Nearest Neighbors (KNN) Classifier:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_KNN.ipynb)  
 
 **#📌 Clustering Models on Online Shoppers Purchasing Intention Dataset**  
 Clustering models have been applied to the **Online Shoppers Purchasing Intention Dataset** from the UCI Machine Learning Repository.  

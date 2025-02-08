@@ -67,7 +67,7 @@ I am proficient in a range of tools and technologies that help me effectively an
 
 **Dataset:** 
  [Concrete Compressive Strength](https://www.kaggle.com/datasets/ruchikakumbhar/concrete-strength-prediction).
-**R Analysis Repository:** [GitHub Repository](https://github.com/mananabbasi/Applied_Statistics_-_Data_Visualisation_)
+**📂 Code File:**  [GitHub Repository](https://github.com/mananabbasi/Applied_Statistics_-_Data_Visualisation_)
 
 **Objective:**  
 To perform statistical analysis on the dataset, uncover insights, and support data-driven decision-making by understanding relationships between variables.
@@ -109,7 +109,7 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 **Duration:** Nov 2024 - Dec 2024  
 **Dataset:** [Vital Statistics in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables).
 
-**Code:** [Vital Statistics in the UK - Time Series Modelling](https://github.com/mananabbasi/Time-Series-Modelling/blob/main/Birth_time_series.R)
+**📂 Code File:**  [Vital Statistics in the UK - Time Series Modelling](https://github.com/mananabbasi/Time-Series-Modelling/blob/main/Birth_time_series.R)
 
 **Objective:**  
 To develop accurate time series forecasting models for predicting future trends, enabling stakeholders to optimize business strategies.
@@ -152,6 +152,9 @@ Designed and implemented a scalable, high-performance hospital database to manag
 **Tools Used:**  
 - **Microsoft SQL Server**, **T-SQL**
 **Key Visualizations**  
+
+**📂 Code File:** 
+- [SQL Databases](https://github.com/mananabbasi/Data-Science-Project-using-the-3NF-to-create-tables-and-insert-data-using-contrain-using-Advance-SQL)
 
  **Database Diagram**  
 The database structure is visualized in the diagram below:
@@ -209,10 +212,10 @@ Developed ML models to predict client subscription to term deposits using real w
 - Optimal campaign timing: **mid-month** and **summer months**.  
 - Prioritize **mobile contact** and impactful first interactions.
   
-**📌 2- Classification Models On Agricukture Datasets:**  
+**📌 2- Classification Models On Agriculture Datasets:**  
 - 🔗 **Dataset:** **[Cinar & Koklu (2019) Rice Variety Dataset](https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik)**
   
-**📊 Key Visualizations from Agricukture Dataset:**  
+**📊 Key Visualizations from Agriculture Dataset:**  
 **Data Exploration for Agriculture Dataset**  
    ![Rice Data Exploration](assets/Value.png)
 
@@ -254,7 +257,7 @@ Classification models have been built using different techniques on the **Obesit
 
 
 
-#### 🔹 **B. Customer Segmentation Using K-Means and Hierarchical Clustering on Credit Card Data**  
+#### 🔹 **B. Customer Segmentation Using K-Means and Hierarchical Clustering **  
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
@@ -289,8 +292,7 @@ Developed ML models for customer segmentation using clustering techniques to ide
   ![Correlation](assets/CLUstering_Corelation.png)
 **Dendrogram**  
   ![Dendrogram](assets/Dendogram.png)
- **K-Means Clustering**  
-  ![K-Means](assets/Kmeans-Clusters.png)
+ 
    
 **Recommendations for Credit Card DataSet:**  
 - **K-Means (2 Clusters):** Simple segmentation for broad targeting.  
@@ -342,17 +344,7 @@ Developed ML models for customer segmentation using clustering techniques to ide
 **Duration:** Sep 2024 - Present  
 
 **Objective**  
-
-Developed ML models to analyze sentiment and classify customer reviews from McDonald's US stores and Twitter trends across the world.
-
-**Datasets**  
-
-- [US McDonald's Stores Reviews Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)
-- [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/bansalstuti/twitter-sentimental-analysis)
-
-
-**Code:**  
-- [Sentiment Analysis and Text Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Sentimental_Analysis_and_Text_Classification_on_MacDonalds_Dataset.ipynb)
+Developed ML models to analyze sentiment and classify customer reviews from McDonald's US stores , movies and Twitter trends across the world.
 
 **Process:**  
 - **Data Preprocessing:** Cleaned data, tokenized, lemmatized, and encoded features with **NLTK** and **Scikit-learn**.  
@@ -365,16 +357,30 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 **Tools Used:**  
 - Python, **Scikit-learn**, **Pandas**, **Matplotlib**, **NLTK**, **TextBlob**
 
-**Key Visualizations from Macdonald Dataset:**  
+ **📌 1- Sentiment Analysis on the entire U.S. McDonald's reviews dataset**  
+ 
+🔗 **Dataset:** - [US McDonald's Stores Reviews Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews)
+**📂 Code Files:**  
+- [Sentiment Analysis and Text Classification](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Sentimental_Analysis_and_Text_Classification_on_MacDonalds_Dataset.ipynb)
 
+**📊 Key Visualizations from Macdonald Dataset:**  
  **Sentiment Distribution**  
    ![Overall Sentiment](assets/OVerallsentiment.png)
 **Positive Reviews**  
    ![Positive Reviews](assets/POsitivereviews.png)
 **Negative Reviews & Word Clouds**  
    ![Negative Word Cloud](assets/Nogativeword.png)
+   
+**Recommendations from Macdonald Dataset:**  
+- **Text Classification:** Use models for real-time customer sentiment analysis and response.  
+- **Sentiment Insights:** Focus on improving food quality and service speed at underperforming stores (e.g., Miami Beach).
 
-**Key Visualizations from Twitter Dataset**
+
+ **📌 2- Sentiment Analysis on twitter reviews dataset**  
+
+🔗 **Dataset:** [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/bansalstuti/twitter-sentimental-analysis)
+
+**📊 Key Visualizations from Twitter Dataset**
 **Sentiments Across the World**  
    ![Sentiments of Tweets](assets/Sentimentsoftweets.png)
 
@@ -386,43 +392,32 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
  **Word Cloud Across Sentiments**  
    ![Word Cloud](assets/Wordcout.png)
 
-
-**Recommendations from Macdonald Dataset:**  
-- **Text Classification:** Use models for real-time customer sentiment analysis and response.  
-- **Sentiment Insights:** Focus on improving food quality and service speed at underperforming stores (e.g., Miami Beach).
-
 **Recommendations from Twitter Dataset:**  
 - Ensure data privacy through anonymization.
 - Regularly audit models to minimize bias.
 - Use insights responsibly for business decisions.
 
-
-**#📌 Clustering Models on Online Shoppers Purchasing Intention Dataset**  
-Clustering models have been applied to the **Online Shoppers Purchasing Intention Dataset** from the UCI Machine Learning Repository.  
-
-🔗 **Dataset:** [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)  
-
- **📂 Code Files:**  
- - **Hierarchical Clustering:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Clustering_Hierarchical.ipynb)  
-- **K-Means Clustering:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Clustering_Kmeans.ipynb)  
-
 **📌 Sentiment Analysis on Movie Reviews** 
-Sentiment analysis has been performed on the **Movies Reviews dataset**.  
 
 🔗 **Dataset:** [Movies_Reviews_Modified_Version1](https://www.kaggle.com/datasets/nltkdata/movie-review)  
-
 **📂 Code File:** 
-- **Sentiment Analysis:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Sentiment_Analysis.ipynb)  
+- **Sentiment Analysis:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Sentiment_Analysis.ipynb)
+**📊 Key Visualizations from Movie Review Dataset**
+**Positive Reviews**
+  ![Positive Reviews](assets/positive.png)
+**WordC loud**
+  ![Word Cloud](assets/Wordcloud.png)
 
+**Recommendations from Movies Reviews Dataset:**  
+- Focus on anonymizing data for privacy, improving content through better storytelling, tailoring strategies by genre, and monitoring sentiment for real-time adjustments. Localize campaigns, address negative feedback, and build anticipation with teasers.
+- Use feedback for future improvements and personalize recommendations to enhance viewer engagement.
 ---  
 
 ### **A. Classification Models on Azure ML Designer**  <a name="classification-models-using-azure-ml-designer"></a> 
 **Duration:** Sep 2024 - Present  
-
-**Dataset:**  
+🔗 **Dataset:** 
 [Banking Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
-
-**Code:**  
+**📂 Code File:** 
 [Azure ML Designer Code](https://github.com/mananabbasi/Azure-ML-Designer)
 
 **Process:**  
@@ -437,7 +432,7 @@ Sentiment analysis has been performed on the **Movies Reviews dataset**.
 **Tools Used:**  
 - **Azure ML Studio**, **Azure ML Designer**, **Logistic Regression**, **Decision Tree**, **Random Forest**, **SVM**, **Hyperparameter Tuning**
 
-**Key Visualizations:**  
+**📊 Key Visualizations:**  
 - **Model Comparison**:  
    ![Decision Tree and Random Forest](assets/DecisiontreeandRandomForest.png)  
 
@@ -493,7 +488,7 @@ Analyze large-scale Steam datasets using **PySpark** on **Databricks**, with dat
 **Dataset:**  
 - 🎮 [Steam Games Dataset](https://github.com/win7guru/steam-dataset-2024/blob/main/games.zip)  
 
-**Code Repository:**  
+**📂 Code File:**  
 [GitHub: Data Analysis, Visualization & ALS Evaluation](https://github.com/mananabbasi/Data-Analysis-Visualization-ALS-Evaluation-in-Databricks)
 
 **Process:**  
@@ -508,7 +503,7 @@ Analyze large-scale Steam datasets using **PySpark** on **Databricks**, with dat
 **Tools Used:**  
 - **PySpark** (RDDs, DataFrames, Spark SQL), **Databricks**, **Python**
 
-**Key Visualizations:**  
+**📊 Key Visualizations:**  
 - **Top 10 Recommendations per User**  
   ![Top 10 Recommendations](assets/Top10.png)
 
@@ -529,7 +524,7 @@ Create interactive, real-time dashboards for monitoring business performance and
 **Tools Used:**  
 - **Power BI**, **DAX**, **SQL**
 
-#### **Key Visualizations**  
+#### **📊Key Visualizations**  
  **1.Population  Growth by Real-Time Insights by Region and Country Group***
    **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
    **Dashboard 1**

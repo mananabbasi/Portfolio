@@ -517,7 +517,7 @@ Analyze large-scale Steam datasets using **PySpark** on **Databricks**, with dat
 #### 🔹 **A. Power BI Dashboards: Real-Time Insights by Region and Country Group**  
 **Duration:** Jan 2024 - Current  
 
-**Other Dashboards:** [GitHub Repository](https://github.com/mananabbasi/Dashboard-Power-bi)
+🔗 **Dashboards Repository:**  [GitHub Repository](https://github.com/mananabbasi/Dashboard-Power-bi)
 
 **Objective:**  
 Create interactive, real-time dashboards for monitoring business performance and enabling data-driven decision-making.
@@ -544,7 +544,7 @@ Create interactive, real-time dashboards for monitoring business performance and
 -  Urban vs. Rural Population Trends: Highlights the shift in population distribution between urban and rural areas, apturing significant urbanization patterns.
 
 **2.HIV Data Dashboard Outcomes by Region and Country Group***
-   **Dataset:** [World Population Prospects 2024](https://population.un.org/wpp/)  
+  🔗 **Dataset:**  [World Population Prospects 2024](https://population.un.org/wpp/)  
    ![Final Dashboard](assets/Dashboard.png)
    
 **Outcome:**  
@@ -556,7 +556,7 @@ Create interactive, real-time dashboards for monitoring business performance and
 
 
 **3. Sales Report Dashboard***
-   **Dataset:** [https://www.makeovermonday.co.uk/)  
+  🔗 **Dataset:** [World Trend](https://www.makeovermonday.co.uk/)
    ![Final Dashboard](assets/SalesReport.png)
 **Outcome:**  
 - February 25, 2019, achieved the highest sales, totaling $253,915.47.
@@ -564,11 +564,11 @@ Create interactive, real-time dashboards for monitoring business performance and
 - The company should continue investing in the Bikes product category and focus on Value Added Reseller and Warehouse business types for sustained growth..
   
 **4. European Energy Transition(2000-2020)***
-   **Dataset:** [[https://www.makeovermonday.co.uk](https://acleddata.com/data/)/)  
+    🔗 **Dataset:** [Energy Dataset 2000 - 2020](https://acleddata.com/data/)/)  
    ![Final Dashboard](assets/2ndDash.png)
    
 **5. European Energy Transition***
-   **Dataset:** [[https://www.makeovermonday.co.uk](https://acleddata.com/data/)/)  
+   🔗 **Dataset:** [Energu Dataset](https://acleddata.com/data/)/)  
    ![Final Dashboard](assets/2ndDashboard.png)
 **Outcome:**  
 - These dashboard provides insights into European energy production and consumption from 2000 to 2020. It focuses on fossil fuels, renewable energy, and nuclear energy trends across EU countries and the UK.

@@ -140,8 +140,9 @@ To develop accurate time series forecasting models for predicting future trends,
 
 #### 🔹 **A. Hospital Database Development (Microsoft SQL Server)**  
 **Duration:** Jan 2024 - Apr 2024  
-**📂 Code File:** 
-- [SQL Databases](https://github.com/mananabbasi/Data-Science-Project-using-the-3NF-to-create-tables-and-insert-data-using-contrain-using-Advance-SQL)
+**📂 Code Files:** 
+- [Hospital Database](https://github.com/mananabbasi/Data-Science-Project-using-the-3NF-to-create-tables-and-insert-data-using-contrain-using-Advance-SQL/blob/main/%4000752004_task1.sql.sql)
+- [Restuarent Database](https://github.com/mananabbasi/Data-Science-Project-using-the-3NF-to-create-tables-and-insert-data-using-contrain-using-Advance-SQL/blob/main/%4000752004_task2.sql.sql)
   
 **Objective:**  
 Designed and implemented a scalable, high-performance hospital database to manage large volumes of data.
@@ -155,9 +156,10 @@ Designed and implemented a scalable, high-performance hospital database to manag
 - **Microsoft SQL Server**, **T-SQL**
 **Key Visualizations**  
 
- **Database Diagram**  
-The database structure is visualized in the diagram below:
-![Database Diagram](assets/Data_Base_Diagram.png)
+**Database Diagram for Restuarent**  
+  ![Restuarent Diagram](assets/Restuarent_Datadiagram.png)
+**Database Diagram for Hospiatl**  
+![Hospiatl Diagram](assets/Data_Base_Diagram.png)
  **Total Appointments** 
 The total number of appointments is shown in the following visualization:
 ![Total Appointments](assets/Appointsments.png)
@@ -411,7 +413,6 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 
 **Recommendations from Movies Reviews Dataset:**  
 - Focus on anonymizing data for privacy, improving content through better storytelling, tailoring strategies by genre, and monitoring sentiment for real-time adjustments. Localize campaigns, address negative feedback, and build anticipation with teasers.
-- Use feedback for future improvements and personalize recommendations to enhance viewer engagement.
 ---  
 
 ### **A. Classification Models on Azure ML Designer**  <a name="classification-models-using-azure-ml-designer"></a> 

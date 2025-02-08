@@ -65,7 +65,7 @@ I am proficient in a range of tools and technologies that help me effectively an
 #### 🔹 **A. Statistical Analysis & Advanced Statistics using R**  
 **Duration:** Sep 2024 - Dec 2025  
 
-**Dataset:** 
+🔗 **Dataset:** 
  [Concrete Compressive Strength](https://www.kaggle.com/datasets/ruchikakumbhar/concrete-strength-prediction).
 **📂 Code File:**  [GitHub Repository](https://github.com/mananabbasi/Applied_Statistics_-_Data_Visualisation_)
 
@@ -83,7 +83,7 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 **Tools Used:**  
 - **R** (ggplot2, dplyr, tidyr, caret, stats, etc.)
 
-#### **Key Visualizations**   
+#### **📊 Key Visualizations**   
 **Numerical Variable Distribution**  
    ![Numerical Distribution](assets/Distribution_of_Numerical.png)  
 **Categorical Variable Distribution**  
@@ -107,7 +107,7 @@ To perform statistical analysis on the dataset, uncover insights, and support da
 
 #### 🔹 **B. Time Series Forecasting Models in R**  
 **Duration:** Nov 2024 - Dec 2024  
-**Dataset:** [Vital Statistics in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables).
+🔗 **Dataset:**  [Vital Statistics in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables).
 
 **📂 Code File:**  [Vital Statistics in the UK - Time Series Modelling](https://github.com/mananabbasi/Time-Series-Modelling/blob/main/Birth_time_series.R)
 
@@ -123,7 +123,7 @@ To develop accurate time series forecasting models for predicting future trends,
 **Tools Used:**  
 - **R** (forecast, tseries, ggplot2)
 
-#### **Key Visualizations**   
+#### **📊 Key Visualizations**   
 **Additive Model with Increasing or Decresing Trends**
   ![Additive Model with Trend](assets/Additive_model_with_increasing_or_decreasing_trend_and_no_seasonality.png)
 **Forecasting Results**  
@@ -140,7 +140,9 @@ To develop accurate time series forecasting models for predicting future trends,
 
 #### 🔹 **A. Hospital Database Development (Microsoft SQL Server)**  
 **Duration:** Jan 2024 - Apr 2024  
-
+**📂 Code File:** 
+- [SQL Databases](https://github.com/mananabbasi/Data-Science-Project-using-the-3NF-to-create-tables-and-insert-data-using-contrain-using-Advance-SQL)
+  
 **Objective:**  
 Designed and implemented a scalable, high-performance hospital database to manage large volumes of data.
 
@@ -152,9 +154,6 @@ Designed and implemented a scalable, high-performance hospital database to manag
 **Tools Used:**  
 - **Microsoft SQL Server**, **T-SQL**
 **Key Visualizations**  
-
-**📂 Code File:** 
-- [SQL Databases](https://github.com/mananabbasi/Data-Science-Project-using-the-3NF-to-create-tables-and-insert-data-using-contrain-using-Advance-SQL)
 
  **Database Diagram**  
 The database structure is visualized in the diagram below:
@@ -311,7 +310,7 @@ Developed ML models for customer segmentation using clustering techniques to ide
   **HeatMap**  
   ![HeatMap](assets/Heatmap.png)
   **Clusters for this Dataset**  
-  ![Clusters](assets/Clusters.png)
+  ![Clusters](assets/PCA.png)
 
 **Recommendations for Obesity  DataSet:**  
 - Tailor healthcare products and interventions based on distinct obesity patterns to improve treatment outcomes.
@@ -397,7 +396,7 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 - Regularly audit models to minimize bias.
 - Use insights responsibly for business decisions.
 
-**📌 Sentiment Analysis on Movie Reviews** 
+**📌 3- Sentiment Analysis on Movie Reviews** 
 
 🔗 **Dataset:** [Movies_Reviews_Modified_Version1](https://www.kaggle.com/datasets/nltkdata/movie-review)  
 **📂 Code File:** 
@@ -405,8 +404,10 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 **📊 Key Visualizations from Movie Review Dataset**
 **Positive Reviews**
   ![Positive Reviews](assets/positive.png)
-**WordC loud**
+**WordCloud**
   ![Word Cloud](assets/Wordcloud.png)
+**Confusion Matrix**
+  ![Confusion Matrix](assets/Twitter_Confusion.png)
 
 **Recommendations from Movies Reviews Dataset:**  
 - Focus on anonymizing data for privacy, improving content through better storytelling, tailoring strategies by genre, and monitoring sentiment for real-time adjustments. Localize campaigns, address negative feedback, and build anticipation with teasers.
@@ -485,7 +486,7 @@ Efficiently process and analyze large-scale datasets using **PySpark** on **Data
 **Objective:**  
 Analyze large-scale Steam datasets using **PySpark** on **Databricks**, with data visualization and **ALS (Alternating Least Squares)** for recommendation system evaluation.
 
-**Dataset:**  
+🔗 **Dataset:** 
 - 🎮 [Steam Games Dataset](https://github.com/win7guru/steam-dataset-2024/blob/main/games.zip)  
 
 **📂 Code File:**  

@@ -12,6 +12,9 @@ A showcase of my work in data analysis, machine learning, and visualization, hig
   - [Statistical Analysis Projects with R](#statistical-analysis-projects-with-r)  
   - [Advanced SQL Database Development Projects](#advanced-sql-database-development-projects)  
   - [Data Mining & Machine Learning Projects in Python](#data-mining--machine-learning-projects-in-python)  
+    - [A. Real-Time Data Classification Models in Python](#classification-models-in-python)  
+    - [B. Customer Segmentation Using K-Means and Hierarchical Clustering](#clustering-in-python)  
+    - [C. Sentiment Analysis and Text Classification on Real-Time Datasets](#sentimental-analysics-in-python)  
   - [Classification Models using Azure ML Designer](#classification-models-using-azure-ml-designer)  
   - [Databricks Projects with PySpark](#databricks-projects-with-pyspark)  
   - [Power BI Dashboard Development Projects](#power-bi-dashboard-development-projects)
@@ -173,7 +176,8 @@ The total number of appointments is shown in the following visualization:
 ---
 ---
 
-#### 🔹 **A. Real-Time Data Classification Models in Python**  
+#### 🔹 **A. Real-Time Data Classification Models in Python** <a name="classification-models-in-python"></a>  
+
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
@@ -231,13 +235,12 @@ Developed ML models to predict client subscription to term deposits using real w
 
 
 **📌 3- Classification Models on Obesity Dataset**
-Classification models have been built using different techniques on the **Obesity dataset**.  
 
 🔗 **Dataset:** **[Estimation of Obesity Levels Based on Eating Habits and Physical Condition]**(https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)  
 
 **📂 Code Files:**
-- **Decision Tree Classifier:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_Decision_Tree.ipynb)  
-- **K-Nearest Neighbors (KNN) Classifier:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_KNN.ipynb)
+- [Decision Tree Classifier:](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_Decision_Tree.ipynb)  
+- [K-Nearest Neighbors (KNN) Classifier:](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Classification_KNN.ipynb)
 
 **📊 Key Visualizations from Obesity Dataset:**  
 **Gender Distribution**
@@ -258,7 +261,8 @@ Classification models have been built using different techniques on the **Obesit
 
 
 
-#### 🔹 **B. Customer Segmentation Using K-Means and Hierarchical Clustering **  
+#### 🔹 **B. Customer Segmentation Using K-Means and Hierarchical Clustering** <a name="clustering-in-python"></a>
+
 **Duration:** Sep 2024 - Present  
 
 **Objective:**  
@@ -341,7 +345,7 @@ Developed ML models for customer segmentation using clustering techniques to ide
 
 ---
 
-#### 🔹 **C. Sentiment Analysis and Text Classification on US McDonald's Reviews Dataset**  
+#### 🔹 **C. Sentiment Analysis and Text Classification on Real Time Dataset**  <a name="sentimental-analysics-in-python"></a>
 **Duration:** Sep 2024 - Present  
 
 **Objective**  

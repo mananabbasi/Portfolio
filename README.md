@@ -260,17 +260,6 @@ Classification models have been built using different techniques on the **Obesit
 **Objective:**  
 Developed ML models for customer segmentation using clustering techniques to identify distinct groups and optimize marketing strategies.
 
-**Dataset:**  
-- **[Credit Card Marketing Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?resource=download)**  
-  
-
-- **[Estimation of Obesity Levels Based on Eating Habits and Physical Condition](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)**  
-
-
-**Codes:**  
-- [K-Means Clustering](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/ClusteringK-Means.ipynb)  
-- [Hierarchical Clustering](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Dendogram_Clustring.ipynb)
-
 **Process:**  
 - **Data Preparation:** Cleaned and encoded data using **Pandas**.  
 - **Clustering:** Applied **K-Means** and **Hierarchical Clustering**, scaled features, and used **PCA** for dimensionality reduction.  
@@ -283,9 +272,16 @@ Developed ML models for customer segmentation using clustering techniques to ide
 **Tools Used:**  
 - Python, Scikit-learn, Pandas, Matplotlib
 
-**Key Visualizations:**  
+ **📌 1- Clustering Models On Credit Card Marketing Dataset:**  
 
- **Credit Card Dataset**
+🔗 **Dataset:** **[Credit Card Marketing Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata?resource=download)**
+
+**📂 Code Files:**  
+- [K-Means Clustering](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/ClusteringK-Means.ipynb)  
+- [Hierarchical Clustering](https://github.com/mananabbasi/Machine-Learning-and-Data-Mining-/blob/main/Dendogram_Clustring.ipynb)
+
+
+**📊Key Visualizations from Credit Card Marketing Dataset:**  
  
  **Number of Clusters**  
   ![No of Clusters](assets/No_of_Clusters.png)
@@ -295,18 +291,6 @@ Developed ML models for customer segmentation using clustering techniques to ide
   ![Dendrogram](assets/Dendogram.png)
  **K-Means Clustering**  
   ![K-Means](assets/Kmeans-Clusters.png)
-
-**2. Obesity Dataset** 
-
-
-  **Skewness**  
-  ![Skewness](assets/ClusteringEDA.png)
-  **HeatMap**  
-  ![HeatMap](assets/Heatmap.png)
-  **Clusters for this Dataset**  
-  ![Clusters](assets/Clusters.png)
-
-   
    
 **Recommendations for Credit Card DataSet:**  
 - **K-Means (2 Clusters):** Simple segmentation for broad targeting.  
@@ -314,8 +298,44 @@ Developed ML models for customer segmentation using clustering techniques to ide
 - **CASH_ADVANCE:** Target **high users** with rewards, **low users** with education.  
 - **Credit Limit:** Promote for **low usage, high limits** and **raise limits for high usage, low credit limits**.
 
+
+  **📌 2- Clustering Models On Obesity Dataset:**
+  
+- 🔗 **Dataset:** **[Estimation of Obesity Levels Based on Eating Habits and Physical Condition](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)**
+  
+**📊Key Visualizations from Obesity Dataset:**  
+  **Skewness**  
+  ![Skewness](assets/ClusteringEDA.png)
+  **HeatMap**  
+  ![HeatMap](assets/Heatmap.png)
+  **Clusters for this Dataset**  
+  ![Clusters](assets/Clusters.png)
+
 **Recommendations for Obesity  DataSet:**  
 - Tailor healthcare products and interventions based on distinct obesity patterns to improve treatment outcomes.
+
+**📌 3 - Clustering Models on Online Shoppers Purchasing Intention Dataset**  
+
+🔗 **Dataset:** [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)  
+
+ **📂 Code Files:**  
+ - **Hierarchical Clustering:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Clustering_Hierarchical.ipynb)  
+- **K-Means Clustering:** [View Notebook](https://github.com/mananabbasi/Machine-Learning-Data-Mining-Extended-Projects/blob/main/Clustering_Kmeans.ipynb)
+
+**📊 Key Visualizations from Online Shoppers Purchasing Intention Dataset:**
+ **Skewness**
+![Skewness](assets/AverageRevenue.png)
+**Revenue Distribution**
+![Revenue Distribution](assets/Distribution.png)
+**Customer Clusters**
+![Customer Clusters](assets/Clusters.png)
+
+**Recommendations for Online Shoppers Purchasing Intention DataSet:**  
+- Use the 2-cluster segmentation to personalize campaigns for returning and new visitors, offering loyalty rewards or introductory promotions.
+- Tailor the user experience based on cluster behavior (e.g., Bounce Rates, Product Interaction), offering more engaging content for high-engagement users.
+- Focus on high-value clusters by offering exclusive offers or upsell opportunities, while experimenting with strategies to boost low-value clusters.
+- Develop loyalty programs for returning visitors to improve retention and engagement.
+
 ---
 
 #### 🔹 **C. Sentiment Analysis and Text Classification on US McDonald's Reviews Dataset**  
@@ -375,10 +395,6 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 - Ensure data privacy through anonymization.
 - Regularly audit models to minimize bias.
 - Use insights responsibly for business decisions.
-
-**Machine Learning and Data Mining Extended Projects** 
-
-This repository contains various machine learning projects, including classification, clustering, and sentiment analysis. The datasets used are from reputable sources, and the implementations are provided as Jupyter notebooks.  
 
 
 **#📌 Clustering Models on Online Shoppers Purchasing Intention Dataset**  

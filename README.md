@@ -70,7 +70,8 @@ I am proficient in a range of tools and technologies that help me effectively an
 
 🔗 **Dataset:** 
  [Concrete Compressive Strength](https://www.kaggle.com/datasets/ruchikakumbhar/concrete-strength-prediction).
-**📂 Code File:**  [GitHub Repository](https://github.com/mananabbasi/Applied_Statistics_-_Data_Visualisation_)
+**📂 Github Repository:**  [GitHub Repository](https://github.com/mananabbasi/Applied_Statistics_-_Data_Visualisation_)
+**📂 Code File:**  [Code](https://github.com/mananabbasi/Applied_Statistics_-_Data_Visualisation_/blob/main/Statistical%20Analylics%20%20For%20Concrete%20Compressive%20Strength%20Data%20set.R)
 
 **Objective:**  
 To perform statistical analysis on the dataset, uncover insights, and support data-driven decision-making by understanding relationships between variables.

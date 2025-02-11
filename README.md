@@ -457,13 +457,15 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
 **Objective:**  
 Efficiently process and analyze large-scale datasets using **PySpark** on **Databricks**, creating optimized data pipelines for big data challenges.
 
-**Datasets:**  
+🔗 **Dataset:**
 - [Clinical Dataset](https://clinicaltrials.gov/data-api/about-api/csv-download)  
 - [Pharma Sales Dataset](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data)
 
-**Code:**  
-[Code Repository](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-)
-
+**📂 Code Files:** 
+[Github Repository](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-)
+[RDD](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-/blob/main/Abdul_Manan_Abbasi_Rdd.ipynb)
+[Dataframe](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-/blob/main/Abdul_Manan_Abbasi_%20Data%20Frame.ipynb)
+[SQL](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-/blob/main/Abdul_Manan_Abbasi_SQL.sql)
 **Process:**  
 1. **Data Import & Transformation:**  
    - Used **RDDs** and **DataFrames** to load and clean large datasets.  
@@ -475,8 +477,44 @@ Efficiently process and analyze large-scale datasets using **PySpark** on **Data
 3. **Big Data Processing:**  
    - Processed large datasets for real-time insights.
 
-4. **Visualization:**  
+**📊 Key Visualizations:**  
    - Used **Databricks Notebooks** to visualize data and generate reports.
+ 1. **Working with RDDs**
+
+- **Data Cleaning with RDDs**  
+  Visualized the data cleaning process using RDD transformations.  
+  ![RDD Cleaning](assets/RDD_Cleaning.png)
+
+- **Completed Studies Analysis**  
+  Overview of completed studies using RDD.  
+  ![Completed Studies](assets/RDD_COMPLETED_Studies.png)
+
+- **Sponsor Type Analysis**  
+  Visualization of different sponsor types in the data.  
+  ![Sponsor Type](assets/RDD_Sponcertype.png)
+
+- **Overview of Completed Studies**  
+  A summary and insights on completed studies.  
+  ![Completed Studies Overview](assets/Completed_studies.png)
+
+ **2. Working with DataFrames**
+
+- **Data Cleaning with DataFrames**  
+  Visualized the process of cleaning and transforming data within DataFrames.  
+  ![Data Cleaning with DataFrame](assets/DataCleaning_Dataframe.png)
+
+- **Creating DataFrame Schema**   
+  ![Creating DataFrame Schema](assets/Making_dataframe_schema.png)
+
+- **Schema Design**  
+  Visualization of the DataFrame schema structure.  
+  ![Schema Design](assets/Schema.png)
+
+ **3. Working with SQL**
+- **SQL-Based Data Analysis**    
+  ![SQL Analysis](assets/SQL.png)
+
+This repository highlights various techniques for cleaning, visualizing, and analyzing data using **RDDs**, **DataFrames**, and **SQL** in **Databricks Notebooks**.
 
 **Outcome:**  
 - Developed scalable pipelines for large-scale data processing, enabling real-time analytics.

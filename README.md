@@ -397,6 +397,8 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
    ![Top Words](assets/TOpwords.png)
  **Word Cloud Across Sentiments**  
    ![Word Cloud](assets/Wordcout.png)
+   **Confusion Matrix**
+  ![Confusion Matrix](assets/Twitter_Confusion.png)
 
 **Recommendations from Twitter Dataset:**  
 - Ensure data privacy through anonymization.
@@ -413,8 +415,7 @@ Developed ML models to analyze sentiment and classify customer reviews from McDo
   ![Positive Reviews](assets/positive.png)
 **WordCloud**
   ![Word Cloud](assets/Wordcloud.png)
-**Confusion Matrix**
-  ![Confusion Matrix](assets/Twitter_Confusion.png)
+
 
 **Recommendations from Movies Reviews Dataset:**  
 - Focus on anonymizing data for privacy, improving content through better storytelling, tailoring strategies by genre, and monitoring sentiment for real-time adjustments. Localize campaigns, address negative feedback, and build anticipation with teasers.
@@ -495,7 +496,7 @@ Efficiently process and analyze large-scale datasets using **PySpark** on **Data
 
 - **Overview of Completed Studies**  
   A summary and insights on completed studies.  
-  ![Completed Studies Overview](assets/Completed_studies.png)
+  ![Completed Studies Overview](assets/Completed_studeis.png)
 
  **2. Working with DataFrames**
 

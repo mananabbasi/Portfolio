@@ -461,12 +461,21 @@ Efficiently process and analyze large-scale datasets using **PySpark** on **Data
 🔗 **Dataset:**
 - [Clinical Dataset](https://clinicaltrials.gov/data-api/about-api/csv-download)  
 - [Pharma Sales Dataset](https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data)
+# 📂 Code Files
+This repository contains the code used for the **Data Science Complete Project** utilizing Big Data tools and techniques. Below are the links to the respective code files:
 
-**📂 Code Files:** 
-[Github Repository](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-)
-[RDD](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-/blob/main/Abdul_Manan_Abbasi_Rdd.ipynb)
-[Dataframe](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-/blob/main/Abdul_Manan_Abbasi_%20Data%20Frame.ipynb)
-[SQL](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-/blob/main/Abdul_Manan_Abbasi_SQL.sql)
+- **[GitHub Repository](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-)**  
+  Main repository containing all project resources.
+
+- **[RDD Notebook](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-/blob/main/Abdul_Manan_Abbasi_Rdd.ipynb)**  
+  Notebook demonstrating operations and analysis with **RDD**.
+
+- **[DataFrame Notebook](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-/blob/main/Abdul_Manan_Abbasi_%20Data%20Frame.ipynb)**  
+  Notebook for data manipulation and analysis using **DataFrames**.
+
+- **[SQL Script](https://github.com/mananabbasi/Data-Science-Complete-Project-using-Big-Data-Tools-Techniques-/blob/main/Abdul_Manan_Abbasi_SQL.sql)**  
+  SQL script used for performing queries and data analysis.
+
 **Process:**  
 1. **Data Import & Transformation:**  
    - Used **RDDs** and **DataFrames** to load and clean large datasets.  

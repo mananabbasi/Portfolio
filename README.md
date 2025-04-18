@@ -3,26 +3,48 @@
 A showcase of my work in data analysis, machine learning, and visualization, highlighting my ability to extract insights and build data-driven solutions.
 
 ---
-
 ## 📌 Table of Contents  
 - [🌟 About Me](#-about-me)  
 - [🛠 Skills](#-skills)  
 - [⚙ Tools & Technologies](#-tools--technologies)  
 - [🚀 Projects](#-projects)  
+  - [Dissertation](#dissertation)
+    - [1. Introduction](#introduction)
+    - [2. DataSet](#dataset)
+    - [3. Cryptocurrency Trends and Global Adoption](#cryptocurrency-trends-and-global-adoption)  
+      - [Conducting Statistical Testing to Check Impact of Events on Bitcoin Price](#conducting-statistical-testing-to-check-impact-of-events-on-bitcoin-price)
+    - [4. Social Media Sentiment and Behavioral Insights: Analyzing Bitcoin Tweets (2021–2023)](#social-media-sentiment-and-behavioral-insights-analyzing-bitcoin-tweets-2021-2023)  
+      - [Minibatch K-Means Clustering Algorithm](#minibatch-k-means-clustering-algorithm)
+      - [Sentiment Analysis](#sentiment-analysis)
+    - [5. Influencer Users' Tweets on Cryptocurrency (Feb 2021 – Jun 2023) Tweet Dataset](#influencer-users-tweets-on-cryptocurrency-feb-2021-jun-2023-tweet-dataset)  
+      - [Topic Modeling: Analyzing Tweet Themes and Engagement](#topic-modeling-analyzing-tweet-themes-and-engagement)
+    - [6. Analyzing Bitcoin Price Data (Minute-by-Minute) and Capturing the Trends from 2012 Till 2025](#analyzing-bitcoin-price-data-minute-by-minute-and-capturing-the-trends-from-2012-till-2025)  
+      - [K-Means Clustering](#k-means-clustering)
+    - [7. Combined Analysis of Twitter Sentiment and Bitcoin Market Data](#combined-analysis-of-twitter-sentiment-and-bitcoin-market-data)  
+      - [Doing Statistical Testing](#doing-statistical-testing)
+    - [8. Predictive Modeling Using Combined Sentiment and Bitcoin Price Data](#predictive-modeling-using-combined-sentiment-and-bitcoin-price-data)  
+      - [Model Selection and Training](#model-selection-and-training)
+      - [Non-Linear Models](#non-linear-models)
+        - [Model 1: XGBoost Regressor Model](#model-1-xgboost-regressor-model)
+        - [Model 2: Random Forest Regressor Model](#model-2-random-forest-regressor-model)
+      - [Comparing Both Models](#comparing-both-models)
+      - [Model Recommendations](#model-recommendations)
+    - [9. Conclusion](#conclusion)
   - [Statistical Analysis Projects with R](#statistical-analysis-projects-with-r)  
   - [Advanced SQL Database Development Projects](#advanced-sql-database-development-projects)  
   - [Data Mining & Machine Learning Projects in Python](#data-mining--machine-learning-projects-in-python)  
     - [A. Real-Time Data Classification Models in Python](#classification-models-in-python)  
     - [B. Customer Segmentation Using K-Means and Hierarchical Clustering](#clustering-in-python)  
-    - [C. Sentiment Analysis and Text Classification on Real-Time Datasets](#sentimental-analysics-in-python)  
+    - [C. Sentiment Analysis and Text Classification on Real-Time Datasets](#sentimental-analysis-in-python)  
   - [Classification Models using Azure ML Designer](#classification-models-using-azure-ml-designer)  
   - [Databricks Projects with PySpark](#databricks-projects-with-pyspark)  
-  - [Power BI Dashboard Development Projects](#power-bi-dashboard-development-projects)
-  - [Current Projects](#current-projects)
+  - [Power BI Dashboard Development Projects](#power-bi-dashboard-development-projects)  
+  - [Current Projects](#current-projects)  
 - [💼 Work Experience](#-work-experience)  
 - [🎓 Education](#-education)  
 - [🎯 Activities](#-activities)  
-- [📞 Contact](#-contact)  
+- [📞 Contact](#-contact)
+
 
 ---
 

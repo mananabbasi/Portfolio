@@ -12,19 +12,19 @@ A showcase of my work in data analysis, machine learning, and visualization, hig
 - [🚀 Projects](#projects)  
   - [Dissertation](#dissertation)
     - [1. Introduction](#1-introduction)
-    - [2. Datasets Used](#2-datasets-used)
-    - [3. Cryptocurrency Trends and Global Adoption](#3-cryptocurrency-trends-and-global-adoption)  
+    - [2. Dataset](#2-dataset)
+    - [3. Cryptocurrency Trends and Global Adoption](#3-cryptocurrency-trends-and-global-adoption)
       - [Conducting Statistical Testing to Check Impact of Events on Bitcoin Price](#conducting-statistical-testing-to-check-impact-of-events-on-bitcoin-price)
-    - [4. Social Media Sentiment and Behavioral Insights: Analyzing Bitcoin Tweets (2021–2023)](#4-social-media-sentiment-and-behavioral-insights-analyzing-bitcoin-tweets-20212023)  
+    - [4. Social Media Sentiment and Behavioral Insights: Analyzing Bitcoin Tweets (2021–2023)](#4-social-media-sentiment-and-behavioral-insights-analyzing-bitcoin-tweets-20212023)
       - [Minibatch K-Means Clustering Algorithm](#minibatch-k-means-clustering-algorithm)
       - [Sentiment Analysis](#sentiment-analysis)
-    - [5. Influencer Users' Tweets on Cryptocurrency (Feb 2021 – Jun 2023) Tweet Dataset](#5-influencer-users-tweets-on-cryptocurrency-feb-2021--jun-2023-tweet-dataset)  
+    - [5. Influencer Users' Tweets on Cryptocurrency (Feb 2021 – Jun 2023) Tweet Dataset](#5-influencer-users-tweets-on-cryptocurrency-feb-2021--jun-2023-tweet-dataset)
       - [Topic Modeling: Analyzing Tweet Themes and Engagement](#topic-modeling-analyzing-tweet-themes-and-engagement)
-    - [6. Analyzing Bitcoin Price Data (Minute-by-Minute) and Capturing the Trends from 2012 Till 2025](#6-analyzing-bitcoin-price-data-minute-by-minute-and-capturing-the-trends-from-2012-till-2025)  
+    - [6. Analyzing Bitcoin Price Data (Minute-by-Minute) and Capturing the Trends from 2012 Till 2025](#6-analyzing-bitcoin-price-data-minute-by-minute-and-capturing-the-trends-from-2012-till-2025)
       - [K-Means Clustering](#k-means-clustering)
-    - [7. Combined Analysis of Twitter Sentiment and Bitcoin Market Data](#7-combined-analysis-of-twitter-sentiment-and-bitcoin-market-data)  
+    - [7. Combined Analysis of Twitter Sentiment and Bitcoin Market Data](#7-combined-analysis-of-twitter-sentiment-and-bitcoin-market-data)
       - [Doing Statistical Testing](#doing-statistical-testing)
-    - [8. Predictive Modeling Using Combined Sentiment and Bitcoin Price Data](#8-predictive-modeling-using-combined-sentiment-and-bitcoin-price-data)  
+    - [8. Predictive Modeling Using Combined Sentiment and Bitcoin Price Data](#8-predictive-modeling-using-combined-sentiment-and-bitcoin-price-data)
       - [Model Selection and Training](#model-selection-and-training)
       - [Non-Linear Models](#non-linear-models)
         - [Model 1: XGBoost Regressor Model](#model-1-xgboost-regressor-model)
@@ -46,6 +46,190 @@ A showcase of my work in data analysis, machine learning, and visualization, hig
 - [🎓 Education](#education)  
 - [🎯 Activities](#activities)  
 - [📞 Contact](#contact)
+
+---
+
+## Dissertation  
+This dissertation explores the growth and volatility of the cryptocurrency market, focusing on Bitcoin, and examines how social media sentiment and app adoption influence market behavior. The study analyzes global trends in cryptocurrency exchange app adoption from 2015 to 2022, considering regional and demographic differences. It also investigates the impact of over 500,000 Bitcoin-related tweets (2021–2023) using NLP, sentiment analysis, and LDA techniques, with a focus on how influential figures shape public sentiment and Bitcoin price movements.
+
+The research aims to better understand the drivers of cryptocurrency market volatility and price fluctuations. By combining historical Bitcoin price data with social media sentiment, the study will develop predictive models to forecast future trends and volatility, offering valuable insights for traders, investors, and policymakers.
+
+
+#### 1. Introduction
+This dissertation focuses on analyzing cryptocurrency adoption, social media sentiment, and market behavior, specifically for Bitcoin. It involves the collection and preprocessing of various datasets, including global cryptocurrency adoption trends, Bitcoin-related tweets from 2021 to 2023, and minute-by-minute Bitcoin price data. The data is cleaned, standardized, and aligned to ensure consistency, and then explored through visualizations such as global adoption maps, time series plots, and sentiment distributions.
+
+The research employs Natural Language Processing (NLP) to analyze tweet sentiment and extract key topics, and it applies feature engineering techniques to Bitcoin data, creating indicators such as moving averages and volatility. To identify patterns in the data, clustering techniques are also used.
+
+For modeling, two regression models—XGBoost and Random Forest—are selected due to their ability to handle complex, non-linear relationships. These models will be trained using data from 2021, 2022, and 2023, and evaluated based on metrics such as RMSE, R-squared, volatility, and MAPE. The goal is to develop predictive models for cryptocurrency trends and volatility, offering insights for traders, investors, and policymakers.
+
+#### 2. Dataset
+
+I have gathered reliable data from multiple platforms, including CoinMarketCap, Mendeley Data, Twitter, and Kaggle, to create four distinct datasets, each serving a specific purpose.
+
+### Datasets Overview
+
+**1. Cryptocurrency Adoption and Exchange Activity (2015–2022)**
+This dataset tracks the growth of cryptocurrency users, app downloads, and activity across various cryptocurrency exchanges from 2015 to 2022. Data is sourced from the [Bank for International Settlements](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.bis.org%2Fpubl%2Fwork1049_data_xls.xlsx&wdOrigin=BROWSELINK).
+
+**2. Bitcoin Tweets (2021–2023)**
+This collection includes Bitcoin-related tweets from 2021, 2022, and 2023, which will be analyzed using Natural Language Processing (NLP) and sentiment analysis to assess public sentiment and its impact on Bitcoin price movements.
+
+- [Bitcoin Tweets (2021)](https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets/versions/17)
+- [Bitcoin Tweets (2022)](https://www.kaggle.com/datasets/alishafaghi/bitcoin-tweets-dataset)
+- [Bitcoin Tweets (2023)](https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets?select=Bitcoin_tweets_dataset_2.csv)
+
+ **3. Influencer Tweets**
+This dataset contains tweets from 52 influential figures in the cryptocurrency space. The data is sourced from [Mendeley Data - Influencers Tweets](https://data.mendeley.com/datasets/8fbdhh72gs/5/files/159e4f05-0903-45c1-b12e-e4038805bd97).
+
+**4. Bitcoin Historical Price Data (2012–Present)**
+This dataset includes minute-by-minute Bitcoin price data from 2012 to the present, sourced from [Kaggle Bitcoin Historical Data](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data).
+
+
+These datasets will provide a comprehensive basis for analyzing global cryptocurrency adoption trends, social media sentiment, and Bitcoin price behavior. By integrating these sources, the analysis aims to uncover insights into market trends, investor psychology, and the impact of social media on Bitcoin price fluctuations.
+
+
+
+#### 3. Cryptocurrency Trends and Global Adoption
+Trends from 2015–2022, global app usage, download spikes, and key event impacts.
+
+**3.2.1 Introduction**
+This analysis explores cryptocurrency exchange app adoption across the G20, G7, and 33 countries, using a comprehensive dataset spanning from August 2015 to June 2022. The dataset is organized across ten sheets and captures various dimensions, including user activity, demographics, and the relationship between Bitcoin price trends and app usage. It also offers insights into how external events have influenced cryptocurrency adoption and overall market behavior.
+
+**3.2.2 Dataset Source**
+The dataset can be accessed via the following link:
+[Bank for International Settlements Data](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.bis.org%2Fpubl%2Fwork1049_data_xls.xlsx&wdOrigin=BROWSELINK)
+
+**3.2.3 Dataset Overview**
+The dataset provides monthly indicators such as downloads, daily active users (DAUs), user demographics, and correlations with Bitcoin price movements. It offers a global perspective on crypto adoption trends and behavioral patterns. The data is distributed across ten distinct sheets:
+
+- I have approximately ten datasets, each of which will be uploaded individually for analysis.
+- I will clean and preprocess each dataset separately, followed by reporting the findings and insights derived from each.
+
+**3.2.4 Key Visualizations**
+### Key Visualizations
+
+The analysis includes several key visualizations that help in understanding global cryptocurrency adoption trends, sentiment analysis, and the relationship between Bitcoin price movements and social media activity. Below are the primary types of visualizations included in this project:
+
+#### 1. **Global Cryptocurrency Adoption Trends**
+- **Choropleth Maps**: Visualize the global distribution of cryptocurrency adoption by country, highlighting regions with the highest growth in user activity, downloads, and exchange activity from 2015 to 2022.
+  ![Global Adoption](assets/CryptoAdaption.png)
+  
+- **Interactive Dashboards**: Provide dynamic insights into global trends with country-specific data on active users, downloads, and Bitcoin price correlations.
+
+#### 2. **Time Series Visualizations**
+- **Bitcoin Price and Trading Volume**: Line plots and candlestick charts to track Bitcoin price fluctuations and trading volume over time, highlighting major events and market movements.
+  ![Bitcoin Price vs Downloads](assets/Appdownloadprice.png)
+
+#### 3. **Sentiment Distribution** 
+- **Sentiment Trends Over Time**: A line graph to show the positive, negative, and neutral sentiment trends on Twitter for Bitcoin tweets from 2021 to 2023.
+  ![Sentiment Trends](assets/ActiveUserGlobally.png)
+
+- **Word Clouds**: Display the most commonly used terms in Bitcoin-related tweets, with larger words representing higher frequency.
+
+#### 4. **Correlation Between Sentiment and Bitcoin Price**
+- **Scatter Plots**: Show the relationship between sentiment scores of Bitcoin-related tweets and Bitcoin price movements.
+  ![Countries Correlation](assets/CountiresCorelation.png)
+
+- **Box Plots**: To compare the price volatility during different sentiment phases (positive, neutral, negative).
+
+#### 5. **Behavioral Analysis and Market Trends** 
+- **Seasonal Analysis Plots**: Identify seasonal patterns in user behavior and Bitcoin price trends.
+  ![Seasonal Analysis](assets/Seasonal.png)
+
+- **Heatmaps**: To analyze correlations between tweet volume, sentiment, and Bitcoin price during specific time windows.
+  ![Global Performance](assets/GlobalPerformance.png)
+
+#### 6. **Top 10 Countries for Crypto Adoption**
+- **Top Countries**: A bar chart displaying the top 10 countries for cryptocurrency adoption.
+  ![Top 10 Countries for Crypto](assets/TOP_10_countries_for_Crypto.png)
+
+#### 7. **Other Visualizations**
+- **Active Users vs Downloads**: This plot compares the global trend of active users versus downloads.
+  ![Active Users vs Downloads](assets/ActiveUservsDownloads.png)
+  
+- **Impact on Bitcoin Volatility**: How major events in the market affect Bitcoin volatility.
+  ![Impact on Volatility](assets/Impactonvolatilty.png)
+
+- **Loss and Gain Analysis**: Comparing losses and gains in the cryptocurrency market.
+  ![Loss and Gain](assets/Lossandgain.png)
+
+- **Cryptocurrency Exchange Performance**: Visualization of the performance of different cryptocurrency exchanges.
+  ![Crypto Exchange Performance](assets/Cryptoexchange.png)
+
+- **Number of Downloads**: A visualization showing the number of downloads across platforms over time.
+  ![Number of Downloads](assets/NoOFdownloads.png)
+
+---
+
+These visualizations provide a comprehensive view of the dynamics influencing cryptocurrency markets and adoption, allowing for a deeper understanding of market behavior and sentiment shifts.
+
+
+##### Conducting Statistical Testing to Check Impact of Events on Bitcoin Price
+Using  Wilcoxon signed-rank test and event windows to evaluate how key announcements moved prices.
+For the Wilcoxon signed-rank test, which is a non-parametric test (used if the data is not normally distributed):
+•	Null Hypothesis (H₀): There is no significant difference in Bitcoin prices before and after the event. 
+•	Alternative Hypothesis (H₁): There is a significant difference in Bitcoin prices before and after the event
+
+Since the p-value is less than 0.05, we reject the null hypothesis. This indicates that there is a statistically significant difference between Bitcoin prices before and after the event.
+Result from Wilcoxon signed-rank test
+![Wilcoxon Test](assets/WilcoxTest.png)
+
+•	The before event and after event Bitcoin prices are significantly different, based on the Wilcoxon signed-rank test.
+•	Bitcoin price is the biggest driver of engagement, influencing app usage by around 50%, with external events like China's crypto crackdown and Kazakhstan's unrest also playing significant roles.
+
+**Event Impact on Bitcoin**: A chart showing the effect of major events on Bitcoin's price and volatility.
+  ![Impact of Major Events on Bitcoin](assets/Impactofmajoreventonbitcoin.png)
+
+
+#### 4. Social Media Sentiment and Behavioral Insights: Analyzing Bitcoin Tweets (2021–2023)
+Preprocessing, feature extraction, and behavioral clustering of tweets.
+
+##### Minibatch K-Means Clustering Algorithm
+Detecting tweet clusters (e.g., memes, analysis, FUD, bullish signals).
+
+##### Sentiment Analysis
+Using VADER and TextBlob to derive user sentiment patterns.
+
+#### 5. Influencer Users' Tweets on Cryptocurrency (Feb 2021 – Jun 2023) Tweet Dataset
+Tracking popular crypto influencers, tweet timelines, and user engagement.
+
+##### Topic Modeling: Analyzing Tweet Themes and Engagement
+LDA modeling to explore key topics and trends within influencer tweets.
+
+#### 6. Analyzing Bitcoin Price Data (Minute-by-Minute) and Capturing the Trends from 2012 Till 2025
+Decomposing Bitcoin volatility and trend cycles using clustering.
+
+##### K-Means Clustering
+Labeling volatility phases, identifying price regimes and anomaly detection.
+
+#### 7. Combined Analysis of Twitter Sentiment and Bitcoin Market Data
+Aligning tweets and price by timestamp to extract correlation patterns.
+
+##### Doing Statistical Testing
+Hypothesis tests to validate sentiment-price relationships.
+
+#### 8. Predictive Modeling Using Combined Sentiment and Bitcoin Price Data
+Creating models to forecast Bitcoin price using sentiment and historical data.
+
+##### Model Selection and Training
+Modeling pipeline using cross-validation and grid search.
+
+##### Non-Linear Models
+###### Model 1: XGBoost Regressor Model
+Powerful gradient boosting approach for price prediction.
+
+###### Model 2: Random Forest Regressor Model
+Bagging ensemble for capturing sentiment-driven volatility.
+
+##### Comparing Both Models
+Metric evaluation: RMSE, MAE, and R² comparisons.
+
+##### Model Recommendations
+Final suggestions for investors and developers based on results.
+
+#### 9. Conclusion
+Key insights, takeaways, and recommendations for future research.
+
 
 
 ---

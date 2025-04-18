@@ -49,7 +49,44 @@ A showcase of my work in data analysis, machine learning, and visualization, hig
 
 ---
 
-## Dissertation  
+## 🌟 About Me <a name="-about-me"></a>  
+I am a data scientist dedicated to solving complex problems using data-driven methods. Specializing in statistics, machine learning, data visualization, and big data processing, I transform raw data into valuable insights. Always eager to learn, I continuously expand my knowledge and adapt to new technologies in the field.
+
+---
+
+## 🛠 Skills <a name="-skills"></a>  
+
+### Technical Skills:  
+- **Programming Languages**: Python, R, SQL  
+- **Machine Learning**: Classification, Regression, Clustering, Deep Learning  
+- **Big Data & Cloud**: Spark, Hadoop, AWS, GCP  
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+- **Statistical Analysis**: Hypothesis Testing, ANOVA, Regression Analysis  
+
+### Soft Skills:  
+- **Problem Solving**  
+- **Communication**  
+- **Collaboration**  
+- **Adaptability**  
+- **Critical Thinking**
+
+---
+
+## ⚙ Tools & Technologies <a name="-tools--technologies"></a>  
+I am proficient in a range of tools and technologies that help me effectively analyze data and develop insights.
+
+- **Programming Languages**: Python, R, SQL  
+- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Big Data & Cloud**: AWS, Azure, GCP, Hadoop, Spark  
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
+- **Development Tools**: Jupyter Notebook, VS Code, Git
+
+---
+
+## 🚀 Projects <a name="-projects"></a>  
+
+### Dissertation  
 This dissertation explores the growth and volatility of the cryptocurrency market, focusing on Bitcoin, and examines how social media sentiment and app adoption influence market behavior. The study analyzes global trends in cryptocurrency exchange app adoption from 2015 to 2022, considering regional and demographic differences. It also investigates the impact of over 500,000 Bitcoin-related tweets (2021–2023) using NLP, sentiment analysis, and LDA techniques, with a focus on how influential figures shape public sentiment and Bitcoin price movements.
 
 The research aims to better understand the drivers of cryptocurrency market volatility and price fluctuations. By combining historical Bitcoin price data with social media sentiment, the study will develop predictive models to forecast future trends and volatility, offering valuable insights for traders, investors, and policymakers.
@@ -678,7 +715,7 @@ This visualization displays the time series forecasting results for 2023. It hig
 Bagging ensemble for capturing sentiment-driven volatility.
 
 
-### 📊 **Feature Importance in Random Forest**
+ **Feature Importance in Random Forest**
 ![Feature Importance in Random Forest](assets/Featureimportance.png)
 
 This plot illustrates the feature importance in the Random Forest model. It highlights the most significant features contributing to the prediction of Bitcoin price movements, showing which factors have the largest impact on price changes.
@@ -725,8 +762,6 @@ Overall, XGBoost is ideal for stable market conditions, while Random Forest is b
 
 
 #### 9. Conclusion
-
-
 
 **9.1 Insights & Findings**
 
@@ -776,111 +811,7 @@ Based on the findings, the following strategic recommendations are made for cryp
 - **User Education**: Educate users on risk management to prevent emotional decision-making, particularly during market peaks and crashes.
 - **Monitor External Events**: Keep a close watch on external factors like geopolitical events and regulatory changes, which can have significant impacts on market dynamics.
 
-
-
 ---
-
-## 🌟 About Me <a name="-about-me"></a>  
-I am a data scientist dedicated to solving complex problems using data-driven methods. Specializing in statistics, machine learning, data visualization, and big data processing, I transform raw data into valuable insights. Always eager to learn, I continuously expand my knowledge and adapt to new technologies in the field.
-
----
-
-## 🛠 Skills <a name="-skills"></a>  
-
-### Technical Skills:  
-- **Programming Languages**: Python, R, SQL  
-- **Machine Learning**: Classification, Regression, Clustering, Deep Learning  
-- **Big Data & Cloud**: Spark, Hadoop, AWS, GCP  
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
-- **Statistical Analysis**: Hypothesis Testing, ANOVA, Regression Analysis  
-
-### Soft Skills:  
-- **Problem Solving**  
-- **Communication**  
-- **Collaboration**  
-- **Adaptability**  
-- **Critical Thinking**
-
----
-
-## ⚙ Tools & Technologies <a name="-tools--technologies"></a>  
-I am proficient in a range of tools and technologies that help me effectively analyze data and develop insights.
-
-- **Programming Languages**: Python, R, SQL  
-- **Libraries/Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **Big Data & Cloud**: AWS, Azure, GCP, Hadoop, Spark  
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
-- **Development Tools**: Jupyter Notebook, VS Code, Git
-
----
-
-## 🚀 Projects <a name="-projects"></a>  
-
-
-### Dissertation <a name="-dissertation"></a>  
-A full-scale academic project that explores Bitcoin market behavior, user sentiment, and forecasting trends using a multi-stage data pipeline.
-
-#### 1. Introduction
-Background, motivation, objectives, and overall roadmap of the dissertation.
-
-#### 2. Dataset
-Details of all datasets used — Twitter, App Adoption, and Bitcoin minute-wise data (2012–2025).
-
-#### 3. Cryptocurrency Trends and Global Adoption
-Trends from 2015–2022, global app usage, download spikes, and key event impacts.
-
-##### Conducting Statistical Testing to Check Impact of Events on Bitcoin Price
-Using t-tests and event windows to evaluate how key announcements moved prices.
-
-#### 4. Social Media Sentiment and Behavioral Insights: Analyzing Bitcoin Tweets (2021–2023)
-Preprocessing, feature extraction, and behavioral clustering of tweets.
-
-##### Minibatch K-Means Clustering Algorithm
-Detecting tweet clusters (e.g., memes, analysis, FUD, bullish signals).
-
-##### Sentiment Analysis
-Using VADER and TextBlob to derive user sentiment patterns.
-
-#### 5. Influencer Users' Tweets on Cryptocurrency (Feb 2021 – Jun 2023) Tweet Dataset
-Tracking popular crypto influencers, tweet timelines, and user engagement.
-
-##### Topic Modeling: Analyzing Tweet Themes and Engagement
-LDA modeling to explore key topics and trends within influencer tweets.
-
-#### 6. Analyzing Bitcoin Price Data (Minute-by-Minute) and Capturing the Trends from 2012 Till 2025
-Decomposing Bitcoin volatility and trend cycles using clustering.
-
-##### K-Means Clustering
-Labeling volatility phases, identifying price regimes and anomaly detection.
-
-#### 7. Combined Analysis of Twitter Sentiment and Bitcoin Market Data
-Aligning tweets and price by timestamp to extract correlation patterns.
-
-##### Doing Statistical Testing
-Hypothesis tests to validate sentiment-price relationships.
-
-#### 8. Predictive Modeling Using Combined Sentiment and Bitcoin Price Data
-Creating models to forecast Bitcoin price using sentiment and historical data.
-
-##### Model Selection and Training
-Modeling pipeline using cross-validation and grid search.
-
-##### Non-Linear Models
-###### Model 1: XGBoost Regressor Model
-Powerful gradient boosting approach for price prediction.
-
-###### Model 2: Random Forest Regressor Model
-Bagging ensemble for capturing sentiment-driven volatility.
-
-##### Comparing Both Models
-Metric evaluation: RMSE, MAE, and R² comparisons.
-
-##### Model Recommendations
-Final suggestions for investors and developers based on results.
-
-#### 9. Conclusion
-Key insights, takeaways, and recommendations for future research.
 
 
 ### Statistical Analysis Projects with R <a name="statistical-analysis-projects-with-r"></a>  

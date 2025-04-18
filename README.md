@@ -3,47 +3,49 @@
 A showcase of my work in data analysis, machine learning, and visualization, highlighting my ability to extract insights and build data-driven solutions.
 
 ---
-## 📌 Table of Contents  
-- [🌟 About Me](#-about-me)  
-- [🛠 Skills](#-skills)  
-- [⚙ Tools & Technologies](#-tools--technologies)  
-- [🚀 Projects](#-projects)  
+
+## 📌 Table of Contents
+
+- [🌟 About Me](#about-me)  
+- [🛠 Skills](#skills)  
+- [⚙ Tools & Technologies](#tools--technologies)  
+- [🚀 Projects](#projects)  
   - [Dissertation](#dissertation)
-    - [1. Introduction](#introduction)
-    - [2. DataSet](#dataset)
-    - [3. Cryptocurrency Trends and Global Adoption](#cryptocurrency-trends-and-global-adoption)  
+    - [1. Introduction](#1-introduction)
+    - [2. Datasets Used](#2-datasets-used)
+    - [3. Cryptocurrency Trends and Global Adoption](#3-cryptocurrency-trends-and-global-adoption)  
       - [Conducting Statistical Testing to Check Impact of Events on Bitcoin Price](#conducting-statistical-testing-to-check-impact-of-events-on-bitcoin-price)
-    - [4. Social Media Sentiment and Behavioral Insights: Analyzing Bitcoin Tweets (2021–2023)](#social-media-sentiment-and-behavioral-insights-analyzing-bitcoin-tweets-2021-2023)  
+    - [4. Social Media Sentiment and Behavioral Insights: Analyzing Bitcoin Tweets (2021–2023)](#4-social-media-sentiment-and-behavioral-insights-analyzing-bitcoin-tweets-20212023)  
       - [Minibatch K-Means Clustering Algorithm](#minibatch-k-means-clustering-algorithm)
       - [Sentiment Analysis](#sentiment-analysis)
-    - [5. Influencer Users' Tweets on Cryptocurrency (Feb 2021 – Jun 2023) Tweet Dataset](#influencer-users-tweets-on-cryptocurrency-feb-2021-jun-2023-tweet-dataset)  
+    - [5. Influencer Users' Tweets on Cryptocurrency (Feb 2021 – Jun 2023) Tweet Dataset](#5-influencer-users-tweets-on-cryptocurrency-feb-2021--jun-2023-tweet-dataset)  
       - [Topic Modeling: Analyzing Tweet Themes and Engagement](#topic-modeling-analyzing-tweet-themes-and-engagement)
-    - [6. Analyzing Bitcoin Price Data (Minute-by-Minute) and Capturing the Trends from 2012 Till 2025](#analyzing-bitcoin-price-data-minute-by-minute-and-capturing-the-trends-from-2012-till-2025)  
+    - [6. Analyzing Bitcoin Price Data (Minute-by-Minute) and Capturing the Trends from 2012 Till 2025](#6-analyzing-bitcoin-price-data-minute-by-minute-and-capturing-the-trends-from-2012-till-2025)  
       - [K-Means Clustering](#k-means-clustering)
-    - [7. Combined Analysis of Twitter Sentiment and Bitcoin Market Data](#combined-analysis-of-twitter-sentiment-and-bitcoin-market-data)  
+    - [7. Combined Analysis of Twitter Sentiment and Bitcoin Market Data](#7-combined-analysis-of-twitter-sentiment-and-bitcoin-market-data)  
       - [Doing Statistical Testing](#doing-statistical-testing)
-    - [8. Predictive Modeling Using Combined Sentiment and Bitcoin Price Data](#predictive-modeling-using-combined-sentiment-and-bitcoin-price-data)  
+    - [8. Predictive Modeling Using Combined Sentiment and Bitcoin Price Data](#8-predictive-modeling-using-combined-sentiment-and-bitcoin-price-data)  
       - [Model Selection and Training](#model-selection-and-training)
       - [Non-Linear Models](#non-linear-models)
         - [Model 1: XGBoost Regressor Model](#model-1-xgboost-regressor-model)
         - [Model 2: Random Forest Regressor Model](#model-2-random-forest-regressor-model)
       - [Comparing Both Models](#comparing-both-models)
       - [Model Recommendations](#model-recommendations)
-    - [9. Conclusion](#conclusion)
+    - [9. Conclusion](#9-conclusion)
   - [Statistical Analysis Projects with R](#statistical-analysis-projects-with-r)  
   - [Advanced SQL Database Development Projects](#advanced-sql-database-development-projects)  
   - [Data Mining & Machine Learning Projects in Python](#data-mining--machine-learning-projects-in-python)  
-    - [A. Real-Time Data Classification Models in Python](#classification-models-in-python)  
-    - [B. Customer Segmentation Using K-Means and Hierarchical Clustering](#clustering-in-python)  
-    - [C. Sentiment Analysis and Text Classification on Real-Time Datasets](#sentimental-analysis-in-python)  
+    - [A. Real-Time Data Classification Models in Python](#a-real-time-data-classification-models-in-python)  
+    - [B. Customer Segmentation Using K-Means and Hierarchical Clustering](#b-customer-segmentation-using-k-means-and-hierarchical-clustering)  
+    - [C. Sentiment Analysis and Text Classification on Real-Time Datasets](#c-sentiment-analysis-and-text-classification-on-real-time-datasets)  
   - [Classification Models using Azure ML Designer](#classification-models-using-azure-ml-designer)  
   - [Databricks Projects with PySpark](#databricks-projects-with-pyspark)  
   - [Power BI Dashboard Development Projects](#power-bi-dashboard-development-projects)  
   - [Current Projects](#current-projects)  
-- [💼 Work Experience](#-work-experience)  
-- [🎓 Education](#-education)  
-- [🎯 Activities](#-activities)  
-- [📞 Contact](#-contact)
+- [💼 Work Experience](#work-experience)  
+- [🎓 Education](#education)  
+- [🎯 Activities](#activities)  
+- [📞 Contact](#contact)
 
 
 ---
@@ -84,6 +86,72 @@ I am proficient in a range of tools and technologies that help me effectively an
 ---
 
 ## 🚀 Projects <a name="-projects"></a>  
+
+
+### Dissertation <a name="-dissertation"></a>  
+A full-scale academic project that explores Bitcoin market behavior, user sentiment, and forecasting trends using a multi-stage data pipeline.
+
+#### 1. Introduction
+Background, motivation, objectives, and overall roadmap of the dissertation.
+
+#### 2. Dataset
+Details of all datasets used — Twitter, App Adoption, and Bitcoin minute-wise data (2012–2025).
+
+#### 3. Cryptocurrency Trends and Global Adoption
+Trends from 2015–2022, global app usage, download spikes, and key event impacts.
+
+##### Conducting Statistical Testing to Check Impact of Events on Bitcoin Price
+Using t-tests and event windows to evaluate how key announcements moved prices.
+
+#### 4. Social Media Sentiment and Behavioral Insights: Analyzing Bitcoin Tweets (2021–2023)
+Preprocessing, feature extraction, and behavioral clustering of tweets.
+
+##### Minibatch K-Means Clustering Algorithm
+Detecting tweet clusters (e.g., memes, analysis, FUD, bullish signals).
+
+##### Sentiment Analysis
+Using VADER and TextBlob to derive user sentiment patterns.
+
+#### 5. Influencer Users' Tweets on Cryptocurrency (Feb 2021 – Jun 2023) Tweet Dataset
+Tracking popular crypto influencers, tweet timelines, and user engagement.
+
+##### Topic Modeling: Analyzing Tweet Themes and Engagement
+LDA modeling to explore key topics and trends within influencer tweets.
+
+#### 6. Analyzing Bitcoin Price Data (Minute-by-Minute) and Capturing the Trends from 2012 Till 2025
+Decomposing Bitcoin volatility and trend cycles using clustering.
+
+##### K-Means Clustering
+Labeling volatility phases, identifying price regimes and anomaly detection.
+
+#### 7. Combined Analysis of Twitter Sentiment and Bitcoin Market Data
+Aligning tweets and price by timestamp to extract correlation patterns.
+
+##### Doing Statistical Testing
+Hypothesis tests to validate sentiment-price relationships.
+
+#### 8. Predictive Modeling Using Combined Sentiment and Bitcoin Price Data
+Creating models to forecast Bitcoin price using sentiment and historical data.
+
+##### Model Selection and Training
+Modeling pipeline using cross-validation and grid search.
+
+##### Non-Linear Models
+###### Model 1: XGBoost Regressor Model
+Powerful gradient boosting approach for price prediction.
+
+###### Model 2: Random Forest Regressor Model
+Bagging ensemble for capturing sentiment-driven volatility.
+
+##### Comparing Both Models
+Metric evaluation: RMSE, MAE, and R² comparisons.
+
+##### Model Recommendations
+Final suggestions for investors and developers based on results.
+
+#### 9. Conclusion
+Key insights, takeaways, and recommendations for future research.
+
 
 ### Statistical Analysis Projects with R <a name="statistical-analysis-projects-with-r"></a>  
 

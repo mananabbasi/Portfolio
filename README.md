@@ -110,33 +110,29 @@ The dataset provides monthly indicators such as downloads, daily active users (D
 
 The analysis includes several key visualizations that help in understanding global cryptocurrency adoption trends, sentiment analysis, and the relationship between Bitcoin price movements and social media activity. Below are the primary types of visualizations included in this project:
 
-#### 1. **Global Cryptocurrency Adoption Trends**
+1. **Global Cryptocurrency Adoption Trends**
 - **Choropleth Maps**: Visualize the global distribution of cryptocurrency adoption by country, highlighting regions with the highest growth in user activity, downloads, and exchange activity from 2015 to 2022.
   ![Global Adoption](assets/CryptoAdaption.png)
   
 
-
-#### 2. **Time Series Visualizations**
+2. **Bitcoin Price and Trading Volume**
 - **Bitcoin Price and Trading Volume**: Line plots and candlestick charts to track Bitcoin price fluctuations and trading volume over time, highlighting major events and market movements.
   ![Bitcoin Price vs Downloads](assets/Appdownloadprice.png)
 
-#### 3. **Sentiment Distribution** 
-- **Sentiment Trends Over Time**: A line graph to show the positive, negative, and neutral sentiment trends on Twitter for Bitcoin tweets from 2021 to 2023.
+3. **Active Users Per 100k** 
   ![Sentiment Trends](assets/ActiveUserGlobally.png)
 
-- **Word Clouds**: Display the most commonly used terms in Bitcoin-related tweets, with larger words representing higher frequency.
 
-#### 4. **Correlation Between Sentiment and Bitcoin Price**
-- **Scatter Plots**: Show the relationship between sentiment scores of Bitcoin-related tweets and Bitcoin price movements.
+
+#### 4. **Correlation Between Active Users and Downloads across G7**
   ![Countries Correlation](assets/CountiresCorelation.png)
 
-- **Box Plots**: To compare the price volatility during different sentiment phases (positive, neutral, negative).
 
 #### 5. **Behavioral Analysis and Market Trends** 
 - **Seasonal Analysis Plots**: Identify seasonal patterns in user behavior and Bitcoin price trends.
   ![Seasonal Analysis](assets/Seasonal.png)
 
-- **Heatmaps**: To analyze correlations between tweet volume, sentiment, and Bitcoin price during specific time windows.
+- **Heatmaps**: To analyze correlations between tweet volume, sentiment, and Bitcoin price during specific time.
   ![Global Performance](assets/GlobalPerformance.png)
 
 #### 6. **Top 10 Countries for Crypto Adoption**
@@ -159,7 +155,6 @@ The analysis includes several key visualizations that help in understanding glob
 - **Number of Downloads**: A visualization showing the number of downloads across platforms over time.
   ![Number of Downloads](assets/NoOFdownloads.png)
 
----
 
 These visualizations provide a comprehensive view of the dynamics influencing cryptocurrency markets and adoption, allowing for a deeper understanding of market behavior and sentiment shifts.
 
@@ -231,7 +226,6 @@ The following visualizations help analyze Bitcoin-related tweet volume and senti
    ![Tweet Count per Hour (2021–2023)](assets/Tweetcountforhour20212022023.png)
 
 These visualizations provide a comprehensive overview of the tweet volume dynamics surrounding Bitcoin, allowing for a better understanding of how public sentiment evolves over time.
-
 
 
 ##### Minibatch K-Means Clustering Algorithm
